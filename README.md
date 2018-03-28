@@ -1,7 +1,7 @@
 # QALearn
 
-#Shanu Kumar
+Shanu Kumar
 
-#Harshit Saini
+Harshit Saini
 
-#Robin Singh Rana
+Robin Singh Rana
