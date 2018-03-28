@@ -1,2 +1,2 @@
 #!/bin/bash
-python pdf2txt.py ../samples/UG-Manual.pdf > ug31.txt
+python pdfminer/tools/pdf2txt.py UG-Manual.pdf > ug1.txt
