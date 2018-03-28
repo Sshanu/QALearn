@@ -19,9 +19,13 @@
 
 {% block content %}
 <div class="wrap-contact100">
-    <span class="contact100-form-title">
-                QALearn
-    </span>
+    <div class="row">
+                <div class="col-sm-6" >
+                     <span class="contact100-form-title">
+                        <a class="contact100-form-title" href='/home/'>QALearn</a>
+                    </span>
+                </div>
+    </div>
     
 
     <form action="{% url "upload" %}" class="contact100-form validate-form" method="post" enctype="multipart/form-data">
@@ -47,7 +51,7 @@
             </button>
         </div>
     </form>
-
+<!-- 
     <div class="input100 container-contact100-form-btn">
         {% if documents %}
         <p class="input100"> Documents: </p>
@@ -59,6 +63,6 @@
         {% else %}
             <p>No documents.</p>
         {% endif %}
-    </div>        
+    </div>         -->
 </div>
 {% endblock %}

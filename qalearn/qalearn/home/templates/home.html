@@ -24,58 +24,72 @@
        color:white;
     }
 </style>
-    <div class="wrap-contact100">
-            
-
-           
-            <div class="row">
-               	<div class="col-sm-6" >
-               		 <span class="contact100-form-title">
+    <div class="wrap-contact100">             
+             <span class="contact100-form-title">
                 		<a class="contact100-form-title" href='/home/'>QALearn</a>
-            		</span>
-               	</div>
-                 <div class="container-contact100-form-btn col-sm-6">
-                    <a class="contact100-form-btn" href='/home/upload/' target="_blank"><div class="link">Upload a file</div></a>
-                </div>
-
-
-            </div>
+            </span>
 
             <form method="GET" action='' class="contact100-form validate-form">
+            	<div class="row">
+	            	<div class="input100 container-contact100-form-btn col-sm-3" align="left">
+	                    {% if documents %}
+	                        <select style="width:180px;padding-left:10%;" class="form-control input100" name="file" value= '{{request.GET.file}}'>
+	                        	{% if show%}
+	                            <option class="input100 form-control" selected="selected">{{file}}</option>
+	                            {% else %}
+	                            <option class="input100 form-control" selected="selected">Choose a file</option>
+	                           	{% endif %}
 
-            	 <div class="input100 container-contact100-form-btn col-sm-6">
-                    {% if documents %}
-                        <select style="width:500px;padding-left:20%;" class="form-control input100" name="file" value= '{{request.GET.file}}'>
-                            <option class="input100 form-control" selected="selected">Files</option>
-                            {% for document in documents %}
-                                <option >{{ document.docfile.name }}</option>
-                            {% endfor %}
-                        </select>
-                    {% endif %}
-                </div>
-       			
-	            {% if status %}
-	                    <p class="input100"> Document: <a href="/media/{{file}}">{{file}}</a></p>
-	            {% endif %}
+	                            {% for document in documents %}
+	                                <option >{{ document.docfile.name }}</option>
+	                            {% endfor %}
+	                        </select>
+	                    {% endif %}
+	                </div>
 
+	                 <div class="col-sm-4 container-contact100-form-btn" align="left">
+	                    <button class="contact100-form-btn form-control" style="width: 5%">
+	                        Preview
+	                    </button>
+	                </div>
+
+	                <div class="container-contact100-form-btn col-sm-5" style="display: flex; justify-content: flex-end">
+                    <a class="contact100-form-btn" href='/home/upload/'><div class="link">Upload a file</div></a>
+                	</div>
+           	 	</div>
+
+                
+       			{% if show %}
+	              <div class="container-contact100-form-btn">
+	             <object data="/media/{{file}}" type="application/pdf" frameborder="0" width="100%" height="400px"> 
+				  <p>It appears you don't have a PDF plugin for this browser.
+				   No biggie... you can <a href="/media/{{file}}">click here to
+				  download the PDF file.</a></p>  
+				 </object>
+				 </div>
+             	{% endif %}
+
+                <p class="contact100-form-text"> Question: </p>
                 <div class="wrap-input100 validate-input">
-                    <textarea class="input100" name="question" placeholder="Ask Question" class="form-control" value ='{{request.GET.question}}'>{{ques}}</textarea>
+                    <textarea class="input200" name="question" placeholder="Ask Question" class="form-control" value ='{{request.GET.question}}'>{{ques}}</textarea>
                     <span class="focus-input100"></span>
                 </div>
 
                 <div class="container-contact100-form-btn">
-                    <button class="contact100-form-btn form-control">
+                    <button class="contact100-form-btn form-control" style="width: 30%">
                         Submit
                     </button>
                 </div>
                 {% if status %}
-                    <p class="input100"> Answer: </p>
+                    <p class="contact100-form-text"> Answer: </p>
                     <div class="wrap-input100 validate-input">
                         <textarea readonly class="input100" name="answer">{{answer}}</textarea>
                         <span class="focus-input100"></span>
                     </div>
                 {% endif %}
             </form>
+            
+
 
         </div>
 

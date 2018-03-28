@@ -172,7 +172,7 @@ iframe {
 }
 
 .wrap-contact100 {
-  width: 800px;
+  width: 1000px;
   background: #fff;
   border-radius: 10px;
   overflow: hidden;
@@ -200,9 +200,18 @@ iframe {
   color: #333333;
   line-height: 1.2;
   text-align: left;
-  padding-bottom: 34px;
+  padding-bottom: 20px;
 }
 
+.contact100-form-text{
+  display: block;
+  font-family: SourceSansPro-Bold;
+  font-size: 20px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: left;
+  padding-bottom: 10px;
+}
 /*------------------------------------------------------------------
 [ Input ]*/
 
@@ -234,6 +243,11 @@ input.input100 {
 
 textarea.input100 {
   min-height: 199px;
+  padding: 19px 20px 0 23px;
+}
+
+textarea.input200 {
+  min-height: 100px;
   padding: 19px 20px 0 23px;
 }
 
