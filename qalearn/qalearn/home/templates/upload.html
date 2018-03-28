@@ -1,0 +1,64 @@
+{% extends "header.html" %}
+{% load staticfiles %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="{% static 'home/images/icons/favicon.ico' %}"/>
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/bootstrap/css/bootstrap.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/animate/animate.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/css-hamburgers/hamburgers.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/select2/select2.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/css/util.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'home/css/main.css' %}">
+
+{% block content %}
+<div class="wrap-contact100">
+    <span class="contact100-form-title">
+                QALearn
+    </span>
+    
+
+    <form action="{% url "upload" %}" class="contact100-form validate-form" method="post" enctype="multipart/form-data">
+  
+        <p class="contact100-form-title input100">
+                    {% csrf_token %}
+        </p>
+
+        <p class="input100">{{ form.non_field_errors }}</p>
+
+        <p class="input100">{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+
+        <p class="input100">
+            {{ form.docfile.errors }}
+            {{ form.docfile }}
+        </p>
+
+        <!-- <p class="input100"><input type="submit" value="Upload"/></p> -->
+
+        <div class="container-contact100-form-btn">
+            <button type="submit" class="contact100-form-btn">
+                Upload
+            </button>
+        </div>
+    </form>
+
+    <div class="input100 container-contact100-form-btn">
+        {% if documents %}
+        <p class="input100"> Documents: </p>
+            <ul>
+                {% for document in documents %}
+                    <li><a class="input100" href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>No documents.</p>
+        {% endif %}
+    </div>        
+</div>
+{% endblock %}

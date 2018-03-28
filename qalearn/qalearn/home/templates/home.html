@@ -1,0 +1,82 @@
+{% extends "header.html" %}
+{% load staticfiles %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="{% static 'home/images/icons/favicon.ico' %}"/>
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/bootstrap/css/bootstrap.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/animate/animate.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/css-hamburgers/hamburgers.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/vendor/select2/select2.min.css' %}">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="{% static 'home/css/util.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'home/css/main.css' %}">
+
+{% block content %}
+  <style>
+  .link
+    {
+       color:white;
+    }
+</style>
+    <div class="wrap-contact100">
+            
+
+           
+            <div class="row">
+               	<div class="col-sm-6" >
+               		 <span class="contact100-form-title">
+                		<a class="contact100-form-title" href='/home/'>QALearn</a>
+            		</span>
+               	</div>
+                 <div class="container-contact100-form-btn col-sm-6">
+                    <a class="contact100-form-btn" href='/home/upload/' target="_blank"><div class="link">Upload a file</div></a>
+                </div>
+
+
+            </div>
+
+            <form method="GET" action='' class="contact100-form validate-form">
+
+            	 <div class="input100 container-contact100-form-btn col-sm-6">
+                    {% if documents %}
+                        <select style="width:500px;padding-left:20%;" class="form-control input100" name="file" value= '{{request.GET.file}}'>
+                            <option class="input100 form-control" selected="selected">Files</option>
+                            {% for document in documents %}
+                                <option >{{ document.docfile.name }}</option>
+                            {% endfor %}
+                        </select>
+                    {% endif %}
+                </div>
+       			
+	            {% if status %}
+	                    <p class="input100"> Document: <a href="/media/{{file}}">{{file}}</a></p>
+	            {% endif %}
+
+                <div class="wrap-input100 validate-input">
+                    <textarea class="input100" name="question" placeholder="Ask Question" class="form-control" value ='{{request.GET.question}}'>{{ques}}</textarea>
+                    <span class="focus-input100"></span>
+                </div>
+
+                <div class="container-contact100-form-btn">
+                    <button class="contact100-form-btn form-control">
+                        Submit
+                    </button>
+                </div>
+                {% if status %}
+                    <p class="input100"> Answer: </p>
+                    <div class="wrap-input100 validate-input">
+                        <textarea readonly class="input100" name="answer">{{answer}}</textarea>
+                        <span class="focus-input100"></span>
+                    </div>
+                {% endif %}
+            </form>
+
+        </div>
+
+{% endblock %}
