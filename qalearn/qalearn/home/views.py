@@ -5,29 +5,92 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse
 from qalearn.home.models import Document
 from qalearn.home.forms import DocumentForm
-
+import os
 import json
 import urllib.parse
 import requests
+from file2id import file2id
+from sim2id import sim2id
+import pickle as pkl
 
 def upload(request):
     # Handle file upload
 	context = {}
+	context['file_status'] = 0
+	context['txt_status'] = 0
+	context['data_status'] = 0
+
+	form_status = 0
+	doc_status = 0
+	print("Requesting POST")
+
 	if request.method == 'POST':
 		form = DocumentForm(request.POST, request.FILES)
-		if form.is_valid():
-			newdoc = Document(docfile=request.FILES['docfile'])
-			newdoc.save()
 
-            # Redirect to the document list after POST
-			return HttpResponseRedirect('/home/')
+		if form.is_valid():
+			print("form valid")
+			doc_name,_ = os.path.splitext(request.FILES['docfile'].name)
+
+			try:
+				doc = Document.objects.get(name=doc_name)
+				context['file_status'] = 1
+				form = DocumentForm()  # A empty, unbound form
+				print("object with same name")
+
+			except:
+				print("saving doc")
+				context['file_status'] = 0
+				data_name = doc_name + ".txt"
+				newdoc = Document(docfile=request.FILES['docfile'], name=doc_name)
+				newdoc.save()
+				val = os.system("../pdfminer/tools/pdf2txt.py " + "media/documents/" + request.FILES['docfile'].name + " > media/txt/" + data_name)
+				print(val)
+				if(val == 0):
+					print("txt converted")
+					try:
+						index_list, sections, flag = file2id("media/txt/" + data_name)
+
+						if (flag!=1):
+							print("sections saved")
+							f = open("media/data/" + doc_name, "wb")
+							pkl.dump([index_list, sections], f)
+							f.close()
+
+		            		# Redirect to the document list after POST
+							return HttpResponseRedirect('/home/')				
+						else:
+							print("start > end error in sections")
+							context['data_status'] = 1
+							form_status = 1
+							doc_status = 1
+					except:
+						print("error in extracted sections")
+						context['data_status'] = 1
+						form_status = 1
+						doc_status = 1
+				else:
+					print("error in txt conversion")
+					context['txt_status'] = 1
+					form_status = 1
+					doc_status = 1
 	else:
+		print("form not valid")
+		form_status = 1
+		# context['data_status'] = 0
+
+
+	if(doc_status):
+		doc = Document.objects.get(name=doc_name)
+		doc.delete()
+
+	if(form_status):
 		form = DocumentForm()  # A empty, unbound form
 
 	documents = Document.objects.all()
 	context['documents'] = documents
 	context['form'] = form
     # Render list page with the documents and the form
+	print("form end")
 	return render(
         request,
         'upload.html',

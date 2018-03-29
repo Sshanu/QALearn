@@ -37,6 +37,15 @@
         <p class="input100">
             {{ form.docfile.errors }}
             {{ form.docfile }}
+            {% if file_status %}
+                Already Uploaded
+            {% endif %}
+            {% if txt_status %}
+                Error in converting file to txt
+            {% endif %}
+            {% if data_status %}
+                Error in extracting sections
+            {% endif %}
         </p>
 
         <!-- <p class="input100"><input type="submit" value="Upload"/></p> -->

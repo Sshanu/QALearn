@@ -20,7 +20,9 @@ def sim2id(n, raw_text_file, sections, index_list, query):
     query_arr = query_vector.toarray()
 
     sim_mat = cosine_similarity(titles_arr, query_arr)
+
     top_n = [i[0] for i in sorted(enumerate(sim_mat), key=lambda x:x[1], reverse=True)][:n]
+    top_sim = [i[1][0] for i in sorted(enumerate(sim_mat), key=lambda x:x[1], reverse=True)][:n]
     top_n_ids = [index_list[top_n[i]][2] for i in range(n)]    
     top_n_titles = [index_list[top_n[i]][0] for i in range(n)]
     top_n_sim = [sim_mat[top_n[i]][0] for i in range(n)]
@@ -30,4 +32,4 @@ def sim2id(n, raw_text_file, sections, index_list, query):
     # print('\n\n\n')
     # print(sections[top_n[0]])
     
-    return top_n_ids
+    return top_n_ids, top_sim
