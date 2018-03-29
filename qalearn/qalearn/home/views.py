@@ -101,10 +101,14 @@ def index(request):
 	context={}
 	context['status'] = None
 	context['show'] = None
+	context['file_select_status'] = 0
+	num_ans = 1
+	ans = ""
 	url = "http://allgood.cs.washington.edu:1995/submit?paragraph="
 	para = 'The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.'
 	user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-	headers={'User-Agent':user_agent,} 
+	headers={'User-Agent':user_agent,}
+
 	try:
 		documents = Document.objects.all()
 		context['documents'] = documents
@@ -113,31 +117,50 @@ def index(request):
 		context['documents'] = None
 
 
+	print("Requesting GET")		
 	if(request.method == 'GET'):
-		print("data")
 		ques = request.GET.get('question')
 		file = request.GET.get('file')
-		print(ques)
-		print(file)
-		if file:
+		print("Ques:", ques)
+		print("File:", file)
+
+		if file not in ["Choose a file", None]:
+			print("preview of pdf")
 			context['file'] = file
 			context['show'] = 1
-		if(ques  !=""):
-			try:
-			    print("trying")
-			    final_url = url+urllib.parse.quote_plus(para)+"&question="+urllib.parse.quote_plus(ques)
-			    url_request = urllib.request.Request(final_url,None,headers)
-			    response = urllib.request.urlopen(url_request)
-			    data = response.read()
-			    json_data = json.loads(data.decode())
-			    try:
-			        ans = json_data['result']
-			        context['status'] = 1
-			        context['answer'] = ans
-			        context["ques"] = ques
-			    except:
-			        print("no answer")
-			except:
-			    print("internet down")
-		print(context['show'])
+
+		if (file not in ["Choose a file", None]):
+			if (ques  not in ["", None]):
+				
+				print("loading data")
+				f = open("media/data/" + file, "rb")
+				index_list, sections = pkl.load(f)
+				f.close()
+				print("calculating similarity")
+				top_ids, top_sims = sim2id(num_ans, "media/txt/" + file + ".txt", sections, index_list, ques)
+
+				for i in range(num_ans):
+					if(top_sims[i] >= 0.1):
+						try:
+							print("sending data to bidaf")
+							final_url = url+urllib.parse.quote_plus(sections[top_ids[i]])+"&question="+urllib.parse.quote_plus(ques)
+							url_request = urllib.request.Request(final_url,None,headers)
+							response = urllib.request.urlopen(url_request)
+							data = response.read()
+							json_data = json.loads(data.decode())
+							try:
+								print("retriving answer")
+								ans += json_data['result'] + "\n\n"
+								context['status'] = 1
+								context['answer'] = ans
+								context["ques"] = ques
+
+							except:
+								print("no answer")
+						except:
+							print("internet down")
+		else:
+			context['file_select_status'] = 1
+
+	print("end of index")
 	return render(request, 'home.html', context)

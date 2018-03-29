@@ -27,9 +27,9 @@ def sim2id(n, raw_text_file, sections, index_list, query):
     top_n_titles = [index_list[top_n[i]][0] for i in range(n)]
     top_n_sim = [sim_mat[top_n[i]][0] for i in range(n)]
     # print(top_n_sim)
-    # print(top_n_ids)
-    print(top_n_titles)
+    for i in range(n):
+        print(i+1, "section ids:", top_n_ids[i], " section: ", top_n_titles[i])
     # print('\n\n\n')
     # print(sections[top_n[0]])
     
-    return top_n_ids, top_sim
+    return top_n, top_sim
