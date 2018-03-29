@@ -21,8 +21,8 @@
 }
 
 @font-face {
-  font-family: lucida-console;
-  src: url('../fonts/JosefinSans/lucida-console.ttf'); 
+  font-family: SourceSansPro-Regular;
+  src: url('../fonts/JosefinSans/SourceSansPro-Regular.ttf'); 
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -36,12 +36,12 @@
 
 body, html {
 	height: 100%;
-	font-family: lucida-console, sans-serif;
+	font-family: SourceSansPro-Regular, sans-serif;
 }
 
 /*---------------------------------------------*/
 a {
-	font-family: lucida-console;
+	font-family: SourceSansPro-Regular;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -66,7 +66,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
-	font-family: lucida-console;
+	font-family: SourceSansPro-Regular;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -76,7 +76,7 @@ p {
 ul, li {
 	margin: 0px;
 	list-style-type: none;
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
 
 }
 
@@ -200,7 +200,7 @@ iframe {
 
 .contact100-form-title {
   display: block;
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 30px;
   color: #333333;
   line-height: 1.2;
@@ -210,7 +210,7 @@ iframe {
 
 .contact100-form-text{
   display: block;
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 20px;
   color: #333333;
   line-height: 1.2;
@@ -232,7 +232,7 @@ iframe {
   display: block;
   width: 100%;
   background: transparent;
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 16px;
   color: #4b2354;
   line-height: 1.2;
@@ -316,7 +316,7 @@ textarea.input200 {
   background-color: #bd59d4;
   border-radius: 21px;
 
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 14px;
   color: #fff;
   line-height: 1.2;
@@ -393,14 +393,14 @@ textarea.input200 {
   padding: 0 45px 0 22px;
   pointer-events: none;
 
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 16px;
   color: #fa4251;
   line-height: 1.2;
 }
 
 .btn-hide-validate {
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 15px;
   color: #fa4251;
   cursor: pointer;
@@ -423,7 +423,7 @@ textarea.input200 {
 
 .true-validate::after {
   content: "\f269";
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 15px;
   color: #57b846;
   display: -webkit-box;
@@ -456,7 +456,7 @@ textarea.input200 {
 [ Contact more ]*/
 
 .contact100-more {
-  font-family: lucida-console;
+  font-family: SourceSansPro-Regular;
   font-size: 16px;
   color: #999999;
   line-height: 1.5;
