@@ -140,7 +140,7 @@ def index(request):
 				top_ids, top_sims = sim2id(num_ans, "media/txt/" + file + ".txt", sections, index_list, ques)
 
 				for i in range(num_ans):
-					if(top_sims[i] >= 0.1):
+					if(top_sims[i]):
 						try:
 							print("sending data to bidaf")
 							final_url = url+urllib.parse.quote_plus(sections[top_ids[i]])+"&question="+urllib.parse.quote_plus(ques)
