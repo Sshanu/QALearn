@@ -31,4 +31,4 @@ def sim2id(n, sections, index_list, query):
     # print('\n\n\n')
     # print(sections[top_n[0]])
     
-    return top_n, top_sim
+    return top_n, top_sim, top_n_titles, top_n_ids

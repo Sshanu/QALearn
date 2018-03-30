@@ -139,7 +139,7 @@ def index(request):
 				index_list, sections = pkl.load(f)
 				f.close()
 				print("calculating similarity")
-				top_ids, top_sims = sim2id(num_ans, sections, index_list, ques)
+				top_ids, top_sims,top_titles, top_n_ids = sim2id(num_ans, sections, index_list, ques)
 
 				for i in range(num_ans):
 					if(top_sims[i]):
@@ -159,6 +159,7 @@ def index(request):
 									context['status'] = 1
 									context['answer'] = ans.capitalize()
 									context["ques"] = ques
+									context["title"] =  top_n_ids[i] + "    " + top_titles[i].upper()
 								else:
 									print("no answer")
 									context['no_ans_status'] = 1
