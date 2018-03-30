@@ -17,58 +17,142 @@ Often the same.
 About this Book
 
 1 Decision Trees
-
+1.1 What Does it Mean to Learn?
+1.2 Some Canonical Learning Problems
+1.3 The Decision Tree Model of Learning
+1.4 Formalizing the Learning Problem
+1.5 Chapter Summary and Outlook
 
 2 Limits of Learning
+2.1 Data Generating Distributions
+2.2 Inductive Bias: What We Know Before the Data Arrives
+2.3 Not Everything is Learnable
+2.4 Underﬁtting and Overﬁtting
+2.5 Separation of Training and Test Data
+2.6 Models, Parameters and Hyperparameters
+2.7 Real World Applications of Machine Learning
 
 
 
 3 Geometry and Nearest Neighbors
-
+3.1 From Data to Feature Vectors
+3.2 K-Nearest Neighbors
+3.3 Decision Boundaries
+3.4 K-Means Clustering
+3.5 Warning: High Dimensions are Scary
 
 4 The Perceptron
+4.1 Bio-inspired Learning
+4.2 Error-Driven Updating: The Perceptron Algorithm
+4.3 Geometric Intrepretation
+4.4 Interpreting Perceptron Weights
+4.5 Perceptron Convergence and Linear Separability
+4.6 Improved Generalization: Voting and Averaging
+4.7 Limitations of the Perceptron
 
 5 Practical Issues
-
+5.1 The Importance of Good Features
+5.2 Irrelevant and Redundant Features
+5.3 Feature Pruning and Normalization
+5.4 Combinatorial Feature Explosion
+5.5 Evaluating Model Performance
+5.6 Cross Validation
+5.7 Hypothesis Testing and Statistical Signiﬁcance
+5.8 Debugging Learning Algorithms
+5.9 Bias/Variance Trade-off
 
 6 Beyond Binary Classification
-
+6.1 Learning with Imbalanced Data
+6.2 Multiclass Classiﬁcation
+6.3 Ranking
 
 7 Linear Models
+7.1 The Optimization Framework for Linear Models
+7.2 Convex Surrogate Loss Functions
+7.3 Weight Regularization
+7.4 Optimization with Gradient Descent
+7.5 From Gradients to Subgradients
+7.6 Closed-form Optimization for Squared Loss
+7.7 Support Vector Machines
 
 8 Bias and Fairness
-
+8.1 Train/Test Mismatch
+8.2 Unsupervised Adaptation
+8.3 Supervised Adaptation
+8.4 Fairness and Data Bias
+8.5 How Badly can it Go?
 
 9 Probabilistic Modeling
+9.1 Classiﬁcation by Density Estimation
+9.2 Statistical Estimation
+9.3 Naive Bayes Models
+9.4 Prediction
+9.5 Generative Stories
+9.6 Conditional Models
+9.7 Regularization via Priors
 
 10 Neural Networks
+10.1 Bio-inspired Multi-Layer Networks
+10.2 The Back-propagation Algorithm
+10.3 Initialization and Convergence of Neural Networks
+10.4 Beyond Two Layers
+10.5 Breadth versus Depth
+10.6 Basis Functions
 
 11 Kernel Methods
+11.1 From Feature Combinations to Kernels
+11.2 Kernelized Perceptron
+11.3 Kernelized K-means
+11.4 What Makes a Kernel
+11.5 Support Vector Machines
+11.6 Understanding Support Vector Machines
 
 12 Learning Theory
+12.1 The Role of Theory
+12.2 Induction is Impossible
+12.3 Probably Approximately Correct Learning
+12.4 PAC Learning of Conjunctions
+12.5 Occam’s Razor: Simple Solutions Generalize
+12.6 Complexity of Inﬁnite Hypothesis Spaces
 
-13
+13 Ensemble Methods
+13.1 Voting Multiple Classiﬁers
+13.2 Boosting Weak Learners
+13.3 Random Ensembles
 
-Ensemble Methods
-
-14
-
-Efficient Learning
+14 Efficient Learning
+14.1 What Does it Mean to be Fast?
+14.2 Stochastic Optimization
+14.3 Sparse Regularization
+14.4 Feature Hashing
 
 15 Unsupervised Learning
+15.1 K-Means Clustering, Revisited
+15.2 Linear Dimensionality Reduction
+15.3 Autoencoders
 
-16
+16 Expectation Maximization
+16.1 Grading an Exam without an Answer Key
+16.2 Clustering with a Mixture of Gaussians
+16.3 The Expectation Maximization Framework
 
-Expectation Maximization
 
+17 Structured Prediction
+17.1 Multiclass Perceptron
+17.2 Structured Perceptron
+17.3 Argmax for Sequences
+17.4 Structured Support Vector Machines
+17.5 Loss-Augmented Argmax
+17.6 Argmax in General
+17.7 Dynamic Programming for Sequences
 
-17
+18 Imitation Learning
+18.1 Imitation Learning by Classiﬁcation
+18.2 Failure Analysis
+18.3 Dataset Aggregation
+18.4 Expensive Algorithms as Experts
+18.5 Structured Prediction via Imitation Learning
 
-Structured Prediction
-
-18
-
-Imitation Learning
 
 
 
