@@ -142,6 +142,7 @@ def file2id(text_file_loc):
             for j in range(id2ids[index_list[i+1][2]]):
                 regex = ids[j] + "\s+" + contents[j]
                 sections[-1] = re.sub(regex, "", sections[-1])
+            sections[-1] = re.sub(r'\n{2,}', '', sections[-1])
                 
             final_str = final_str[end:]
             start = 0
