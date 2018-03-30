@@ -32,7 +32,6 @@ def file2id(text_file_loc):
     final_str = test_str
     while(content_flag):
         match = re.search("\s*((" + str(count) +"|"+ str(count+1) + "|"+ str(count+2)+ regex, final_str)
-        print(match)
         id = match.group(1)
         if(id in ids):
             content_flag = 0
@@ -42,7 +41,6 @@ def file2id(text_file_loc):
         parents.append(match.group(2))
         ids.append(id)
         final_str = final_str[match.end():]
-        print(count, parents[-1], ids[-1], contents[-1])
 
     
     id2ids = dict((w, i) for i, w in enumerate(ids))
@@ -53,7 +51,6 @@ def file2id(text_file_loc):
             regex = "(" + section_id + ")"  + "\s*" +section_title 
             match  = re.search(regex, final_str)
             end = match.start()
-            print(1)
             
         except AttributeError:
             
@@ -65,13 +62,11 @@ def file2id(text_file_loc):
             try:
                 match  = re.search(regex, final_str)
                 end = match.start()
-                print(2)
                 
             except AttributeError:
                 print("error")
                 return -1
             
-        print(match)
         return end
 
     for i,c in enumerate(contents):
@@ -115,6 +110,7 @@ def file2id(text_file_loc):
 
     id2ind = dict([(w,i) for i,w in enumerate(ids)])
     ind2id = dict([(i,w) for i,w in enumerate(ids)])
+
     nodes=[]
     for it in contents:
         nodes.append(it.split())
@@ -126,7 +122,7 @@ def file2id(text_file_loc):
 
     index_list = g.DFS()
 
-    # print(index_list)
+    print(index_list)
     # final_str = test_str[last:]    
 
     start = find_section(final_str, index_list[0][2], index_list[0][1])
@@ -144,14 +140,14 @@ def file2id(text_file_loc):
                 sections[-1] = re.sub(regex, "", sections[-1])
             sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
             # sections[-1] = re.sub(r'')
-                
             final_str = final_str[end:]
+            print("pass", i)
             start = 0
         else:  
-            flag = 1
+            flag = 0
             print("error", i, start, end)
+
             
-        print(start, end)
     sections.append(final_str[start:])
     
     return index_list, sections, flag

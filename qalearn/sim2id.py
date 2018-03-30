@@ -3,7 +3,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 # function to output top n ids for the similar paragraph based on tfidf values
-def sim2id(n,text, sections, index_list, query):
+def sim2id(n, sections, index_list, query):
     
     vectorizer = TfidfVectorizer(stop_words='english')
     vectorizer.fit(sections)

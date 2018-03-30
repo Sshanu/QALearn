@@ -102,6 +102,8 @@ def index(request):
 	context['status'] = None
 	context['show'] = None
 	context['file_select_status'] = 0
+	context['no_ans_status'] = 0
+
 	num_ans = 1
 	ans = ""
 	url = "http://allgood.cs.washington.edu:1995/submit?paragraph="
@@ -137,7 +139,7 @@ def index(request):
 				index_list, sections = pkl.load(f)
 				f.close()
 				print("calculating similarity")
-				top_ids, top_sims = sim2id(num_ans, "media/txt/" + file + ".txt", sections, index_list, ques)
+				top_ids, top_sims = sim2id(num_ans, sections, index_list, ques)
 
 				for i in range(num_ans):
 					if(top_sims[i]):
@@ -150,15 +152,28 @@ def index(request):
 							json_data = json.loads(data.decode())
 							try:
 								print("retriving answer")
-								ans += json_data['result'] + "\n\n"
-								context['status'] = 1
-								context['answer'] = ans
-								context["ques"] = ques
+								ans_data = json_data['result']
+								if(ans_data != ""):
+									print("answer found")
+									ans +=  ans_data + "\n\n"
+									context['status'] = 1
+									context['answer'] = ans.capitalize()
+									context["ques"] = ques
+								else:
+									print("no answer")
+									context['no_ans_status'] = 1
+									context["ques"] = ques
 
 							except:
 								print("no answer")
+								context['no_ans_status'] = 1
+								context["ques"] = ques
 						except:
 							print("internet down")
+					else:
+						print("no answer")
+						context['no_ans_status'] = 1
+						context["ques"] = ques
 		else:
 			context['file_select_status'] = 1
 
