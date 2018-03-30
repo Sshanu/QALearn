@@ -11,6 +11,8 @@ def file2id(text_file_loc):
 
     # retrieving indexes
     test_str = test_str.lower()
+    regex = r"[|]+"
+    test_str = re.sub(regex, "", test_str)
     regex = r"(Contents)|(contents)"
 
     match = re.search(regex, test_str)
@@ -23,7 +25,7 @@ def file2id(text_file_loc):
     test_str = re.sub(regex, "", test_str)
 
     
-    regex = r")[\d.]*)\s+([^}].+)"
+    regex = r")(\.\d)*)\s+([^}].+)"
     contents = []
     ids = []
     parents = []
@@ -31,18 +33,20 @@ def file2id(text_file_loc):
     content_flag = 1
     final_str = test_str
     while(content_flag):
-        match = re.search("\s*((" + str(count) +"|"+ str(count+1) + "|"+ str(count+2)+ regex, final_str)
+        match = re.search("\s*((" + str(count) +"|"+ str(count+1) + regex, final_str)
+        print(match)
         id = match.group(1)
         if(id in ids):
             content_flag = 0
             break
         count = max(count, int(match.group(2)))
-        contents.append(match.group(3))
+        contents.append(match.group(4))
         parents.append(match.group(2))
         ids.append(id)
         final_str = final_str[match.end():]
 
-    
+    print(ids)
+    print(contents)
     id2ids = dict((w, i) for i, w in enumerate(ids))
 
     def find_section(final_str, section_id, section_title):

@@ -11,6 +11,8 @@ def file2id(text_file_loc):
 
     # retrieving indexes
     test_str = test_str.lower()
+    regex = r"[|]+"
+    test_str = re.sub(regex, "", test_str)
     regex = r"(Contents)|(contents)"
 
     match = re.search(regex, test_str)
@@ -23,7 +25,7 @@ def file2id(text_file_loc):
     test_str = re.sub(regex, "", test_str)
 
     
-    regex = r")[\d.]*)\s+([^}].+)"
+    regex = r")(\.\d)*)\s+([^}].+)"
     contents = []
     ids = []
     parents = []
@@ -31,20 +33,20 @@ def file2id(text_file_loc):
     content_flag = 1
     final_str = test_str
     while(content_flag):
-        match = re.search("\s*((" + str(count) +"|"+ str(count+1) + "|"+ str(count+2)+ regex, final_str)
+        match = re.search("\s*((" + str(count) +"|"+ str(count+1) + regex, final_str)
         print(match)
         id = match.group(1)
         if(id in ids):
             content_flag = 0
             break
         count = max(count, int(match.group(2)))
-        contents.append(match.group(3))
+        contents.append(match.group(4))
         parents.append(match.group(2))
         ids.append(id)
         final_str = final_str[match.end():]
-        print(count, parents[-1], ids[-1], contents[-1])
 
-    
+    print(ids)
+    print(contents)
     id2ids = dict((w, i) for i, w in enumerate(ids))
 
     def find_section(final_str, section_id, section_title):
@@ -53,7 +55,6 @@ def file2id(text_file_loc):
             regex = "(" + section_id + ")"  + "\s*" +section_title 
             match  = re.search(regex, final_str)
             end = match.start()
-            print(1)
             
         except AttributeError:
             
@@ -65,13 +66,11 @@ def file2id(text_file_loc):
             try:
                 match  = re.search(regex, final_str)
                 end = match.start()
-                print(2)
                 
             except AttributeError:
                 print("error")
                 return -1
             
-        print(match)
         return end
 
     for i,c in enumerate(contents):
@@ -115,6 +114,7 @@ def file2id(text_file_loc):
 
     id2ind = dict([(w,i) for i,w in enumerate(ids)])
     ind2id = dict([(i,w) for i,w in enumerate(ids)])
+
     nodes=[]
     for it in contents:
         nodes.append(it.split())
@@ -126,7 +126,7 @@ def file2id(text_file_loc):
 
     index_list = g.DFS()
 
-    # print(index_list)
+    print(index_list)
     # final_str = test_str[last:]    
 
     start = find_section(final_str, index_list[0][2], index_list[0][1])
@@ -142,14 +142,17 @@ def file2id(text_file_loc):
             for j in range(id2ids[index_list[i+1][2]]):
                 regex = ids[j] + "\s+" + contents[j]
                 sections[-1] = re.sub(regex, "", sections[-1])
-                
+            sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
+            sections[-1] = re.sub(r'\s?(\d\.)+\d\s+', '', sections[-1])
+            # sections[-1] = re.sub(r'')
             final_str = final_str[end:]
+            print("pass", i)
             start = 0
         else:  
-            flag = 1
+            flag = 0
             print("error", i, start, end)
+
             
-        print(start, end)
     sections.append(final_str[start:])
     
     return index_list, sections, flag
