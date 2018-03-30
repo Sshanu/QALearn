@@ -3,3 +3,6 @@
 /__pycache__
 pdfminer/
 /docs
+.pyc
+qalearn/__pycache__
+qalearn/qalearn/__pycache__
