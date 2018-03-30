@@ -1,0 +1,4437 @@
+Masaryk University 
+
+ 
+
+Faculty of Education 
+
+ 
+
+DEPARTMENT OF ENGLISH LANGUAGE  
+
+AND LITERATURE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Grammar Practice Book  
+
+for Adult Beginner Learners of English 
+
+ 
+
+Bachelor Thesis 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Brno 2008 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thesis Supervisor: 
+
+Thesis Author: 
+
+Mgr. Irena Hůlková 
+
+Klára Okurková 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Declaration 
+
+I  declare  that  I  have  worked  on  the  present  thesis  on  my  own  and  used  only 
+
+the sources listed in the reference. 
+
+I agree that the thesis be deposited at Masaryk University in the library of the Faculty 
+
+of Education and made accessible for study purposes. I also agree that the thesis be stored in 
+
+the university retrieval systems and used for the same purposes. 
+
+ 
+
+ 
+
+ 
+
+........................................................ 
+
+Author’s signature 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acknowledgements 
+
+I would like to express my thanks to Mgr. Irena Hůlková for her kind help, guidance, 
+
+inspirational comments, interest, and time that she devoted to me and to the present work as 
+
+my supervisor. 
+
+ 
+
+Contents 
+
+Introduction ................................................................................................................................ 2 
+
+1 Theoretical part ....................................................................................................................... 3 
+
+1.1 What is grammar? ............................................................................................................ 3 
+
+1.2 Grammar teaching throughout history ............................................................................. 5 
+
+1.2.1 The changing position of grammar ........................................................................... 5 
+
+1.2.2 Learning from the history .......................................................................................... 7 
+
+1.3 How to present grammar ................................................................................................ 10 
+
+1.3.1 Grammar presentation principles ............................................................................ 11 
+
+1.3.2 Deductive and inductive approach .......................................................................... 12 
+
+1.4 How to practise grammar ............................................................................................... 13 
+
+1.4.1 Types of exercises ................................................................................................... 14 
+
+1.5 The characteristics and needs of the target group .......................................................... 17 
+
+1.5.1 Adult learners .......................................................................................................... 18 
+
+1.5.2 Students with SLD .................................................................................................. 20 
+
+2 Practical part .......................................................................................................................... 23 
+
+2.1 Grammar for beginners .................................................................................................. 23 
+
+2.2 The organization of the grammar workbook .................................................................. 26 
+
+2.2.1 Decisions regarding the whole workbook ............................................................... 26 
+
+2.2.2 Decisions regarding individual units ....................................................................... 28 
+
+2.3 The grammar workbook ................................................................................................. 32 
+
+2.3.1 Unit 1 – a/an ............................................................................................................ 32 
+
+2.3.2 Unit 2 – plurals of nouns (car/cars) ......................................................................... 35 
+
+2.3.3 Unit 3 – forms of to be (am/is/are) .......................................................................... 39 
+
+2.3.4 Unit 4 – possessive adjectives (my, your, her ...) .................................................... 42 
+
+2.4 Portfolio .......................................................................................................................... 45 
+
+2.5 Key to the grammar workbook ....................................................................................... 46 
+
+Conclusion ................................................................................................................................ 53 
+
+Resumé ..................................................................................................................................... 54 
+
+Summary .................................................................................................................................. 54 
+
+Appendices ............................................................................................................................... 57 
+
+ 
+
+1 
+
+ 
+
+Introduction 
+
+There  are  many  books,  workbooks,  and  additional  materials  that  are  intentionally 
+
+made for adults. These books usually offer rather a fast speed and wide range of vocabulary 
+
+so that the learners make significant progress and are able to use English fluently as soon as 
+
+possible.  
+
+But what if there is an adult learner who learns English despite the fact that they have 
+
+never been really bright, or is just not apt at languages? A learner who wants to speak English 
+
+and read in English so that the life in the modern anglicised society is a bit easier for them? 
+
+A learner  who  is  still  a  beginner  and  tries  hard  to  absorb  at  least  something,  and  still  finds 
+
+English  very  difficult? I  believe  there  are  many  learners  who  fit  these characteristics,  and  I 
+
+assume  that  they  need  to  make  slow  progress,  with  a  good  practice  of  anything  they  learn. 
+
+They  need  well-prepared,  slow-going  materials  that  would  enable  them  to  practise  English 
+
+even  out  of  classes.  Of  all  the  systems  and  skills  these  learners  need  to  practise,  I  chose 
+
+to devote the present thesis to the investigation of grammar practice. 
+
+I have not found self-study grammar practice materials that would really meet needs 
+
+of the adults  described  above.  These  learners  need  to  practise  the  target  language  item 
+
+thoroughly before they proceed to the next one but the traditional materials usually dedicate 
+
+just one page to practice. They need to be motivated to work with the self-study materials but 
+
+the materials are usually not very attractive, as they do not include many game-like exercises 
+
+and activities. And lastly, learners want to learn to speak and read, but the self-study materials 
+
+usually do not practise these skills very much. Generally speaking, it seems that the traditional 
+
+approach on its own cannot be very effective with these learners, and it might be a good idea 
+
+to combine it with the communicative approach.  
+
+The absence of a wanted grammar practice book was the main reason why grammar 
+
+became the topic of the present thesis. Its aim is to provide adult learners who are beginners 
+
+or elementary learners with well-structured slow-going materials which they could use out of 
+
+their general English classes. These materials should – besides traditional exercises – contain 
+
+something more interesting, more communicative, and hopefully more useful. As a means to 
+
+this  goal,  the  present  thesis  offers  theoretical  background  and  a  few  example  units  that  can 
+
+help grammar book authors create the missing materials one day. 
+
+2 
+
+ 
+
+1 Theoretical part 
+
+1.1 What is grammar? 
+
+According to Thornbury, grammar is not only the study of what forms (sounds, words, 
+
+sentences, texts) are possible in a language, but also the study of the  meanings these forms 
+
+convey  (1999,  1,  3).  These  two  parts  of  grammar  can  be  simply  called  ‘grammatical 
+
+structures’ and ‘grammatical meaning’ (Ur 1996, 75-6).  
+
+Grammatical structures 
+
+Grammatical  structures  are  texts,  sentences,  words  and  sounds.  In  linguistic 
+
+metalanguage, these are called morphology and syntax, where morphology means a study of 
+
+the form of words and syntax means a study of the way words and phrases are put together to 
+
+form  sentences  (Hornby  2000,  827,  1319).  Here  are  some  examples  of  grammatical 
+
+structures:  plurals  of  nouns  (e.g.  house  –  houses,  or  mouse  –  mice),  countability  (e.g.  How 
+
+much money? but How many coins?), present simple tense, and others.  
+
+All EFL and ESL teachers need to be aware of the fact that “not all languages ... have 
+
+the  same  structures”  (Ur  1996,  75).  To  illustrate  this,  let  me  compare  English  and  Czech. 
+
+Whereas Czech nouns have seven cases, English nouns have just two: common and genitive 
+
+(terminology by Quirk and Greenbaum 1990, 102), and where Czech distinguishes things of 
+
+feminine,  masculine,  or  neuter  gender,  English  uses  only  the  neutral  pronoun  it.  Moreover, 
+
+there  are  also  structures  that  are  present  in  English  and  absent  in  Czech,  such  as  perfect 
+
+tenses,  or  the  use  of  articles.  Moreover,  it  is  not  only  the  question  of  existence  or  non-
+
+existence  of  various  structures  in  a  language;  it  is  also  their  distribution  that  makes 
+
+a significant difference. A conclusion that Ur makes then is that those structures that are not 
+
+present, or just less frequent, in a mother tongue tend to cause any learner more trouble than 
+
+those structures he or she is used to (1996, 75).  
+
+Grammatical meaning 
+
+As  mentioned  above,  the  other  part  of  the  broad  term  ‘grammar’  is  grammatical 
+
+meaning.  As  Thornbury  puts  it,  meanings  can  be  communicated  even  without  grammar  if 
+
+there is enough context in the situation (1999, 3-4). For example, if a foreigner is thirsty, it is 
+
+a part of their present situation. Therefore, if they say something like Thirsty! Drink! they will 
+
+probably be given a drink even without knowing the structures needed.  
+
+Yet with almost all written (and sometimes even with spoken) utterances, there is not 
+
+enough context, and therefore, grammar needs to be used to communicate the meanings we 
+
+3 
+
+ 
+
+mean. This can be illustrated on the example of the foreigner mentioned above. If he or she 
+
+had a wish to talk about this experience the next day and used the same words, the meaning 
+
+would  be  out  of  the  context  of  the  situation.  In  this  case  he  or  she  would  probably  be  just 
+
+given a drink again and would be upset about not being able to communicate their ideas. He 
+
+or  she  would  have  needed  to  use  the  correct  sentence  structures  (with  sentence  elements  in 
+
+their proper places) and the correct forms of the verbs (in this case the past tense form). In 
+
+other words, sometimes it is essential to use correct grammatical structures and to use those 
+
+structures that convey the right meaning. Otherwise it would not be clear what the message of 
+
+the communication was. 
+
+4 
+
+ 
+
+1.2 Grammar teaching throughout history 
+
+From what has been said so far, it seems obvious that grammar is an essential part of 
+
+language  learning,  and  that  no  one  can  have  a  claim  against  teaching  it.  Still,  the  position 
+
+of grammar  teaching  has  changed  a  lot  over  the  years.  The  present  chapter  gives  a  brief 
+
+summary of the changes and lists several opinions connected with grammar teaching. 
+
+ 
+
+1.2.1 The changing position of grammar 
+
+The  position  of  grammar  in  language  teaching  was  stable  for  quite  a  long  period  of 
+
+time. Rutherford even says that “teaching grammar has been central to and often synonymous 
+
+with teaching foreign language for the past 2,500 years” (In Celce Murcia 1988, 1). 
+
+This grammar teaching approach used especially to teach and learn Latin and Greek 
+
+(Thanasoulas,  EnglishClub.com  2002),  and  it  focused  on  teaching  reading  and  writing. 
+
+As a classical  language,  Latin  was  not  often  spoken,  so  there  was  no  need  to  pay  much 
+
+attention  to  teaching  listening  or  speaking.  However,  with  learning  modern  languages, 
+
+the situation  is  different.  It  is  strange  that  linguists  and  then  teachers  started  emphasizing 
+
+the communicative  skills  only  as  late  as  in  the  last  two  decades  of  the  nineteenth  century 
+
+(ibid.).  
+
+With  many changes in technology, science, arts, and many other fields, people were 
+
+fonder of trying new ways of doing things than they were in the earlier centuries. Even though 
+
+with some students the old method worked well, there was a good chance of finding a new 
+
+method that would work for more students, and maybe even better (less stress, faster progress, 
+
+etc.) It was a revolutionary time. And soon the revolutionary changes took place in language 
+
+learning theories as well. 
+
+Linguists  discovered  that  natural  language  acquisition  could  be  applied  to  learning 
+
+a foreign language. Both teachers and linguists had many new ideas. They were trying to find 
+
+the  best  way  to  teach  languages.  During  the  second  half  of  the  twentieth  century  more 
+
+methods (including Total Physical Response, Suggestopedia, The Silent Way, etc.) came into 
+
+existence  than  ever  before.  Numerous  methods  just  came  and  went.  Some  methods  gained 
+
+stable  popularity.  Approaches  that  became  very  popular  in  the  last  century  are  called 
+
+the Communicative  and  the  Natural  approach  and,  as  Thanasoulas  says,  they  “transcendent 
+
+the  boundaries  of  concrete  methods”  (ibid.).  It  is  these  approaches  that  detest  grammar 
+
+5 
+
+ 
+
+teaching as a means of language learning: “The effects of grammar teaching ... appear to be 
+
+peripheral and fragile” (Krashen In Thornbury 1996, 14). 
+
+Thornbury aptly captured the changes in language teaching by saying that its history 
+
+“is  essentially  the  history  of  claims  and  counterclaims  for  and  against  the  teaching  of 
+
+grammar  (ibid.)”.  It  seems  that  at  first  the role of  grammar  was  stressed  (one  extreme)  and 
+
+later it was underestimated (the opposite extreme). Extremes are usually not worth following, 
+
+because the truth is often somewhere in between. Therefore, the current position of grammar 
+
+is  influenced  by  attempts  to  find  the  right  balance  between  grammar-based  approach  and 
+
+grammar-omitting approach. 
+
+ 
+
+6 
+
+ 
+
+1.2.2 Learning from the history 
+
+It is usually very difficult to create something completely new and be conscious of all 
+
+the aspects that need to be taken into account. An old saying assures us that this is normal: 
+
+“No man is born wise or learned.” Fortunately, we do not need to figure everything out just 
+
+by  ourselves.  We  can  use  other  people’s  ideas  and  experiences.  Therefore,  not  even  a 
+
+grammar  book  author  needs  to anticipate  and  guess  all  the  problems  that  might  affect  the 
+
+learning process of the people using his or her book. He or she can look into the history and 
+
+read  about  what  other  language  teachers  viewed  as  important,  and  consequently,  what  the 
+
+author needs to consider. 
+
+This  subchapter  deals  with  opinions  on  grammar  teaching,  taken  out  of  the 
+
+descriptions  of  several  language  teaching  methods  and  approaches  of  the  past.  These 
+
+descriptions were chosen according to their relevance to the topic of the present thesis. It is to 
+
+function as a source of inspiration and as an impulse for serious thought about what is vital 
+
+to consider when presenting and practising grammar.  
+
+Before methods 
+
+In the nineteenth century, Seidenstrücker, German author of language books, “divided 
+
+his  text  carefully  into  two  parts,  one  giving  the  rules  and  necessary  paradigms,  the  other 
+
+giving French sentences for translation into German and German sentences for translation into 
+
+French” (Richards and Rodgers 2001, 5). The separation of presentation and practice seems 
+
+a vital decision and most grammar books nowadays follow this pattern, some even dedicate 
+
+one  entire  page  to  explanations  and  another  page  to  exercises  (although,  unlike  those  by 
+
+Seidenstrücker, these exercises are not just translations).  
+
+The Grammar-Translation Method 
+
+This  was  the  first  method  that  emerged,  and  in  fact  it  was  rather  just  systematized 
+
+version  of  the  old  approach  to  language  teaching.  However,  it  is  worth  pointing  out 
+
+the following two aspects of Grammar-Translation Method. The first one is, that “grammar is 
+
+taught  deductively  –  that  is,  by  presentation  and  study  of  grammar  rules,  which  are  then 
+
+practiced through translation exercises” (Richards and Rodgers 2001, 6), and the second one 
+
+is, that “the student’s native language is the medium of instruction” (ibid.).  
+
+The Direct Method 
+
+The  Direct  Method  was  the  best  known  method  based  on  the  Natural  Approach 
+
+(a paragraph  on  this  approach  is  included  later  in  the  text).  This  method  taught  grammar 
+
+inductively,  and  instruction  was  given  only  in  the  target  language  (Richards  and  Rodgers 
+
+7 
+
+ 
+
+2001, 12). Although this method “rejected explicit grammar teaching”, it followed “a syllabus 
+
+of  grammar  structures”  (Thornbury  1999,  21).  In  this  method,  the  learners  “picked  up 
+
+the grammar in much the same way as children pick up the grammar of their mother tongue, 
+
+simply by being immersed in language” (ibid.). 
+
+Situational Language Teaching 
+
+Situational  Language  Teaching  is  an  approach  based  on  applied  linguistics  of 
+
+the 1930s  to  1960s.  Sometimes  it  is  also  called  the  Oral  Approach.  Palmer,  a  language 
+
+teaching  specialist,  “viewed  grammar  as  the  underlying  patterns  of  the  spoken  language” 
+
+(Richards and Rodgers 2001, 37). In real teaching this meant adhering to a grammar syllabus 
+
+which  had  the  grammatical  structures  ‘hidden’  behind  “sentence  patterns,  which  could  be 
+
+used  to  help  internalize  the  rules  of  English  sentence  structure”  (ibid.,  38).  It  cannot  be 
+
+doubted  that  sentence  that  carries  certain  meaning  is  sometimes  easier  to  internalize,  than 
+
+an emotionally  uncharged  rule.  Therefore,  is  highly  recommendable  for  a  grammar  book  to 
+
+include  a  clearly  visible  sentence  structure  (written  in  different  colour,  bold  print,  unusual 
+
+font or font size, or used next to or within a picture). On the other hand, this structure does not 
+
+need to replace the grammar rule.  
+
+Communicative Language Teaching 
+
+In Britain, Situational Language Teaching (SLT) was the major approach to teaching 
+
+until  the  1960’s.  After  the  principles  of  SLT  were  questioned,  Communicative  Language 
+
+Teaching (CLT) started to be largely accepted. (Richards and Rodgers 2001, 153-4)  
+
+This  approach  allows  grammatical  explanation,  if  it  helps  the  learners.  This  varies 
+
+according  to  the  learners’  age,  interest,  and  similar  criteria.  The  approach  also  accepts 
+
+“judicious  use  of  native  language  where  feasible”  and  “translation  may  be  used  where 
+
+students need or benefit from it” (Finocchiaro and Brumbit In Richards and Rodgers, 156). 
+
+Thornbury  distinguishes  between  ‘Deep-end  CLT’,  which  rejected  both  grammar 
+
+syllabuses  and  grammar  instruction,  and  ‘Shallow-end  CLT’,  where  “grammar  was  still  the 
+
+main component of the syllabus”, only it was “dressed up in functional labels” (1999, 22). He 
+
+also points out that Chomsky’s idea that “language, rather than being a habit structure, was 
+
+instead  rule-governed  creativity”  (ibid.,  51)  was  absorbed  by  the  Shallow-end  CLT, 
+
+and “grammar  rules  reappeared 
+
+in  coursebooks,  and  grammar 
+
+teaching  re-emerged 
+
+in classrooms,  often,  it  must  be  said,  at  the  expense  of  communicative  practice”  (ibid.). 
+
+It cannot  be  doubted  that  communicative  practice  is  more  useful  than  knowledge  of  rules. 
+
+However, sometimes the rules can help us choose more effective ways to communicate our 
+
+ideas. The present thesis tries to combine both approaches.  
+
+8 
+
+ 
+
+The Natural Approach 
+
+The Natural Approach was an attempt to put researcher’s studies of second language 
+
+acquisition into practice. The principles of the approach were formed by Terrel and Krashen, 
+
+and  appeared  in  their  book  The  Natural  Approach  (Richards  and  Rodgers  2001,  178).  The 
+
+approach  consists  of  five  hypotheses,  which  “have  obvious  implications  for  language 
+
+teaching” (ibid., 183). One of the implications is, in the wording of Richards and Rogers, that 
+
+“as  much  comprehensible  input  as  possible  must  be  presented”  (ibid.).  In  the  case  of 
+
+a workbook,  such  an  input  can  be  offered  by  texts  to  read.  A  grammar-book  author  should 
+
+consider this, and might like the idea of inserting pages with stories (or other text types) that 
+
+would  use  the  grammar  points  presented  on  the  preceding  pages  as  a  form  of  their 
+
+consolidation. Another possibility is to include a CD with listenings. 
+
+Task-Based Language Teaching 
+
+Chapter  on  Task-Based  Language  Teaching  in  the  book  by  Richards  and  Rogers 
+
+presents  the  idea  that  “activities  and  tasks  can  be  either  those  that  learners  might  need  to 
+
+achieve in real life, or those that have a pedagogical purpose specific to the classroom” (2001, 
+
+224).  Nonetheless,  it  should  also  be  borne  in  mind  that  “language  that  is  meaningful  to 
+
+the learner supports the learning process” (ibid., 223). To sum up, teacher can use whatever 
+
+he  or  she  feels  students  will  benefit  from,  but  it  is  vital  that  learners  see  the  purpose 
+
+of the presented language point or activity. In a grammar book this could for example mean 
+
+that  the  language  used  reflects  real  life  situations  in  which  learners  can  find  themselves  in 
+
+the future, or that it contains a good preface explaining some of the reasons why the book is 
+
+useful for its users. 
+
+9 
+
+ 
+
+1.3 How to present grammar 
+
+Grammar is usually presented orally. As a result, books on grammar teaching discuss 
+
+techniques suitable for oral presentation but unsuitable for a grammar workbook. Therefore, 
+
+the  present  chapter  does  not  deal  with  individual  techniques.  It  only  summarizes  the  most 
+
+important  presentation  principles  and  offers  a  brief  insight  into  two  grammar  teaching 
+
+approaches. 
+
+Both  Thornbury  (1999)  and  Harmer  (1987)  distinguish  three  basic  ways  to  present 
+
+grammar: from rules, from examples, and through texts. The first two ways are two different 
+
+approaches  to  explain  grammar.  The  third  way  often  accompanies  the  first  two.  Teaching 
+
+grammar through texts is often used in general English coursebooks. The learners read a text 
+
+which gives examples of the grammar point. It is a good opportunity to see the grammar point 
+
+in its context (Thornbury 1999, 69-73). Teaching grammar from rules and from examples is 
+
+discussed in a separate subchapter (1.3.2). 
+
+10 
+
+ 
+
+1.3.1 Grammar presentation principles 
+
+The  following  presentation  principles  are  a  choice  of  principles  stated  in  Harmer’s 
+
+book  Teaching  and  learning  grammar  (1987,  18)  and  Thornbury’s  book  How  to  teach 
+
+grammar (1999, 25-27). 
+
+Efficiency 
+
+One of the most important factors, mentioned by both authors, seems to be efficiency. 
+
+This  means  to  present  the  grammar  item  so  that  the  students  get  to  using  it  on  their  own 
+
+as soon  as  possible.  As  Thornbury  puts  it:  “prolonged  attention  to  grammar  is  difficult  to 
+
+justify”  (1999,  25).  We  should  not  try  to  cover  a  whole  page  in  a  grammar  book  with 
+
+explanations, as the exercises and activities are more important for effective learning.  
+
+Clarity 
+
+“A  good  presentation  should  be  clear,”  says  Harmer  (1987,  18),  and  adds  that 
+
+“students should have no difficulty in understanding the situation or what the new language 
+
+means” (ibid.). This is a very important factor – according to Thornbury, presentation without 
+
+understanding “is probably a waste of time” (1999, 26). 
+
+Attention and motivation 
+
+The  item  needs  to  be  presented  in  a  way  that  the  students  do  not  find  it  difficult  to 
+
+concentrate on it and feel motivated to learn it. “Tasks and materials that are involving, that 
+
+are  relevant  to  their  needs,  that  have  an  achievable  outcome,  and  that  have  an  element  of 
+
+challenge while providing the necessary support, are more likely to be motivating than those 
+
+that do not have these qualities.” (ibid.) In a grammar workbook, this is truer than in a face-to-
+
+face  presentation  as  written  presentations  tend  to  be  tedious  to  read.  Any  grammar  book 
+
+author should consider choosing some techniques and aids to make their presentation as lively 
+
+as possible (e.g. dialogues, pictures, time lines, highlighting, or some discovery techniques). 
+
+Appropriacy 
+
+Finally,  the  presentation  needs  to  be  appropriate  for  the  grammar  point  explained 
+
+and for the target group. The present thesis aims on adult learners at beginner and elementary 
+
+levels of English (more on the target group is in Chapter 1.5) and the grammar points covered 
+
+at the respective levels are listed in the practical part of the present thesis (in Chapter 2.1). 
+
+ 
+
+11 
+
+ 
+
+1.3.2 Deductive and inductive approach 
+
+This subchapter tries to investigate an issue that seems to have been important since 
+
+the  Grammar-Translation  Method  (see  Chapter  1.2):  How  to  teach  grammar  –  deductively, 
+
+or inductively? 
+
+‘Deductive’ way of grammar presentation is comfortable for the teacher and “helpful 
+
+to  older  or  more  analytically-minded  learners”  (Ur  2000,  83).  The  other  way  to  present 
+
+grammar is usually called ‘inductive’. It means that the students are given example sentences 
+
+and  are  expected  to  derive  the  rules  themselves.  Ur  points  out  that  what  students  “discover 
+
+themselves  they  are  more  likely  to  remember”,  but  warns  that  with  students  who  find  such 
+
+discovering difficult, it might  mean wasting time “on sterile and frustrating guessing, or on 
+
+misleading suggestions” (ibid.). Moreover, as Thornbury puts it, inductive approach demands 
+
+that the teachers “select and organize the data carefully so as to guide learners to an accurate 
+
+formulation of the rule, while also ensuring the data is intelligible” (1999, 55).  
+
+However, he offers an example of such a well guided discovery (ibid., 53), which he 
+
+took from a course book called New Wave 1. In the example, the basic rule for present simple 
+
+is introduced. All the verbs in the example sentences are highlighted; the students are given 
+
+a list  of  pronouns,  and  are  told  that  the  verbs  take  final  -s  only  with  certain  subjects.  Their 
+
+task then is to tick the pronouns that represent the correct subjects. This kind of discovery is 
+
+not very difficult, and shows a way how to use inductive approach even with students who 
+
+find  English  difficult.  One  reason  to  use  inductive  approach  is  connected  with  some  of  the 
+
+characteristics  of  students  with  learning  difficulties  (see  Chapter  1.5.2).  All  in  all,  both 
+
+approaches  have  their  advantages  and  disadvantages,  and  if  done  with  the  respective  target 
+
+group in mind, they can work for the students. 
+
+Harmer admonishes teachers to “use a variety of techniques” (1991, 23). “Sometimes 
+
+this  involves  teaching  grammar  rules;  sometimes  it  means  allowing  students  to  discover 
+
+the rules for themselves.” (ibid.) The variety also helps liven up the learning process. Whether 
+
+it is a deductively or inductively taught unit, I believe it is a good idea to let the students write 
+
+and think also during the presentation part of it.  
+
+12 
+
+ 
+
+1.4 How to practise grammar 
+
+Practice is usually more important for the learners than the presentation. As Thornbury 
+
+points out, “simply knowing what to do is no guarantee that you will be able to do it, or that 
+
+you will be able to do it well” (1999, 91), but this is exactly what the learner needs to know: 
+
+Am  I  able  to  use  the  item  I  am  supposed    to  know?  As  a  result,  Scrivener  observed  that 
+
+“language  practice  activities  are  arguably  the  most  important  part  of  any  grammar  lesson” 
+
+(2005, 255). 
+
+The  present  chapter  is  devoted  to  ways  in  which  to  practise  grammar.  It  focuses  on 
+
+those kinds of exercises and activities that are applicable in self-study materials. This means 
+
+that most of the exercise will need to be accompanied with a key. Although this need often 
+
+cannot  be  met  in  freer  activities  and  oral  practice,  the  present  thesis  does  not  omit  them 
+
+as they are very useful for learners. They move learners from just thinking about the language 
+
+to using it.  
+
+There  are  basically  two  types  of  grammar  practice.  Exercises  and  activities  that  pay 
+
+a lot  of  attention  to  form  and  teach  the  learners  to  use  correct  structures  try  to  achieve 
+
+accuracy, whereas exercises and activities that pay attention to meaning and teach the learners 
+
+to use the language easily and without hesitation intend to teach fluency (Thornbury 1999, 92-
+
+93). These two types form a range with awareness raising activities being the most controlled, 
+
+form-oriented  practice  and  with  free  discourse  being  the  least  controlled,  meaning-oriented 
+
+practice (Ur 1996, 84).  
+
+The  following  chapter  tries  to  briefly  summarize  the  individual  stages  of  this  range 
+
+together with the most common written practice exercises. It starts with the most controlled 
+
+exercises and ends in freer exercises. This order reflects the order of exercise types usually 
+
+used in the lessons. However, this order does not need to be strictly followed. Sometimes it is 
+
+good to make the learners pay attention to the form after they have worked with the grammar 
+
+point in different ways. 
+
+13 
+
+ 
+
+1.4.1 Types of exercises 
+
+Awareness raising 
+
+Awareness  raising  exercises  are  exercises  that  focus  learner’s  attention  on  “form 
+
+and/or meaning” (Ur 1996, 84). Thanks to exercises of this type, “there is no immediate need 
+
+to produce the item” (Thornbury 1999, 105), and the student’s attention is not distracted away 
+
+“from the brain work involved in understanding and restructuring” (ibid.). 
+
+These characteristics can be attributed to exercises in which the student has a text and 
+
+only underlines instances of a given grammatical item (Ur 1996, 84), exercises with answers 
+
+“already written in, some right some wrong” for the students to correct them (ibid.), exercises 
+
+with  several  alternatives  to  choose  from  (Thornbury  1999,  107  and  Scrivener  2005,  261), 
+
+exercises  with  matching  answers  to the  questions  (Scrivener  2005,  261), and  other  types  of 
+
+matching (sentence to a response, pictures to sentences, parts of sentences, etc.). 
+
+Most  of  the  awareness-raising  exercises  are  easier  than  other  exercises  in  that  the 
+
+students need to think just about grammar rules and nothing else. They also help the student 
+
+quickly  find  out  whether  they  understood  the  explanations  well.  Hence,  these  exercises  are 
+
+a good option for the first exercise of the practice section in any grammar unit. 
+
+Controlled practice 
+
+Learners  manipulate  the  language  following  the  rules  they  have  learnt.  They 
+
+sometimes  do  not  even  need  to  understand  the  content.  The  most  often  used  controlled 
+
+practice  exercises  are  fill-ins,  drills,  word  order,  and  sometimes  even  translations.  These 
+
+exercises  can  be  made  more  interesting  “by  the  introduction  of  piquant  or  amusing  subject 
+
+matter, or some game-like techniques” (Ur 1988, 9). The controlled practice can become more 
+
+meaningful by letting the learners use some words of their own choice (Ur 1996, 84). This is 
+
+usually done through personalization. 
+
+Fill-in the gap is a type of exercise with blanks instead of some words. Students are 
+
+usually  given  a  choice  of  words  to  fill  in.  Harmer  claims  that  “the  fill-in  is  a  favourite 
+
+technique  for  practising  and  testing  writing”  (1947,  52).  These  exercises  already  demand 
+
+writing.  However,  students  write  just  one  or  two  words  per  sentence,  which  makes  the 
+
+exercises  rather  fast,  time-saving,  sometimes  almost  drill-like  practice.  As  Harmer  puts  it:  
+
+“Fill-ins are fairly easy to write and are useful for quick practice of specific language points.” 
+
+(ibid.) 
+
+In written drill exercises, “students show that they can make correct sentences with the 
+
+new  item”  (Harmer  1947,  41).  These  sentences  are  “predetermined  by  the  teacher 
+
+14 
+
+ 
+
+or textbook” (Ur 1996, 84). A model sentence is usually followed by cues which the learner 
+
+has  to  use  in  his  or  her  sentences,  following  the  pattern  of  the  model.  These  are  called 
+
+substitution  drills  (term  used  by  Scrivener  2005,  257).  Scrivener  also  offers  several  more 
+
+kinds  of  drill,  some  of  them  being  suitable  also  for  written  practice:  transformation  drills 
+
+(students  need  to  use  their  own  words  to  express  information  given  by  the  textbook  using 
+
+the grammatical item), true sentences (students answer questions with sentences that are true 
+
+for  them;  again  they  are  told  what  grammatical  item  or  items  to  use),  transformation  into 
+
+a different grammatical structure (e.g. change into questions, or change into the past perfect), 
+
+and substitution drills with pictures. (ibid., 258-9) 
+
+Both  fill-ins  and  written  drills  are  very  much  controlled  and  “not  very  creative” 
+
+(Harmer 1947, 41) types of exercises. Written drills mean a lot of writing but, as a result, they 
+
+help the learner to become aware of the structure of the sentence. If they are too easy, they 
+
+can become boring and dull. “It is the difficulty and the sense of achievement that make drills 
+
+worth doing.” (Scrivener 2005, 256) On the other hand, it may be vital to insert practice that 
+
+is ‘too easy’, just to raise the confidence of the beginner learner. However, this should not be 
+
+done too often, rather just from time to time, and preferably with those grammatical items that 
+
+many a learner struggles with. 
+
+Word order exercises have jumbled sentences with words and phrases to put in their 
+
+original position. These exercises are very much controlled, as all the words are given. Yet 
+
+they are very useful because they practise something that “is a problem for most non native 
+
+speakers of English” (Harmer 1947, 53), moreover, “this is especially so in writing” (ibid.). 
+
+These  are  very  straightforward  exercises  and  do  not  leave  many  choices  to  their  author. 
+
+The only  choices  are  where  to  put  the  full  stop  (at  the  end  of  the  line  or  at  the  end  of  the 
+
+sentence)  and  which  parts  of  the  sentence  to  mix  as  individual  words  and  which  to  leave 
+
+rather as whole phrases (e.g. plays / Dominic / every Saturday morning / the piano).  
+
+Guided (meaningful) practice 
+
+The  output  language  is  not  much  controlled.  “Learners  form  sentences  of  their  own 
+
+according to a set pattern, but exactly what vocabulary they use is up to them.” (Ur 1996, 84)  
+
+An example of this type of exercise might be parallel writing. It is an exercise where 
+
+a text  of  certain  type  (postcard,  e-mail,  brochure,  etc.)  serves  as  a  model  and  students  are 
+
+asked to write something similar (Harmer 1947, 54). This type of exercise expects a teacher to 
+
+read  the  text  afterwards  and  correct  it.  Therefore,  it  is  not  very  suitable  for  a  self-study 
+
+grammar workbook. However, as the workbook only supplements a general English course, it 
+
+should be possible for the learners to hand in the writing to their general English teacher. 
+
+15 
+
+ 
+
+Free sentence composition 
+
+In  free  sentence  composition,  learners  get  a  situation,  a picture,  a  questionnaire 
+
+or some other cue and try to write sentences about it (Harmer 1947, 54 and Scrivener 2005, 
+
+265). Another kind of sentence composition expects the learners to deliver correct questions 
+
+to given answers. The composition is usually structure-based, which means that the students 
+
+are  directed  to  use  a  particular  structure.  The  present  thesis  includes  both  written  and  oral 
+
+tasks of this type. Suggested answers can be found in the key.  
+
+Discourse composition and free discourse 
+
+In free discourse exercises and activities, “learners hold a discussion or write a passage 
+
+according to a given a task” (Ur 1996, 84). The type of grammar practice where the students 
+
+are  directed  to  include  certain  structures  in  their  discourse  is  called  discourse  composition 
+
+(term  used  by  Ur,  ibid.).  Several  exercises  and  activities  of  these  types  are  included  in  the 
+
+workbook that is a part of the present thesis. There is no key to them. 
+
+Growing  stories  are  activities  in  which  the  first  sentence  of  a  story  is  given  and  the 
+
+students  are  asked  to  continue  either  completely  on  their  own,  or  with  the  aid  of  pictures 
+
+and/or selection of words to use (Scrivener 2005, 265). They represent a meaningful and vital 
+
+part  of  grammar  learning.  Stories,  as  it  was  with  parallel  writing,  expect  a  teacher  to  read 
+
+them afterwards and correct them.  
+
+16 
+
+ 
+
+1.5 The characteristics and needs of the target group 
+
+As  already  mentioned  in  the  Introduction  and  alluded  to  throughout  the  previous 
+
+chapters, the present thesis will include a grammar workbook, or at least a few representative 
+
+parts  of  it.  The  grammar  workbook  is  created  for  those  who  need  to  understand  grammar, 
+
+because, for some reason, they fail to acquire the rules they are expected to or want to use in 
+
+their general English course or a self-study process.  
+
+The target group chosen for this thesis is adult learners who are beginners, or have just 
+
+reached  an  elementary  level  of  English.  An  author  might  like  to  take  people  with  special 
+
+needs  into  account  when  creating  materials  such  as  the  intended  grammar  workbook.  This 
+
+chapter will therefore look into the needs of adult learners, and into the special educational 
+
+needs of students with SLD. 
+
+The  present  thesis  attempts  to  meet  the  needs  of  as  many  adult  learners  as  possible, 
+
+including adults with specific learning disabilities (SLD). 
+
+17 
+
+ 
+
+1.5.1 Adult learners 
+
+Adults  learn  in  ways  different  from  children.  Young  children  are  immersed 
+
+in the language,  their  mothers  talk  to  them  every  day  in  much  the  same  way,  and  children 
+
+naturally  pick  up  the language.  Till  about  7  years  old,  they  are  able to  absorb the  language 
+
+without  even  being  aware  that  they  are  learning  something.  They  learn  words,  structures, 
+
+pronunciation,  intonation,  usage,  all  at  once.  Yet,  as  Swan  argued  at  a  conference  in 
+
+Harrogate,  “you  can’t  get  the  natural  conditions  of  language  acquisition  (full-time  exposure 
+
+at an  early  age)  in  the  language  classroom.  Our  job  as  teachers  is  to  compensate  for 
+
+the absence of these conditions, not to try insanely to recreate them” (Oxford Teachers’ Club 
+
+2006). As Thornbury puts it, children “are better at picking up language implicitly, rather than 
+
+learning  it  as  a  system  of  explicit  rules.  Adult  learners,  on  the  other  hand,  may  do  better 
+
+at activities which involve analysis and memorisation” (1999, 27). This characteristic of adult 
+
+learners represents an important reason for teaching grammar. 
+
+Lieb (1991) describes several other characteristics of adult learners. Here are two of 
+
+them – those that may influence creation of a grammar book. 
+
+Seeing reason and purpose 
+
+The author claims that teachers “must show participants how the class will help them 
+
+reach their goals (e.g., via a personal goals sheet)”, and later in the article he points out that 
+
+“adults  are  relevancy-oriented”,  which  means  that  they  “must  see  a  reason  for  learning 
+
+something” (ibid.).  
+
+These needs can be satisfied in several ways. The grammar book can provide a well-
+
+structured preface, in which all the advantages of the book would be mentioned. It would be 
+
+vital for the most crucial advantages to appear at the back of the cover, too.  
+
+Another way to make learners aware of the usefulness of the workbook as a means of 
+
+achieving  their  goals  is  to  include  a  portfolio.  The  citation  above  suggests  personal  goals 
+
+sheet. In a book, the sheet, or portfolio, can hardly be personal, as the book is not aimed at 
+
+just  one  particular  person.  Rather,  the  book  is  to  be  used  by  as  many  learners  as  possible. 
+
+The solution to this can be to anticipate the goals of learners and create a portfolio that reflects 
+
+the most common goals, or to create more than one portfolio (e.g. one for learners whose goal 
+
+is to speak fluently, next for learners whose goal is to read books and articles in English, and 
+
+another one for learners who need English for writing). 
+
+It cannot be doubted that the most important way to make learners see the reason in 
+
+using the grammar book is to make sure that the content itself is relevant to what the learners 
+
+18 
+
+ 
+
+need. In the short term, they probably need to understand and practise the grammatical items 
+
+covered in the coursebooks they are using. In the present thesis, this need will be met by using 
+
+several general English coursebooks and workbooks to 
+
+1) find out what points are usually covered in the books (this is done in Chapter 2.1) 
+
+2) include the same or similar kinds of exercises and sentence structures 
+
+3) use the vocabulary (and maybe even the names) used in the books. 
+
+In  the  long  term  view,  learners  usually  need  to  make  themselves  understood 
+
+in English.  This  need  can  be  met  by  consulting  conversational  handbooks  or  Everyday 
+
+English sections in the coursebooks, and including examples from a real life communication 
+
+the  grammar  book.  Another  way  to  reach  the  goal  is  to  make  the  learners  speak  (see 
+
+Chapter 1.4). 
+
+Using life experiences and knowledge 
+
+Leib  claims  that  “adults  have  accumulated  a  foundation  of  life  experiences  and 
+
+knowledge  that  may  include  work-related  activities,  family  responsibilities,  and  previous 
+
+education”  (1991),  and  that  “they  need  to  connect  learning  to  this  knowledge/experience 
+
+base” (ibid.). Book writers cannot much rely on readers’ knowledge because they can never 
+
+know who will read their book. However, they can offer space for learners where it will be 
+
+possible  to  use  their  experiences.  In  a  grammar  exercise  book,  this  may  be  done  through 
+
+exercises where the learner completes sentences in such a way that the result is true for him 
+
+or her (e.g. My ________ didn’t eat _________ but now _________ ________ ___________ 
+
+can result into My son didn’t eat apples, but now he eats them, or My mother didn’t eat cheese 
+
+but now she eats it, or anything else), or through any other personalized activities. 
+
+19 
+
+ 
+
+1.5.2 Students with SLD 
+
+“Most people do not outgrow learning disabilities” (Gerber and Reiff In ERIC Digest 
+
+1998), although they usually stop having problems.  Some  of them because they finish their 
+
+studies and no longer learn anything. Others because they adopted certain strategies that help 
+
+them  deal  with  the  difficulty.  However,  when  adults  start  learning  a  foreign  language,  the 
+
+difficulties  might  re-emerge.  Dinklage,  who  was  trying  to  find  out  why  some  of  the  best 
+
+Harvard  University  students  have  problems  in  their  language  classes,  pointed  out  that  even 
+
+students not previously diagnosed as having learning difficulties showed up as having them in 
+
+the foreign language classroom (Schwarz 1997). The arguments in the present paragraph have 
+
+shown that even adults can have SLD and it is worth taking this into account when teaching 
+
+foreign languages. The question is how. 
+
+Ideas  relevant  to  the  creation  of  a  grammar  book  will  be  listed  below.  However,  it 
+
+should be borne in mind that “as with any aspect of learning for any learning disabled student, 
+
+no single solution is good for everybody” (ibid.). 
+
+Multisensory approach and learning strategies 
+
+Leib  claims  that  teachers  should  not  forget  that  “in  some  people,  one  sense  is  used 
+
+more than others to learn or recall information”, and should try to stimulate “as many senses 
+
+as  possible”  (1991).  Multisensory  approach  is  frequently  mentioned  in  connection  with 
+
+learning difficulties. For example, in her article on teaching adults with SLD Lowry proposes 
+
+to  “use  multisensory  techniques  when  teaching  groups”  and  to  “use  color  coding  whenever 
+
+possible” (1990). Schwarz (1997) names three areas of multisensory stimulation: visual (using 
+
+eyes),  tactile  (using  touch),  and  kinaesthetic  (using  movement).  He  does  not  mention  aural 
+
+stimulation, which seems to be very important to the authors of Anglický nápadníček (Ideas 
+
+for English). They claim that the more a dyslexic student listens to the spoken language whilst 
+
+watching the text, the faster he or she learns the language (Hurtová et al. 2006, 5). They also 
+
+add  to  the  idea  of  colour  coding.  It  is  explained  as  a  tool  to  help  dyslexic  people  orientate 
+
+themselves in a text, and, numbering the lines, or covering the text with a transparent colour 
+
+plastic film are two more tools helping the same purpose (ibid.).  
+
+All these suggestions should be mentioned in the preface to any book that tries to meet 
+
+the needs of people with SLD. Moreover, texts can be numbered by lines, and all exercises 
+
+should  be  numbered.  Clear  layout  of  the  pages  seems  essential.  This  can  be  supported  by 
+
+using  colours  where  feasible.  In  addition,  a  really  good  book  for  language  learners,  even 
+
+20 
+
+ 
+
+a grammar  book,  should  have  a  CD  with  things  to  listen  to  (either  audio  CD,  or  computer 
+
+CD/DVD with a lot of listening) enclosed.  
+
+The  multisensory  approach  reflects  on  the  fact  that  each  person  learns  in  a  different 
+
+way. By helping students to use the ways that fit them, we help them to learn effectively. This 
+
+idea is connected with the theory of learning styles. According to Wikipedia, “Learning Style 
+
+Theory proposes that different people learn in different ways and that it is good to know what 
+
+your  own  preferred  learning  style  is”  (Wikipedia  In  Skalová  2007,  19).  As  Gadbow 
+
+and DuBois  put 
+
+it,  “using  activities 
+
+that  represent  a  variety  of 
+
+learning  styles” 
+
+is one of techniques  that  help  students  to  cope  with  a  learning  disability  (In  Kerka  1998). 
+
+“The  basic  learning  styles  are  the  visual  learning  style,  the  auditory  learning  style, 
+
+and the tactile/kinesthetic  learning  style”  (Skalová  2007,  19).  The  classification  is  the  same 
+
+as in multisensory approach. Therefore, it would be vital for the preface with suggestions on 
+
+foreign  language  learning  to  be  based  on  both  the  practical  implications  of  multisensory 
+
+approach and the practical implications of the Learning Style Theory. Questionnaires can be 
+
+inserted to help the students find out what kind of learner they are may also be included. 
+
+Concrete and abstract 
+
+It is vital to “teach new concepts concretely because it is often easier for LD students 
+
+to learn the theory after learning its practical applications”, to “make abstract concepts more 
+
+concrete by ... relating new information to everyday life”, and to “make directions specific, 
+
+concrete, and understandable” (Lowry 1990). It is easier to understand abstract rules if it is 
+
+possible  to  see  a  model  of  how  it  works  first.  This  piece  of  information  supports  the  idea 
+
+of inductive grammar teaching (see Chapter 1.3.2).  
+
+To relate the rules to everyday life there can be comic pictures and pieces of real life 
+
+communication  in  the  workbook.  The  clarity  and  comprehensibility  of  directions  can  be 
+
+helped by use of examples. 
+
+Vocabulary 
+
+Schwarz  proposes  to  reduce  the  vocabulary  demand  (1997)  and  Kerka  suggests 
+
+minimizing  distractions  (1998),  which,  in  the  case  of  a  grammar  book,  may  refer  to 
+
+the vocabulary  demand,  too.  However,  the  higher  amount  of  words  the  students  know,  the 
+
+better  they  can  communicate  their  ideas.  For  these  reasons,  in  some  exercises  only  words 
+
+from beginner and elementary materials are used, whereas in other exercises rich vocabulary 
+
+is used.  
+
+21 
+
+ 
+
+Grammar rules 
+
+An  effective  strategy  to  cope  with  grammar  rules  is  to  prepare  a  list  of  example 
+
+sentences, one sentence for each rule (Hurtová et al. 2006, 5). The purpose of these sentences 
+
+is  to  learn  them  by  heart  so  that  they  help  the  learner  create  his  or  her  own  sentences. 
+
+Recorded on a tape or CD, they are a perfect way of using the multisensory approach (ibid.). 
+
+A list like this could be prepared by the author of the grammar book and put at the beginning 
+
+or the end of the book. In such case, recording the sentences onto the CD goes without saying. 
+
+Another  possibility  is  to  tell  students  about  this  strategy  in  the  preface  with  suggestions  on 
+
+learning languages, and advise them to make the list on their own. In the latter case, the rules 
+
+are  made  personal,  especially  if  they  are  accompanied  by  miniature  drawings  made  by 
+
+the student himself or herself. 
+
+Reviews 
+
+A  very  important  characteristic  of  a  grammar  book  is  the  way  it  reviews  the  points 
+
+covered  in  the  previous  chapters.  “Providing  constant  review”  is,  as  Schwarz  claims, 
+
+a principle  “known  to  be  effective  for  LD  students”  (1997).  When  a  book  wants  to  meet 
+
+the needs of students with SLD, it is vital to include more revision pages than usual. I propose 
+
+including  sections that  review  just  one  particular  point,  sections that  include  several  related 
+
+points  (e.g.  present  simple  together  with  present  continuous  before  teaching  to  distinguish 
+
+them),  and  sections  that  include  a  mixture  of  relatively  unrelated  points  (they  would  have 
+
+in common just the fact that they were dealt with in the several preceding chapters). 
+
+22 
+
+ 
+
+2 Practical part 
+
+So far, the present thesis has offered theoretical starting points, often with more than 
+
+one  suggestion  or  solution.  Every  grammar-book  author  needs  to  make  his  or  her  own 
+
+decision about a particular issue. Chapter 2.2 is a summary of my own choices; a few selected 
+
+example  units  of  a  grammar  workbook  for  adult  beginners  can  be  found  in  the  subsequent 
+
+chapters.  However,  first  of  all  we  need  to  find  an  answer  to  the  following  question:  Which 
+
+grammar points should the grammar book cover? 
+
+ 
+
+2.1 Grammar for beginners 
+
+This  chapter  investigates  which  grammar  items  are  usually  taught  at the  early levels 
+
+of English  (beginner  and  elementary).  Before  doing  so,  it  is  worth  mentioning  that  what 
+
+makes  a grammar  book  suitable  for  beginners  is  not  only  the  choice  of  grammar  items,  but 
+
+also  the  way  it  is  segmented  into  small  bits  of  knowledge  (e.g.  the  forms  of  to  be  are  not 
+
+introduced  all  at  once  in  all  types  of  sentences,  but  segmented  into:  positive,  negative, 
+
+and question,  each  practised  on  its  own  and  then  practised  together),  and  the  way  it  is 
+
+explained and practised. The exercises should always be ordered from the easiest to the most 
+
+difficult ones. 
+
+Harmer  wrote:  “Luckily  there  is  consensus  about  what  grammar  should  be  taught 
+
+at what level. ... While there may be variations in the actual order of grammatical items taught 
+
+...  a  glance  through  the  majority  of  currently  available  teaching  materials  will  show  how 
+
+strong  the  consensus  is.”  (1991,  23)  My  own  findings,  as  will  be  shown  below,  confirms 
+
+Harmer’s conclusions. 
+
+Which grammar points are taught at the early levels of English then? To answer this 
+
+question, several student’s books and workbooks have been consulted, namely New Headway 
+
+Beginner:  Workbook  with  key  by  Falla,  Soars  and  Soars  (2002),  Reward  Starter:  Practice 
+
+Book  by  Pye  and  Greenall  (1997),  Lifelines  Elementary:  Workbook  by  Hutchinson  (1999), 
+
+and  Angličtina  pro  samouky  (Self-study  Book  of  English)  by  Kollmannová  (1997).  These 
+
+were  chosen  with  consideration  of  what  materials  adult  beginner  learners  most  often  use. 
+
+The following  list  orders  the  first  thirty  grammar  items,  given  in  the  order  in  which  they 
+
+usually appear. 
+
+•  a/an 
+• 
+
+to be – am/is/are – singular 
+
+23 
+
+ 
+
+to be – am/is/are – plural 
+
+this/that/these/those 
+
+to have got 
+
+the imperative (both affirmative and negative) 
+
+•  nouns – forming plural 
+•  a/an/- 
+•  pronouns and possessive adjectives – singular 
+• 
+•  pronouns and possessive adjectives - plural 
+•  possessive ’s 
+• 
+•  prepositions of place – in/on/under 
+• 
+• 
+•  prepositions of place and movement – in/to 
+•  prepositions of time – in/at 
+•  present simple – negative (don’t) 
+•  present simple – question (do) 
+•  present simple – affirmative  (all persons) 
+•  adverbs of frequency 
+•  present simple – question and negative  (all persons) 
+•  present simple – wh-question 
+• 
+•  modal verbs – can (some books also teach would, must, have to or may) 
+•  past simple (was/were) 
+•  past simple (regular verbs) 
+•  past simple (irregular verbs) 
+•  present continuous 
+•  present continuous – negative and question 
+• 
+•  adjectives – superlatives and comparatives 
+• 
+
+future (present continuous) 
+
+there is / there are 
+
+future (will or going to) 
+
+The grammatical items taught in the chosen materials are almost the same, and their 
+
+order differs only slightly (except New Headway Beginner which teaches have got much later 
+
+than  all  of  the  other  materials).  Should  the  order  be  completely  the  same  in  all  of  the 
+
+materials, it might be useful to follow it while creating the grammar workbook. Under these 
+
+24 
+
+ 
+
+circumstances, the author need not feel committed to follow any given order but may choose 
+
+to  order  the  grammar  items  as  they  wish,  preferably  in  a  way  that  the  user  of  the  grammar 
+
+workbook easily finds what he or she needs to practise.  
+
+Furthermore,  the  organization  can  be  made  clearer  by  changes  of  the  names 
+
+of individual chapters. One of the ways to accomplish this is to use numbers instead of some 
+
+lengthy descriptions (the topic then might be specified in brackets after the title), for example 
+
+Present  simple  2  (don’t)  instead  of  Present  simple  –  negative  (don’t).  Another  option 
+
+grammar  books  use  sometimes,  is  to  title  the  chapter  with  an  example  of  the  grammatical 
+
+structure going first, for example I don’t... (present simple negative). 
+
+25 
+
+ 
+
+2.2 The organization of the grammar workbook 
+
+The workbook is to serve as an additional material to any general English course. It is 
+
+written  in  such  a  way  that  the  learners  can  work  with  it  at  home.  Its  aims  are  to  introduce 
+
+grammar items step by step, practise them in many different exercises (accuracy to fluency, 
+
+both  traditional  and  game-like),  and  to  make  the  learners  feel  that  they  are  able  to 
+
+communicate their ideas and that the English grammar is not overwhelming. 
+
+ 
+
+2.2.1 Decisions regarding the whole workbook 
+
+Materials 
+
+The  same  beginner  and  elementary  materials  are  going  to  be  used  as  were  used  in 
+
+Chapter 2.1, and several other materials, too. The majority are going to be materials for adults 
+
+with only several books for children or teenagers. 
+
+Names of units 
+
+The individual grammatical items will be called with their grammatical name, or with 
+
+a name used in the sources. In case of grammatical name, example of the structure will follow 
+
+in brackets, so that even those who do not remember the grammatical names will be able to 
+
+find what they need. Moreover, it will give the abstract concept a concrete form. 
+
+Czech vs. English 
+
+Except the portfolio, L1 will not be used at all. Grammar book authors can afford to 
+
+use  English  only,  as  their  book  just  accompanies  general  English  courses.  In  those  courses 
+
+then, the teacher can explain things the students did not understand when using the grammar 
+
+book.  Moreover,  the  students  should  learn  to  use  a  dictionary  and  enlarge  their  vocabulary 
+
+consequently.  To  make  things  easier  for  self-study  learners  using  materials  written  in  L1, 
+
+a list of the most common instructions can be included at the front or at the back of a full-
+
+length grammar book.  
+
+Vocabulary 
+
+Preferably, the same words will be used in the majority of exercises of the grammar 
+
+workbook as in the elementary sources. However, these do not need to be only the words used 
+
+in the respective units of the sources, but also words of some of the higher units. In exercises 
+
+where students work with above their level materials (e.g. BBC news), the vocabulary of the 
+
+source will be left without changes. The aim of such materials is not only to practise English 
+
+grammar,  but  also  to  expose  the  students  to  authentic  materials.  Students  do  not  need  to 
+
+26 
+
+ 
+
+understand  all  the  words,  but  they  have  a  unique  chance  to  relate  their  knowledge 
+
+to something real. 
+
+Grammar presentation 
+
+The usual practice of one page for explanations and one page for exercises will not be 
+
+followed. Reading a whole page of theory might be tedious. I believe it is a good idea to let 
+
+the user write and think already during the presentation stage. Therefore, in the present thesis 
+
+the presentation and the practice will merge a little. A clear and airy layout seems vital. 
+
+Grammar practice 
+
+All exercises will be numbered or marked with letters to help SLD students orientate 
+
+in the text. In a full-length grammar book, the interest and orientation can be heightened by 
+
+the  use  of  colours.  In  the  present  workbooks  various  writing  styles  are  used  in  their  stead. 
+
+Bold type is used to visually separate the instructions from the exercises. 
+
+A  revision  unit  should  follow  after  every  several  units,  consolidating  the  new 
+
+grammatical items. Here and there, a revision exercise consolidating one grammar item might 
+
+be inserted into a unit that practises a different item. 
+
+Pictures 
+
+A  grammar  book  consisting  of  text  only  might  look  boring.  To  make  it  more 
+
+interesting,  pictures  or  comic  pictures  can  be  added.  Each  unit  of  the  present  thesis  is, 
+
+therefore, enlivened by a picture. Most of these pictures are accompanied by an example of 
+
+a structure  taught  in  that  particular  unit,  so  that  the  eyes  of  the  reader  are  attracted  to  it 
+
+and the explanations  are  then  easier  for  him  or  her  to  internalize.  I  must  apologize  here  for 
+
+the quality of some of the pictures used. Their quality is far from professional due to the fact 
+
+that they are drawn in my own hand.  
+
+Key 
+
+A  key  is  an  indispensable  part  of  any  practice  book  that  is  intended  for  self-study. 
+
+Most  of  the  exercises  are  accompanied  with  a  straightforward  key,  freer  exercises  are 
+
+accompanied just with suggested answers, and some free exercises are left completely without 
+
+key  as  checking  free  discourse  with  a  key  might  make  the  learners  pay  attention  more 
+
+to the form than to the content and so the practice might result in another accuracy exercise. 
+
+The present key is written with regard to SLD students, who would easily get lost in a key 
+
+written  in  lines,  should  they  work  in  columns  or  other  alternative  shapes  in  the  exercises. 
+
+Thus the key needs to reflect (at least to some degree) the layout of the actual exercises.  
+
+27 
+
+ 
+
+Portfolio 
+
+The present thesis contains just an example of a portfolio. It serves recoding progress 
+
+and  success  of  learners  who  have  just  gone  through  the  first  units  of  the  workbook. 
+
+The usefulness of the portfolio is explained to the learners at its beginning. It might be better 
+
+to  insert  the  portfolio  after  a  revision  unit  than  to  have  all  the  portfolios  at  the  back  of  the 
+
+book, where they could easily escape the learners’ notice.  
+
+The form of the portfolio was inspired by  Upstream  Elementary (Evans and Dooley 
+
+2005) and by Deníček: Soubor podpůrných materiálů k učebnici Chit Chat 1 (Little Journal: 
+
+A Collection of Support Materials to Chit Chat 1) by Hartingerová, et al. (2005). The former 
+
+source is all in English, the latter is in Czech. I assume that Czech is more appropriate for the 
+
+target  group,  especially  when  they  are  talking  about  learning  grammar.  A  practical  feature 
+
+of both  materials  is  that  they  give  the  learner  opportunities  to  remember  the  piece 
+
+of knowledge in discussion by reading, writing or working with a practical example of it. 
+
+2.2.2 Decisions regarding individual units 
+
+Unit 1 
+
+The  present  unit  deals  with  the  two  different  forms  of  the  indefinite  article. 
+
+The presentation begins with a dialogue between a teacher and a student, where the student 
+
+gets the article wrong. The users of the workbook learn why this was wrong in the following 
+
+exercise.  The  rule  is  to  be  induced  from  examples  in  a  table.  The  teacher  can  advise  the 
+
+students  to  circle  the  article  and  the  first  letter  in  the  pronunciation  with  the  same  colour. 
+
+This can help the learners to make the rule even easier to recognize. The students do not need 
+
+to formulate the rule on their own. They just complete sentences.  
+
+Most of the exercises in this unit are awareness-raising and accuracy oriented. Some 
+
+of them are traditional (exercises 4 and 8), some of them are more game-like (exercises 5-7). 
+
+The last part of exercise No. 6 is a guided meaningful practice of the parallel-writing type (see 
+
+Chapter  1.4).  The  exercise  was  inspired  by  Timesaver  Grammar  Activities  (Degnan-Veness 
+
+2001,  58).  The  last  exercise  of  the  unit  uses  an  authentic  material,  namely  a  BBC  article 
+
+on back pain. The article was chosen so that many examples of the target grammar are present 
+
+and the topic is relevant to adult learners at the same time. 
+
+Other sources used for writing this unit were New Headway Beginner: Workbook with 
+
+key  by  Falla,  Soars  and  Soars  (2002),  New  Headway  Elementary:  Workbook  with  key  by 
+
+Soars,  Soars  and  Wheeldon  (2006),  Lifelines  Elementary:  Workbook  by  Hutchinson  (1999), 
+
+28 
+
+ 
+
+Cutting  Edge:  Workbook  by  Moor  and  Cunningham  (2001),  and  Angličtina  pro  samouky 
+
+(Self-study Book of English) by Kollmannová (1997). 
+
+Unit 2 
+
+The  second  Unit  focuses  on  forming  plurals  of  nouns.  A  deductive  approach  seems 
+
+more appropriate for this item than an inductive one, as the many exceptions make the rule 
+
+difficult  to  identify  and  formulate.  The  presentation  is  combined  with  practice  so  that 
+
+the result  is  livelier.  The  practice  in  the  presentation  part  of  the  unit  consists  only 
+
+of awareness raising exercises that are very easy and therefore do not need to be accompanied 
+
+with a key.  
+
+Exercise  No.  6  is  to serve  as a  revision  of  what  irregular  forms  students  know  from 
+
+their  general  English  course.  The  pronunciation  of  the  words  is  supplied  as  students  often 
+
+mispronounce  them.  Exercise  No.  7  is  an  accuracy-oriented  exercise,  which  –  besides 
+
+grammar  –  also  practises  students’  knowledge  of  numbers.  The  following  exercise  is 
+
+a difficult awareness raising exercise but on the other hand it is fun. Although the form of the 
+
+exercise would be more appropriate for small children, I decided to use it because so far all 
+
+the exercises of the unit have been traditional and I felt that it needs some refreshment. It also 
+
+consolidates  the  usage  of  indefinite  articles  taught  in  Unit  1.  Exercise  No.  9  is  a  free 
+
+composition  based  on  pictures.  Although  the  learners  are  not  expected  here  to  use  whole 
+
+sentences,  the  example  indicates  that  the  learners  use  adjectives  to  describe  the  pictures. 
+
+The instruction to the exercise tells the students to compose their answers both orally and in 
+
+writing.  This  is to  help them  develop  also their speaking  skills.  The  answers  in the key  are 
+
+only suggested answers, not the only correct solution. Exercise No. 10 is a two-in-one game. 
+
+It  practises  singular  and  plural  forms  of  several  words.  The  eleventh  exercise  is  a  creative 
+
+writing at the level of words. The card on the left is a guided meaningful practice, whereas 
+
+the card  on  the  right  represents  a  freer  practice.  There  is  no  key  for  the  last  two  exercises. 
+
+Some  of 
+
+the  words  of  Unit  1  reappear 
+
+in 
+
+this  unit 
+
+to  reinforce 
+
+the  students’ 
+
+knowledge of them. 
+
+The major sources for writing this unit were Grammar Practice Activities: A practical 
+
+guide  for  teachers  by  Ur  (1988),  Reward  Elementary:  Student’s  Book  by  Greenall  (1997), 
+
+New  Headway  Elementary:  Student’s  Book  by  Soars  and  Soars  (2006),  New  Headway 
+
+Elementary: Workbook with key by Soars, Soars and Wheeldon (2006), Lifelines Elementary: 
+
+Workbook by Hutchinson (1999), and  Angličtina  pro  samouky (Self-study Book of English) 
+
+by Kollmannová (1997). 
+
+29 
+
+ 
+
+Unit 3 
+
+Affirmative  forms  of  the  verb  to  be  are  introduced  in  this  Unit,  both  singular 
+
+and plural. The rules are introduced through a combination of guided discovery (in exercise 
+
+No.1) and deductive approach (in exercise No.2).  
+
+The discovery technique used in the first exercise is inspired by Hutchinson, who tries 
+
+to  introduce  grammar  analytically  in  all  of  his  books,  for  example  in  New  Hotline  Starter 
+
+(1998). The same sentences are used in the exercise as in the introductory picture. This helps 
+
+the  learner  to  relate  the  picture  to  the  grammar  item  and  prevents  puzzlement  about  what 
+
+sentences  to  read.  Some  puzzlement  might  arise  about  what  to  fill  in  into  the  table. 
+
+The students are helped with this by the forms of the verb  to  be being written in bold print 
+
+in the sentences. Moreover, a completed table is included in the key for students who need to 
+
+be reassured that their solution is the right one. Short forms are treated separately in exercise 
+
+No. 2. The exercise combines grammar presentation with awareness-raising grammar practice 
+
+and  I  assume  students  will  find  this  very  easy,  almost  tedious.  Therefore,  a  key  to  this 
+
+exercise is not included in the workbook. 
+
+Exercise No.3 is a fill-in the gap exercise with a limited choice of forms. The students 
+
+are  immediately  confronted  with  sentences  with  names  in  the  place  of  pronouns.  Exercise 
+
+No.4  is  a  creative  awareness-raising  activity.  Students  write  their  own  sentences  using 
+
+a choice of words from a table. A key is not included for this exercise. The following exercise 
+
+is a typical fill-in the gap exercise but the forms to choose from are not indicated. Exercise 
+
+No. 6 is traditional word order exercise. Exercises 7 and 8 are oral free discourse exercises. 
+
+Learners  are  not  told  what  structures  to  use.  The  students  will  use  exactly  those  structures 
+
+they feel confident about, and after they gain even more confidence, they will probably try to 
+
+use more complicated structures. A similar idea is present in the following exercise. This is 
+
+a free sentence composition based on four pictures. Here the students are given an opportunity 
+
+to learn some more complicated structures when consulting the key with suggested answers. 
+
+Exercise  No.  10  is  oral  practice  again,  but  this  time  it  is  more  game-like  and  an  example 
+
+structure is shown. The last exercise is an awareness-raising game-like exercise. It looks easy, 
+
+but it is not. The learners will need to re-think some of their choices to complete the exercise 
+
+successfully. 
+
+The  major  sources  used  for  writing  this  unit  were  Lifelines  Elementary:  Workbook 
+
+(Hutchinson 1999), Reward Starter: Practice Book (Pye and Greenall 1997), New Headway 
+
+Beginner:  Workbook  with  key  (Falla,  Soars  and  Soars  2002),  and  Angličtina  pro  samouky 
+
+(Self-study Book of English) by Kollmannová (1997). 
+
+30 
+
+ 
+
+Unit 4 
+
+The fourth unit of the present thesis is devoted to pronouns and possessive adjectives. 
+
+The  presentation  of  this  topic  is  treated  in  a  very  similar  way  to  Unit  3.  This  means  that 
+
+an inductive  approach  was  chosen  and  the  discovery  is  realized  with  the  aid  of  a  grammar 
+
+chart. It consists of just one exercise accompanied with a key. The exercise might sound a bit 
+
+stilted.  The  reason  for  this  is  that  all  pronouns  as  well  as  possessive  adjectives  need  to  be 
+
+there. Moreover, I believe that it is student friendly when the explanations manage to relate 
+
+to the picture used in the unit. 
+
+The  rest  of the  unit  deals  with  practice.  Exercises  2-3  and 5-7  are  awareness-raising 
+
+and accuracy-oriented; exercises 4 and 8-12 are freer.  
+
+The  first  two  exercises  practise  limited  choice  of  forms.  The  next  exercise  is  a  free 
+
+writing  activity  similar  to  growing  stories.  Students  are  given  first  two  sentences 
+
+of a paragraph  about  an  imaginary  man.  They  are  told  to  use  four  chosen  words  in  their 
+
+writing.  Exercise  No.  5  is  difficult  but  students  need  this  kind  of  practice  as  this  type 
+
+of exercise  appears  in  many  of  the  consulted  materials.  The  following  exercise  was  taken 
+
+from  Falla  and  Soars  (2002,  13)  and  adapted  to  practise  the  respective  grammar  item  more 
+
+intensively than in the source. In the original version, students are to complete the text with 
+
+many  different  words.  Here  the  blanks  are  spread  so  that  they  are  all  just  pronouns  and 
+
+possessive adjectives. Exercise No. 7 is an imaginative activity by Kollmannová (1997, 5). It 
+
+represents  a  list  of  people  who  attended  a  party.  It  was  slightly  modified,  so  that  it  is  not 
+
+boring for students who learn English from Kollmannová’s textbook. 
+
+Exercise  No.  8  is  a  free  sentence  composition  based  on  information  about 
+
+an imaginary  person,  Sarah  Green.  Exercise  No.  9  is  a  personalized  version  of  the  same 
+
+exercise.  The  following  two  exercises  are  meaningful  oral  activities.  The  first  of  them  is 
+
+guided (examples of the language are shown) and the second one is completely free. There is 
+
+no key for exercises 9-11. The last exercise is a free writing exercise taken from Ur (1988, 
+
+165). The pictures are taken from Ur, too (ibid., 65). It is difficult, as the learners need to limit 
+
+their  ideas  to  the  structures  they  know.  However,  they  might  know  more  than  has  been 
+
+covered in the grammar workbook. Suggested answers can be found in the key. 
+
+Besides Ur, the sources used for writing this unit were Reward Elementary: Student’s 
+
+Book by Greenall (1997),  Reward  Starter:  Practice  Book by Pye and  Greenall (1997),  New 
+
+Headway  Elementary:  Student’s  Book  by  Soars  and  Soars  (2006),  New  Headway  Beginner: 
+
+Workbook with key by Falla, Soars and John Soars (2002), and Angličtina pro samouky (Self-
+
+study Book of English) by Kollmannová (1997). 
+
+31 
+
+ 
+
+2.3 The grammar workbook 
+
+2.3.1 Unit 1 – a/an 
+
+1 Read the dialogue. 
+
+Teacher: What is in the picture, Peter? 
+
+Student: A book, a pencil, a car, a house, and  a ice-cream. 
+
+Teacher: AN ice-cream! 
+
+Student: An ice-cream? 
+
+Teacher: Yes, an ice-cream. 
+
+ 
+
+2 Look at the table and read the words. What is the rule?  
+
+spelling
+spelling    
+spelling
+spelling
+anananan ice-cream 
+aaaa   book 
+anananan umbrella 
+anananan apple 
+aaaa   teacher 
+aaaa   uniform 
+a a a a   sandwich 
+
+pronpronpronpronunciation
+unciation    
+unciation
+unciation
+[ˌaiaiaiaisˌkri:m] 
+[bbbbˌk] 
+[ˌˌˌˌmˌbrelˌ] 
+[ˌææææpl] 
+[ˌttttiˌˌˌ] 
+[ˌjjjjuˌnˌfˌˌm] 
+[ˌssssænwˌˌ] 
+
+ 
+
+3 Write a/an to form the rule.  
+
+__________ → We pronounce the following word with a vowel at the beginning.  
+
+ 
+
+ 
+
+ 
+
+(ˌ, æ, e, ˌ, ˌ, ˌ, ai, ei,
+ˌ, æ, e, ˌ, ˌ, ˌ, ai, ei, etc.) 
+ˌ, æ, e, ˌ, ˌ, ˌ, ai, ei,
+ˌ, æ, e, ˌ, ˌ, ˌ, ai, ei,
+
+__________ → We pronounce the following word with a consonant at the beginning. 
+
+ 
+
+ 
+
+ 
+
+(b, d, f, j, m, s, t, v, 
+b, d, f, j, m, s, t, v, etc.) 
+b, d, f, j, m, s, t, v, 
+b, d, f, j, m, s, t, v, 
+
+4 Use the rule to choose the correct alternative.  
+
+1) This is __________________. 
+
+2) He is ___________________. 
+
+3) She is __________________. 
+
+4) Jack is _________________. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) a pencil 
+
+a) a actor 
+
+ 
+
+ 
+
+b) an pencil 
+
+b) an actor 
+
+a) a good doctor 
+
+b) an good doctor 
+
+a) a old man 
+
+ 
+
+b) an old man 
+
+ 
+
+32 
+
+ 
+
+ 
+
+5 Write the words onto the correct lines. (Pište slova na správné řádky.) 
+
+actor [ˌæktˌ], man [mæn], woman [ˌwˌmˌn], address [ˌ’dres], American [ˌ’merˌkˌn]  
+
+ 
+
+ 
+
+a 
+
+an 
+
+ 
+
+ 
+
+6 Complete the shopping lists with a/an. Then write your own shopping list. 
+
+Wendy’s shopping list 
+
+  Nick’s shopping list 
+
+  Your shopping list 
+
+_____ 
+
+chocolate 
+
+______ chicken burger 
+
+_____________________ 
+
+cake 
+
+_____ apple juice 
+
+_____ Madonna CD 
+
+_____ pink T-shirt 
+
+______ orange juice 
+
+______ Offspring CD 
+
+_____________  Arsenal 
+
+school 
+
+Football Club T-shirt 
+
+_____ 
+
+uniform 
+
+ 
+
+7 Match the grey rectangles to the correct circle.  
+
+_____________________ 
+
+_____________________ 
+
+_____________________ 
+
+_____________________ 
+
+_____________________ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         A 
+
+ 
+
+ 
+
+ 
+
+      AN 
+
+ 
+
+ 
+
+good actor 
+
+ 
+
+e-mail 
+
+ 
+
+English lesson 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+architect 
+
+ 
+
+ 
+
+old ink pen 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+green apple 
+
+ 
+
+ 
+
+ 
+
+sales manager 
+
+ 
+
+ 
+
+ 
+
+ice-cream 
+
+ 
+
+ 
+
+ 
+
+33 
+
+ 
+
+8  Complete  the  BBC  news  on  back  pain  with  a/an.  All  you  need  to  know  is 
+
+the pronunciation of the words after the blanks. 
+
+ 
+
+Back pain 
+Back pain is one of the most common ailments in the UK. 
+ 
+It is thought more than 17 million Britons suffer from the problem, and the Health and 
+Safety Executive estimates that it is responsible for nearly 5 million lost working days a 
+year. 
+ 
+How is the back made up? 
+The major feature is the spine. This is ____ highly complex and delicate structure which is 
+made up of 33 small bones called vertebrae. In between each vertebra is ____ disc which acts 
+as ____ shock absorber, and stops the bones rubbing together. The discs are made up of ____ 
+jelly like substance, which is protected by ____ tough, fibrous outer casing. The spine is 
+supported by specialised back muscles, and ____ array of ligaments, nerves and tendons. 
+ 
+Why is back pain on the increase? 
+Experts believe that ____ major factor is the modern tendency to lead ____ sedentary 
+lifestyle, both at work and home. Spending long stretches of time sitting in one position - 
+often with the back not properly supported - is not good for the spine. The reliance on comfy 
+soft furnishing may seem appealing - but often it encourages us to adopt ____ poor posture. 
+Back pain is much less common in places such as India, where many more people are used to 
+sitting on the floor, which is thought to allow the back muscles to find their own natural 
+position. 
+ 
+How can you minimise the risk? 
+The spine is naturally curved into ____ S shape. The best way to keep it healthy is to try to 
+maintain this shape as much as possible. This is particularly important when performing 
+tasks, such as lifting, that carry ____ increased risk of injury. Strengthening the back 
+muscles, keeping fit by taking regular exercise, and maintaining ____ healthy weight can all 
+help to minimise the risk of back pain. It is also important to have ____ mattress that 
+properly supports the body while you are asleep. If you do have ____ bad back probably the 
+worst thing you can do is take to your bed. Experts believe that it is best to stay as active as 
+you possibly can. 
+ 
+Could there be another explanation for back pain? 
+Some lumbar and lower spinal pain is caused by patients having one leg longer than the 
+other. This puts the pelvis out of alignment causing pain, which without correction leads to 
+long term compensatory problems such as back pain. In this case it might be wise to consult 
+____ podiatrist who will measure the patient's limbs and if required provide either 
+____orthoses - ____ orthopedic appliance used to support, align, prevent, or correct 
+deformities - or arrange to modify the patients shoe to correct the difference.  
+ 
+ 
+
+ 
+
+Source: http://news.bbc.co.uk/2/hi/health/medical_notes/4722017.stm 
+
+Note: The text was shorteneded to fit the page (several paragraphs were left out). 
+
+34 
+
+ 
+
+2.3.2 Unit 2 – plurals of nouns (car/cars) 
+
+ 
+
+   
+
+1 Add –s to form plurals.  
+
+Example: a rose – roses  
+
+a key – keys      a teacher – teachers 
+
+(Notice there is no a/an with the plurals.) 
+
+1) an actor – ______________ 
+
+4) an apple – _________________ 
+
+2) a bag – ________________ 
+
+5) a pencil –  _________________ 
+
+3) a book – _______________  
+
+6) a message –  _______________ 
+
+ 
+
+2 Try to say these sounds. Which are easier? 
+
+-s [s] 
+
+ss       ˌs       ˌs       kss 
+
+-es [ˌz]  sˌz     ˌˌz       ˌˌz     ksˌz 
+
+ 
+
+3 Add –es to form plurals. 
+
+1) a watch – ________________ 
+
+4) a box –  _________________ 
+
+2) a glass –  ________________ 
+
+5) a bus –  _________________ 
+
+3) a wish –  ________________ 
+
+6) a class – ________________ 
+
+ 
+
+4 Write –s/ –es.  
+
+a) two ice-cream____ 
+
+c) four sandwich_____ 
+
+e) six apple____ 
+
+b) three book____ 
+
+d) five e-mail_____ 
+
+f) seven watch_____ 
+
+ 
+
+5 Final –y (but not final –ay, -ey, -oy, -uy) changes into –ies.  
+
+a baby – babies 
+
+a dictionary – _______________ 
+
+a family - _______________ 
+
+a party – parties  
+
+a country – _________________ 
+
+a lady - _________________ 
+
+35 
+
+ 
+
+6 Write irregular plurals. Read the pronunciation. 
+
+a man – ________  [mæn – men]  
+
+a  woman  –  __________  [ˌwˌmˌn  – 
+
+a  child  –  ________ 
+
+[ˌaild  – 
+
+ˌwˌmˌn]  
+
+ˌˌˌldrˌn] 
+
+a  person  –  ___________  [ˌpˌˌsˌn  – 
+
+ 
+
+7 Write numbers and the plural forms. 
+
+ˌpiˌpl ] 
+
+a) a car (2) 
+
+b) a game (6) 
+
+c) a baby (3) 
+
+d) a rose (10) 
+
+e) a watch (4) 
+
+two cars 
+six games 
+ 
+ 
+ 
+
+ 
+
+f) a pen (8) 
+
+ 
+  g) a person (12) 
+  h) an address (2) 
+ 
+
+i) a friend (5) 
+
+ 
+
+j) a day (7) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 Colour two correct alternatives in each line.  
+
+six coutries 
+
+an umbrella 
+
+a countries 
+
+a country 
+
+three countrys 
+
+an umbrellas 
+
+two umbrellas 
+
+six umbrellases 
+
+two uniformes 
+
+six uniforms 
+
+a uniform 
+
+an uniform 
+
+one sandwiches 
+
+one sandwich 
+
+three sandwichs 
+
+three sandwiches 
+
+a e-mail 
+
+six orangees 
+
+two e-mails 
+
+a orangees 
+
+an e-mail 
+
+an orange 
+
+eight e-mailes 
+
+five oranges 
+
+ 
+
+9 What is in the pictures? Say and write. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a ...a short pencil..... 
+
+b ............................ 
+
+c ............................ 
+
+d ............................. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e ............................. 
+
+f ............................ 
+
+g ............................ 
+
+h ............................. 
+
+ 
+
+36 
+
+ 
+
+37 
+
+ 
+
+10 Work with a partner or partners.   
+
+a) Cut the cards from Appendix 1 and play dominoes. 
+
+b) Cut the cards in halves and play pelmanism (find a pair / memory game). 
+
+ 
+
+11 Look around you. What do you see? How many? Complete the lists. Use a dictionary. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one ____________________ 
+ 
+
+____________  ________________ 
+
+two ____________________ 
+ 
+
+____________  ________________ 
+
+two ____________________ 
+ 
+
+____________  ________________ 
+
+three ___________________ 
+
+____________  ________________ 
+
+four ____________________ 
+
+____________  ________________ 
+
+five ____________________ 
+
+____________  ________________ 
+
+38 
+
+ 
+
+2.3.3 Unit 3 – forms of to be (am/is/are) 
+
+ 
+
+1 Read the sentences. Then complete the table.  
+
+ 
+
+She is a woman. 
+
+He is a man. 
+
+They are happy. 
+
+You are here now. 
+
+We are old. 
+
+I am a student. 
+
+ 
+
+ 
+
+He 
+
+She 
+
+It 
+
+You 
+
+We 
+
+They 
+
+ 
+
+a woman. 
+
+a man. 
+
+a student. 
+
+happy. 
+
+here now. 
+
+I 
+
+............... 
+
+............... 
+
+............... 
+
+old. 
+
+2 We often use short forms in English. 
+
+I’m from Britain. = I am from Britain. 
+
+She’s from the Czech Republic. = She is from the Czech Republic. 
+
+We’re from France. = We are from France. 
+
+I’m Peter. = ..................................................................................... 
+
+He’s a student. = ............................................................................. 
+
+It’s a nice house. = .......................................................................... 
+
+They’re Italian. = ............................................................................ 
+
+  
+
+3 Write am/are.  
+
+a) I ______ happy. 
+
+b) We _______ from Germany. 
+
+c) Jack and Jill ______ from Britain. 
+
+d) Jim and I ______ from the USA. 
+
+39 
+
+ 
+
+4  Use  the  table  to  write  sentences.  How  many  different  sentences can  you  write  in  just 
+
+thirty seconds? Set a countdown and try.  
+
+am 
+
+’m 
+
+is 
+
+’s  
+
+are 
+
+’re  
+
+I 
+
+He 
+
+She 
+
+It 
+
+You 
+
+We 
+
+They 
+
+ 
+
+an actor. 
+
+a manager. 
+
+young. 
+
+from Spain. 
+
+Spanish. 
+
+American. 
+
+in Prague. 
+
+here. 
+
+You’re young.  ................................................. 
+
+.......................................................................... 
+
+.......................................................................... 
+
+.......................................................................... 
+
+.......................................................................... 
+
+.......................................................................... 
+
+.......................................................................... 
+
+.......................................................................... 
+
+.......................................................................... 
+
+5 Write the correct form.  
+
+a) Mary ________ happy. 
+
+e) Mary and Sue ________ American. 
+
+b) She _______ from the USA. 
+
+f) They ________ doctors. 
+
+c) John _______ in Paris. 
+
+d) I _______ a waiter. 
+
+ 
+
+6 Write the words in the correct order.  
+
+g) You ________ an architect. 
+
+h) Rachel ________ a teacher. 
+
+a) an / actor / is / she  ................................................................................................. 
+
+b) are / they / London / from ........................................................................................ 
+
+c) am / the / from / Czech republic / I .......................................................................... 
+
+d) Mary / Peter / Paris / are / in / and .......................................................................... 
+
+e) student / Katrin / a / is ............................................................................................. 
+
+f) friends / are / we 
+
+............................................................................................... 
+
+g) teacher / my / from / is / London ............................................................................ 
+
+h) taxi / driver / John / a / is / ......................................................................................  
+
+ 
+
+7 Look at Appendix 2. Colour cards 5-8. What is in the pictures? Try to describe the 
+
+pictures in different ways. 
+
+ 
+
+8 Make similar cards. What is in the pictures? 
+
+You can draw for example: a tree or trees, a glass or glasses, a bed or beds. 
+
+40 
+
+ 
+
+9 What is in the pictures? Write sentences. 
+
+ 
+
+a 
+
+ b 
+
+ 
+
+ c 
+
+ 
+
+d 
+
+ 
+
+a) ............................................................................................ 
+
+b) ........................................................................................... 
+
+c) ........................................................................................... 
+
+d) ........................................................................................... 
+
+ 
+
+10 Talk with a partner or partners. Look at cards 1-4 in Appendix 2. What is 
+
+in the pictures? 
+
+a) Use: sad, happy, small, big. 
+
+b) Don´t show your card to your partner. Let him or her guess.  
+
+ 
+
+ 
+
+It is a baby! 
+
+No! 
+
+c) Play with cards from exercise 7 and 8. 
+
+ 
+
+11 Match. 
+
+ 
+
+ 
+
+This is 
+
+ 
+
+She is 
+
+ 
+
+He is  
+
+ 
+
+Tom and Gwyneth are  
+
+ 
+
+These are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+good books. 
+
+ 
+
+a famous actor. 
+
+ 
+
+an exercise. 
+
+ 
+
+famous actors. 
+
+ 
+
+an elegant woman. 
+
+41 
+
+ 
+
+2.3.4 Unit 4 – possessive adjectives (my, your, her ...) 
+
+ 
+
+1 Read the sentences and complete the table.  
+
+I am John. This is my mobile.  
+
+It is new. Its colour is white. 
+
+You are Kate. Your mobile is black. 
+
+We are friends. Helen is our friend, too. 
+
+ 
+
+She is a happy woman. Her husband is a 
+
+happy man.  
+
+They are happy. Their son is happy, too.  
+
+He is 3. His name is Sam. 
+
+ 
+
+2 Write she/her. 
+
+ 
+
+Possessive 
+
+adjectives 
+
+my 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pronouns 
+
+I 
+
+you 
+
+we 
+
+they 
+
+he 
+
+she 
+
+it 
+
+Mandy  is  an  architect.  _____’s  26  and  ______’s  married.  _____  husband  is  thirty-two  and 
+
+____ son is one. Mandy likes flowers. _____ favourite flowers are roses. 
+
+ 
+
+3 Write his/her/they/their. 
+
+Paul is an actor. He likes _____ job. ______ wife, María, is a shop assistant. She also likes 
+
+_____ job. ______ are both 40. ______ are from Brazil. _______ daughter is in the USA now. 
+
+ 
+
+4 Read about David. Continue. Use: wife, sons, clever, busy. 
+
+David is an old man. He is 60 and he lives in Dublin with his family... 
+
+42 
+
+ 
+
+5 Choose the correct form.  
+
+a) Their/They are from Italy. 
+
+e) Where are you/your from? 
+
+b) Her/She’s name’s Sally. 
+
+c) His/He’s from the USA. 
+
+f) What’s she/her name? 
+
+g) Is you/your teacher good? 
+
+d) His/He’s teacher is in Russia. 
+
+h) Rachel is I/my teacher. 
+
+ 
+
+6 Complete the conversations.  
+
+ 1  Andy 
+
+Hello. ________ name’s Andy. 
+
+ 2  Tom 
+
+Hello, Andy! How are ______? 
+
+ 
+
+What’s _______ name? 
+
+Andy 
+
+Very well, thanks. And 
+
+Suzi 
+
+_______ name’s Suzi. 
+
+ 
+
+______? 
+
+Andy 
+
+Where are _______ from, 
+
+Tom 
+
+________’m fine, thanks. 
+
+ 
+
+Suzi? 
+
+ 
+
+Who’s that girl over there? 
+
+Suzi 
+
+I’m from Hamburg, in 
+
+Andy 
+
+______’s my new friend. 
+
+ 
+
+ 
+
+Germany. And ________? 
+
+ 
+
+______ name’s Suzi. 
+
+Where are _________ from? 
+
+Tom 
+
+Where’s ______ from? 
+
+Andy 
+
+_______’m from Boston. 
+
+Andy 
+
+______’s from Germany. 
+
+ 
+
+7 Who was at the party? 
+
+(cid:1) we and ______ three children 
+
+(cid:1) we and ______ neighbours 
+
+(cid:1) Miss Brown and ______ brother 
+
+(cid:1) Paul and ______ wife 
+
+(cid:1) Jane and ______ friend Sarah 
+
+(cid:1) four students and ______ teacher 
+
+(cid:1) Mr and Mrs Hill and ______ daughter 
+
+(cid:1) a French woman with ______ husband 
+
+(cid:1) Peter and ______ friend Andy 
+
+(cid:1) you and _______ sister Kate  
+
+ 
+
+8 Look at the table. Write sentences about Sarah. 
+
+Name: Sarah Green 
+
+........................................................................... 
+
+Country: the USA 
+
+........................................................................... 
+
+Age: 29 
+
+Job: nurse 
+
+ 
+
+Family:  
+father – 61, architect 
+mother – 54, teacher 
+brother – 27, actor 
+
+........................................................................... 
+
+........................................................................... 
+
+........................................................................... 
+
+............................................................................ 
+
+............................................................................ 
+
+ 
+
+43 
+
+ 
+
+9 Fill in the table about you. Then write sentences. 
+
+Name:  
+
+Country:  
+
+Age: 
+
+Job:  
+
+Family:  
+ 
+
+ 
+
+.......................................................................................................... 
+
+.......................................................................................................... 
+
+.......................................................................................................... 
+
+.......................................................................................................... 
+
+.......................................................................................................... 
+
+......................................................................................................... 
+
+10  Talk  with  a  partner  or  partners.  Put  your  pens,  pencils,  books,  mobile  phones,  etc. 
+
+on the table. 
+
+This is my mobile phone. 
+
+This is 
+his bag. 
+
+This is your book. 
+
+ 
+
+ 
+
+ 
+
+11  Take  a  photograph  of  your  family.  Talk  about  them.  Say  as  much  information 
+
+as possible.  
+
+ 
+
+12 Compare the pictures. Write sentences. 
+
+The girl in picture A is blonde, but ... 
+
+ 
+
+ 
+
+ 
+
+ 
+
+44 
+
+ 
+
+ 2.4 Portfolio 
+
+Toto  portfolio  slouží  k  zaznamenávání  Vašich  úspěchů  a  pokroků  při  zvládání 
+
+jednotlivých  gramatických  jevů.  Také  Vám  pomůže  si  uvědomit,  jaké  strategie  při  učení 
+
+používáte. 
+
+ 
+
+Portfolio k lekcím 1-4 
+
+ 
+
+1  Rozumím většině instrukcí ke cvičením. 
+
+2  Když  nějaké  slovíčko  ze  zadání  neznám,  najdu  si  ho 
+
+ve slovníčku. 
+
+ANO  NE 
+
+ANO  NE 
+
+3  Vím, podle čeho se určuje, zda napíšeme „a” nebo „an”. 
+
+ANO  NE 
+
+Zakroužkujte správnou odpověď:      a ice-cream – an ice cream.  
+
+ 
+
+4  Chápu, jak se v angličtině tvoří množné číslo. 
+
+Sem si napište několik příkladů:   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANO 
+
+NE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5  Vím, kdy použijeme „am”, kdy „is” a kdy „are”. 
+
+ANO 
+
+NE 
+
+Zakroužkujte správnou odpověď:      He am/is/are a boy. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ I am/is/are clever. 
+
+You am/is/are from Pakistan.  
+
+ 
+
+ 
+
+ 
+
+6  Znám přivlastňovací zájmena (possesive adjectives). 
+
+ANO 
+
+NE 
+
+Sem si napište několik příkladů:   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7  Umím mluvit o obrázcích použitých v lekcích 1-4. 
+
+ANO 
+
+NE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8  Cvičení jsem vyplňoval(a) 
+
+a) všechna cvičení lekce v jeden den. 
+
+b) postupně – každý den několik cvičení. 
+
+ 
+
+9  V budoucnu se chci ještě vrátit k těmto lekcím a cvičením:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+45 
+
+ 
+
+2.5 Key to the grammar workbook 
+
+ 
+
+Unit 1 – a/an 
+
+ 
+
+Exercise 3 
+
+AN → We pronounce the following word with a vowel at the beginning. 
+
+A    → We pronounce the following word with a consonant at the beginning. 
+
+ 
+
+Exercise 4  
+
+ 1a, 2b, 3a, 4b 
+
+ 
+
+Exercise 5 
+
+a – man, woman 
+
+an – actor, address, American 
+
+ 
+
+Exercise 6 
+
+Wendy’s shopping list 
+
+  Nick’s shopping list 
+
+__a___ 
+
+chocolate 
+
+__a___ chicken burger 
+
+__an__ orange juice 
+
+__an___ Offspring CD 
+
+__an_________  Arsenal 
+
+Football Club T-shirt 
+
+cake 
+
+__an__ apple juice 
+
+__a___ Madonna CD 
+
+__a___ pink T-shirt 
+
+school 
+
+__a___ 
+
+uniform 
+
+ 
+
+Exercise 7 
+
+a – green apple, good actor, sales manager 
+
+an – English lesson, architect, ice-cream, e-mail, old ink pen 
+
+ 
+
+46 
+
+ 
+
+Exercise 8 
+
+ 
+
+Back pain 
+Back pain is one of the most common ailments in the UK. 
+ 
+It is thought more than 17 million Britons suffer from the problem, and the Health and 
+Safety Executive estimates that it is responsible for nearly 5 million lost working days a 
+year. 
+ 
+How is the back made up? 
+The major feature is the spine. This is _a__ highly complex and delicate structure which is 
+made up of 33 small bones called vertebrae. In between each vertebra is _a__ disc which acts 
+as __a_ shock absorber, and stops the bones rubbing together. The discs are made up of _a__ 
+jelly like substance, which is protected by _a__ tough, fibrous outer casing. The spine is 
+supported by specialised back muscles, and _an__ array of ligaments, nerves and tendons. 
+ 
+Why is back pain on the increase? 
+Experts believe that _a__ major factor is the modern tendency to lead _a_ sedentary lifestyle, 
+both at work and home. Spending long stretches of time sitting in one position - often with 
+the back not properly supported - is not good for the spine. The reliance on comfy soft 
+furnishing may seem appealing - but often it encourages us to adopt _a__ poor posture. Back 
+pain is much less common in places such as India, where many more people are used to 
+sitting on the floor, which is thought to allow the back muscles to find their own natural 
+position. 
+ 
+How can you minimise the risk? 
+The spine is naturally curved into _an__ S shape. The best way to keep it healthy is to try to 
+maintain this shape as much as possible. This is particularly important when performing 
+tasks, such as lifting, that carry _an__ increased risk of injury. Strengthening the back 
+muscles, keeping fit by taking regular exercise, and maintaining __a_ healthy weight can all 
+help to minimise the risk of back pain. It is also important to have __a__ mattress that 
+properly supports the body while you are asleep. If you do have __a__ bad back probably the 
+worst thing you can do is take to your bed. Experts believe that it is best to stay as active as 
+you possibly can. 
+ 
+Could there be another explanation for back pain? 
+Some lumbar and lower spinal pain is caused by patients having one leg longer than the 
+other. This puts the pelvis out of alignment causing pain, which without correction leads to 
+long term compensatory problems such as back pain. In this case it might be wise to consult 
+__a_ podiatrist who will measure the patient's limbs and if required provide either 
+_an_orthoses - _an_ orthopedic appliance used to support, align, prevent, or correct 
+deformities - or arrange to modify the patients shoe to correct the difference.  
+ 
+ 
+
+ 
+
+47 
+
+ 
+
+Unit 2 – plurals of nouns (car/cars) 
+
+ 
+
+Exercise 6 
+
+a man – men 
+
+a child – children 
+
+ 
+
+Exercise 7 
+
+a) two cars 
+
+f) eight pens 
+
+a woman – women 
+
+a person – people 
+
+b) six games 
+
+g) twelve people 
+
+c) three babies 
+
+h) two addresses 
+
+d) ten roses 
+
+i) five friends  
+
+e) four watches 
+
+j) seven days 
+
+ 
+
+Exercise 8 
+
+six coutries 
+
+an umbrella 
+
+a countries 
+
+a country 
+
+three countrys 
+
+an umbrellas 
+
+two umbrellas 
+
+six umbrellases 
+
+two uniformes 
+
+six uniforms 
+
+a uniform 
+
+an uniform 
+
+one sandwiches 
+
+one sandwich 
+
+three sandwichs 
+
+three sandwiches 
+
+a e-mail 
+
+six orangees 
+
+two e-mails 
+
+a orangees 
+
+an e-mail 
+
+an orange 
+
+eight e-mailes 
+
+five oranges 
+
+ 
+
+Exercise 9 – suggested answers 
+
+b) an orange / a red orange / a big orange / a tasty orange / a juicy orange 
+
+c) a key / a golden key / a small key / a rusty key 
+
+d) pencils / colouring pencils / strange pencils / six pencils / six cheap pencils 
+
+e) keys / five keys / five important keys / new keys / old keys 
+
+f) a woman / a happy woman / a young woman / a blond woman 
+
+g) women / dark-haired women / eighteen women 
+
+h) men / eleven men / people / eleven strange people 
+
+ 
+
+48 
+
+ 
+
+Unit 3 – forms of to be (am/is/are) 
+
+ 
+
+Exercise 1 
+
+I 
+
+He 
+She 
+It 
+
+You 
+We 
+They 
+
+am 
+
+is 
+
+are 
+
+a woman. 
+
+a man. 
+
+a student. 
+
+happy. 
+
+here now. 
+
+old. 
+
+ 
+
+Exercise 3 
+
+a) am   b) are  c) are  d) are 
+
+ 
+
+Exercise 5 
+
+a) Mary __is___ happy. 
+
+e) Mary and Sue __are___ American. 
+
+b) She __is___ from the USA. 
+
+f) They __are__ doctors. 
+
+c) John __is___ in Paris. 
+
+d) I __am___ a waiter. 
+
+ 
+
+Exercise 6 
+
+a) She is an actor. 
+
+b) They are from London. 
+
+g) You __are____ an architect. 
+
+h) Rachel __is___ a teacher. 
+
+e) Katrin is a student. 
+
+f) We are friends. 
+
+c) I am from the Czech Republic. 
+
+g) My teacher is from London. 
+
+d) Mary and Peter are in Paris. 
+
+h) John is a taxi driver. 
+
+ 
+
+Exercise 9 – suggested answers 
+
+a) It’s a photograph. / This is a photograph. / There is a photograph in the picture. / 
+
+There is a family in the photograph. / It’s a photograph of a family. / The photograph is nice. 
+
+b) It’s a car. / It’s an old car./ This is a car. / There is a car in the picture. / There is 
+
+a good gar in the picture. / The car is big 
+
+c)  It’s an  ice-cream.  /  It’s  a  vanilla ice-cream.  /  This  is  a tasty  ice-cream.  /  There is 
+
+an ice-cream in picture C. / In picture C there is an ice-cream. / The ice-cream is cold. 
+
+49 
+
+ 
+
+d) It’s a boy. / It’s a young man. / This is a head. / There is a boy in the picture. / In 
+
+picture D there is a young man. / The man is young. 
+
+ 
+
+Exercise 11 
+
+ 
+
+This is 
+
+ 
+
+She is 
+
+ 
+
+He is  
+
+ 
+
+Tom and Gwyneth are  
+
+ 
+
+These are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+good books. 
+
+ 
+
+a famous actor. 
+
+ 
+
+an exercise. 
+
+ 
+
+famous actors. 
+
+ 
+
+an elegant woman. 
+
+50 
+
+ 
+
+ Unit 4 – possessive adjectives 
+
+ 
+
+Exercise 1 
+
+I – my 
+
+you – your 
+
+we – our 
+
+they – their 
+
+he – his 
+
+she – her 
+
+it – its 
+
+ 
+
+Exercise 2 
+
+Mandy is an architect. She’s 26 and she’s married. Her husband is thirty-two and her 
+
+son is one. Mandy likes flowers. Her favourite flowers are roses. 
+
+ 
+
+Exercise 3  
+
+Paul is an actor. He likes his job. His wife, María, is a shop assistant. She also likes 
+
+her job. They are both 40. They are from Brazil. Their daughter is in the USA now. 
+
+ 
+
+Exercise 5 
+
+a) Their/They are from Italy. 
+
+e) Where are you/your from? 
+
+b) Her/She’s name’s Sally. 
+
+c) His/He’s from the USA. 
+
+f) What’s she/her name? 
+
+g) Is you/your teacher good? 
+
+d) His/He’s teacher is in Russia. 
+
+h) Rachel is I/my teacher. 
+
+ 
+
+51 
+
+ 
+
+ 
+
+Exercise 6 
+
+1  Andy 
+
+Hello. My name’s Andy. 
+
+ 2  Tom 
+
+Hello, Andy! How are you? 
+
+ 
+
+What’s your name? 
+
+Andy 
+
+Very well, thanks. And you? 
+
+Suzi 
+
+My name’s Suzi. 
+
+Tom 
+
+I’m fine, thanks. Who’s that 
+
+Andy 
+
+Where are you from, Suzi? 
+
+ 
+
+girl over there? 
+
+Suzi 
+
+I’m from Hamburg, in 
+
+Andy 
+
+She/That’s my new friend. 
+
+ 
+
+ 
+
+Germany. And you? Where 
+
+ 
+
+Her name’s Suzi. 
+
+are you from? 
+
+Tom 
+
+Where’s she from? 
+
+Andy 
+
+I’m from Boston. 
+
+Andy 
+
+She’s from Germany. 
+
+Exercise 7 
+
+(cid:1) we and our three children 
+
+(cid:1) we and our neighbours 
+
+(cid:1) Miss Brown and her brother 
+
+(cid:1) Paul and his wife 
+
+(cid:1) Jane and her friend Sarah 
+
+(cid:1) four students and their teacher 
+
+(cid:1) Mr and Mrs Hill and their daughter 
+
+(cid:1) a French woman with her husband 
+
+(cid:1) Peter and his friend Andy 
+
+(cid:1) you and your sister Kate  
+
+ 
+
+Exercise 8 
+
+Her name is Sarah Green. She is from the USA. She is 29. She is a nurse.  
+
+Her father is 61. He’s an architect. Her mother is 54. She’s a teacher.  
+
+Her brother is 27. He’s an actor. 
+
+ 
+
+Exercise  12 – suggested answers 
+
+The girl in picture A is blonde, but the boy in picture B is dark-haired. 
+
+The girl in picture A is with her mother and her toy.  
+
+The boy in picture B is with his father and his book. 
+
+In picture A there is a mother with her daughter.  
+
+In picture B there is a father with his son. 
+
+The mother is dark-haired. The father is dark-haired, too. 
+
+The child in picture B is nice, and the child in picture A is pretty. 
+
+The child in picture A is cute, and the child in picture B is clever. 
+
+52 
+
+ 
+
+ 
+
+Conclusion 
+
+The aim of the present thesis is to learn how to create grammar practice materials for 
+
+beginner  and  elementary  learners  who  find  English  difficult  and  are  willing  to  spend  some 
+
+time practising it even out of their English classes. 
+
+The theoretical part of the thesis investigates the ways to teach grammar and the needs 
+
+of adults. First of all, I have searched for and presented a definition of grammar. Then I have 
+
+described  changes  in  the  popularity  of  grammar  teaching,  and  collected  interesting 
+
+and important  ideas  from  various  methods  and  approaches.  Only  ideas  that  were  somehow 
+
+connected  with  grammar  teaching  were  chosen.  Next  I  have  summarized  ways  to  present 
+
+and practise grammar in a self-study material. The last chapter of the theory deals with adults 
+
+and  their  characteristics  as  learners.  A  subchapter  on  learners  with  specific  learning 
+
+difficulties  has  been  included  as  the  aim  of  the  thesis  is  to  help  adults  who  find  English 
+
+difficult. 
+
+The practical part of the thesis represents a sample material of a self-study grammar 
+
+book that could be created one day. It tries to use the knowledge gained in the theoretical part. 
+
+It  consists  of  four  example  units  with  a  key  to  most  of  the  exercises,  and  a  portfolio  to 
+
+the presented grammar units. 
+
+All the collected data and practical examples are just a beginning. A first step made 
+
+on a 
+
+long 
+
+journey 
+
+leading 
+
+to  a  full-length  grammar  book,  preferably  colourful, 
+
+and accompanied with a CD. A grammar-book that would help the lost learners find their way 
+
+through  the  many  traps  of  English  grammar,  give  them  opportunities  to  speak  and  read 
+
+in English, and allow them to experience success. I hope that the first step I have made helps 
+
+some author or authors one day, and that the grammar book I envision will emerge. 
+
+ 
+
+53 
+
+ 
+
+Resumé 
+
+Tato práce se zaměřuje na výuku gramatiky prostřednictvím domácí cvičebnice. Cílem 
+
+práce je nabídnout dospělým lidem, kteří jsou v angličtině úplnými či falešnými začátečníky, 
+
+dobře  uspořádané  materiály,  které  by  –  kromě  tradičních  cvičení  –  obsahovaly  také 
+
+zajímavější a komunikativnější cvičení.  
+
+Teoretická  část  zkoumá  různá  fakta  a  názory  spojené  s výukou  gramatiky  a  výukou 
+
+dospělých.  Zahrnuta  je  i  podkapitola  nabízející  krátký  pohled  do  oblasti  výuky  studentů 
+
+se specifickými poruchami učení. Praktická část obsahuje seznam gramatických jevů, které se 
+
+začátečníci  obvykle  učí,  a  dále  nabízí  několik  gramatických  lekcí  vytvořených  tak,  aby 
+
+vyhovovaly  potřebám  těchto  začátečníků.  Každá  lekce  je  doplněna  komentářem  a  klíčem. 
+
+Práce navíc obsahuje portfolio shrnující látku těchto lekcí. 
+
+ 
+
+Summary 
+
+The present thesis focuses on teaching grammar through self-study materials. The aim 
+
+of  the  thesis  is  to  provide  beginner  and  elementary  adult  learners  of  English  with  well-
+
+structured materials that would – besides traditional exercises – also contain more interesting, 
+
+and more communicative exercises.   
+
+The theoretical part explores various facts and ideas connected with grammar teaching 
+
+and teaching adults; a subchapter offering a brief insight into teaching students with specific 
+
+learning  difficulties  is  included.  The  practical  part  lists  grammar  points  usually  taught  to 
+
+the target  group  and  offers  a  few  grammar  units  created  to  meet  their  needs.  Each  unit  is 
+
+accompanied  with  a  commentary  and  a  key.  A  portfolio  to  the  present  units  is  included.
+
+54 
+
+ 
+
+References 
+
+Celce-Murcia, Marianne. 1988. Techniques and Resources in Teaching Grammar. New York 
+
+and Oxford: OUP. 
+
+Degnan-Veness, Coleen. 2001. Timesaver grammar Activities: Elementary. Salisbury: Mary 
+
+Glasgow Magazines, an imprint of Scholastic Inc. 
+
+Evans, Virginia and Jenny Dooley. 2005. Upstream Elementary: Teacher’s Book. Newbury: 
+
+Express Publishing.  
+
+Falla, Tim, and Liz and John Soars. 2002. New Headway Beginner: Workbook with key. 
+
+Oxford: OUP.  
+
+Greenall, Simon. 1997. Reward Elementary: Student’s Book. Oxford: Macmillan. 
+
+Harmer, Jeremy. 1987. Teaching and Learning Grammar. Harlow: Longman. 
+
+Harmer, Jeremy. 1991. The practice of English language teaching. Harlow: Longman. 
+
+Hartingerová, Zdena, Dana Hurtová, Joan Hood, and Lenka Lánská. 2005. Deníček: Soubor 
+
+podpůrných materiálů k učebnici Chit Chat 1 (Little Journal: A Collection of Support 
+
+Materials to Chit Chat 1). Prague: OUP. www.oup.com/elt (accessed March 26, 2008). 
+
+Hornby, Albert Sidney. 2000. Morphology. In Oxford Advanced Learner’s Dictionary. 6th ed. 
+
+Edited by Sally Wehmeier. Oxford: OUP. 
+
+Hornby, Albert Sidney. 2000. Syntax. In Oxford Advanced Learner’s Dictionary. 6th ed. 
+
+Edited by Sally Wehmeier. Oxford: OUP. 
+
+Hurtová, Dana, Iva Strnadová and Marta Šigutová. 2006. Anglický nápadníček (Ideas for 
+
+English). Oxford: OUP. 
+
+Hutchinson, Tom. 1998. New Hotline Starter: Student’s Book. Oxford: OUP. 
+
+Hutchinson, Tom. 1999. Lifelines Elementary: Workbook. Oxford: OUP. 
+
+Kerka, Sandra. 1998. “Adults with Learning Disabilities.” ERIC Digest. 
+
+www.ericdigest.org/1998-2/adults.htm (accessed March 24, 2008). 
+
+Kollmannová, Ludmila. 1997. Angličtina pro samouky (Self-study Book of English). Prague: 
+
+Leda. 
+
+Lieb, Stephen. Fall 1991. “Principles of Adult Learning.” Online article from VISION. 
+
+Honolulu Community College. 
+
+http://honolulu.hawaii.edu/intranet/Committees/FacDevCom/guidebk/techtip/adults-
+
+2.htm (accessed February 15, 2008). 
+
+Lowry, Cheryl Meredith. 1990. “Teaching Adults with Learning Disabilities.” ERIC Digest. 
+
+www.ericdigest.org/pre-9215/adults.htm (accessed March 27, 2008). 
+
+55 
+
+ 
+
+Moor, Peter and Sarah Cunningham. 2001. Cutting Edge Elementary: Workbook. Harlow: 
+
+Longman. 
+
+n.a. 2005. “Back Pain.” BBC News. 
+
+http://news.bbc.co.uk/2/hi/health/medical_notes/4722017.stm (accessed November 28, 
+
+2008). 
+
+Pye, Diana and Simon Greenall. 1997. Reward Starter: Practice Book. Oxford: Macmillan. 
+
+Quirk, Randolph and Sidney Greenbaum. 1990. A Student’s Grammar of the English 
+
+Language. Harlow: Longman. 
+
+Richards, Jack C. and Theodore S. Rodgers. 2001. Approaches and methods in language 
+
+teaching. 2nd ed. Cambridge: CUP. 
+
+Schwarz, Robin L. 1997. “Learning Disabilities and Foreign Language Learning.” LD Online. 
+
+www.ldonline.org/article/6065 (accessed March 10, 2008). 
+
+Scrivener, Jim. 2005. Learning Teaching: A guidebook for English language teachers. 2nd 
+
+ed. Oxford: Macmillan. 
+
+Soars, Liz and John. 2006. New Headway Elementary: Student’s Book. 3rd ed. Oxford: OUP. 
+
+Soars, Liz and John and Sylvia Wheeldon. 2006. New Headway Elementary: Workbook with 
+
+key. 3rd ed. Oxford: OUP. 
+
+Skalová, Helena. 2007. Teaching English One-to-One. Unpublished BA thesis, Masaryk 
+
+University. 
+
+Swan, Michael and Scott Thornbury. 2006. “Sorry, but you’ve got to have a grammar 
+
+syllabus”. The ELT Journal / IATEFL debate 2006. Oxford Teachers’ Club. 
+
+www.oup.com/elt (accessed October 18, 2007). 
+
+Thanasoulas, Dimitrios. 2002. “The Changing Winds and Shifting Sands of the History of 
+
+English Language Teaching.” EnglishClub.com. www.englishclub.com/tefl-
+
+articles/history-english-language-teaching.htm (accessed November 22, 2007). 
+
+Thornbury, Scott. 1999. How to Teach Grammar. Harlow: Longman. 
+
+Ur, Penny. 1988. Grammar Practice Activities: A practical guide for teachers. Cambridge: 
+
+CUP. 
+
+Ur, Penny. 1996. A Course in Language Teaching. Cambridge: CUP. 
+
+ 
+
+  
+
+56 
+
+ 
+
+Appendices 
+ 
+
+Appendix 1 – Dominoes with plurals 
+
+Adapted from Ur (1988, 87) 
+
+ 
+
+57 
+
+ 
+
+Appendix 2 – Practice cards 
+
+1 
+
+3 
+
+5 
+
+7 
+
+2 
+
+4 
+
+6 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+58 
+
+

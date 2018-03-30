@@ -1,0 +1,2592 @@
+<outlines>
+<outline level="1" title="b'Contents'">
+<dest><list size="2">
+<ref id="15036" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>2</pageno>
+</outline>
+<outline level="1" title="b'Website'">
+<dest><list size="2">
+<ref id="15042" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>8</pageno>
+</outline>
+<outline level="1" title="b'Acknowledgments'">
+<dest><list size="2">
+<ref id="15043" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>9</pageno>
+</outline>
+<outline level="1" title="b'Notation'">
+<dest><list size="2">
+<ref id="15046" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>12</pageno>
+</outline>
+<outline level="1" title="b'Chapter 1 - Introduction'">
+<dest><list size="2">
+<ref id="15050" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>16</pageno>
+</outline>
+<outline level="2" title="b'1.1 Who Should Read This Book?'">
+<dest><list size="2">
+<ref id="15057" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>23</pageno>
+</outline>
+<outline level="2" title="b'1.2 Historical Trends in Deep Learning'">
+<dest><list size="2">
+<ref id="15060" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>26</pageno>
+</outline>
+<outline level="3" title="b'1.2.1 The Many Names and Changing Fortunes of Neural Networks'">
+<dest><list size="2">
+<ref id="15062" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>28</pageno>
+</outline>
+<outline level="3" title="b'1.2.2 Increasing Dataset Sizes'">
+<dest><list size="2">
+<ref id="15068" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>34</pageno>
+</outline>
+<outline level="3" title="b'1.2.3 Increasing Model Sizes'">
+<dest><list size="2">
+<ref id="15069" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>35</pageno>
+</outline>
+<outline level="3" title="b'1.2.4 Increasing Accuracy, Complexity and Real-World Impact'">
+<dest><list size="2">
+<ref id="15072" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>38</pageno>
+</outline>
+<outline level="1" title="b'Part I - Applied Math and Machine Learning Basics'">
+<dest><list size="2">
+<ref id="15078" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>44</pageno>
+</outline>
+<outline level="2" title="b'Chapter 2 - Linear Algebra'">
+<dest><list size="2">
+<ref id="15080" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>46</pageno>
+</outline>
+<outline level="3" title="b'2.1 Scalars, Vectors, Matrices and Tensors'">
+<dest><list size="2">
+<ref id="15080" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>46</pageno>
+</outline>
+<outline level="3" title="b'2.2 Multiplying Matrices and Vectors'">
+<dest><list size="2">
+<ref id="15083" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>49</pageno>
+</outline>
+<outline level="3" title="b'2.3 Identity and Inverse Matrices'">
+<dest><list size="2">
+<ref id="15085" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>51</pageno>
+</outline>
+<outline level="3" title="b'2.4 Linear Dependence and Span'">
+<dest><list size="2">
+<ref id="15086" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>52</pageno>
+</outline>
+<outline level="3" title="b'2.5 Norms'">
+<dest><list size="2">
+<ref id="15088" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>54</pageno>
+</outline>
+<outline level="3" title="b'2.6 Special Kinds of Matrices and Vectors'">
+<dest><list size="2">
+<ref id="15089" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>55</pageno>
+</outline>
+<outline level="3" title="b'2.7 Eigendecomposition'">
+<dest><list size="2">
+<ref id="15091" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>57</pageno>
+</outline>
+<outline level="3" title="b'2.8 Singular Value Decomposition'">
+<dest><list size="2">
+<ref id="15093" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>59</pageno>
+</outline>
+<outline level="3" title="b'2.9 The Moore-Penrose Pseudoinverse'">
+<dest><list size="2">
+<ref id="15094" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>60</pageno>
+</outline>
+<outline level="3" title="b'2.10 The Trace Operator'">
+<dest><list size="2">
+<ref id="15095" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>61</pageno>
+</outline>
+<outline level="3" title="b'2.11 The Determinant'">
+<dest><list size="2">
+<ref id="15096" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>62</pageno>
+</outline>
+<outline level="3" title="b'2.12 Example: Principal Components Analysis'">
+<dest><list size="2">
+<ref id="15097" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>63</pageno>
+</outline>
+<outline level="2" title="b'Chapter 3 - Probability and Information Theory'">
+<dest><list size="2">
+<ref id="15102" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>68</pageno>
+</outline>
+<outline level="3" title="b'3.1 Why Probability?'">
+<dest><list size="2">
+<ref id="15103" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>69</pageno>
+</outline>
+<outline level="3" title="b'3.2 Random Variables'">
+<dest><list size="2">
+<ref id="15105" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>71</pageno>
+</outline>
+<outline level="3" title="b'3.3 Probability Distributions'">
+<dest><list size="2">
+<ref id="15105" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>71</pageno>
+</outline>
+<outline level="4" title="b'3.3.1 Discrete Variables and Probability Mass Functions'">
+<dest><list size="2">
+<ref id="15104" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>70</pageno>
+</outline>
+<outline level="3" title="b'3.4 Marginal Probability'">
+<dest><list size="2">
+<ref id="15107" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>73</pageno>
+</outline>
+<outline level="3" title="b'3.5 Conditional Probability'">
+<dest><list size="2">
+<ref id="15108" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>74</pageno>
+</outline>
+<outline level="3" title="b'3.6 The Chain Rule of Conditional Probabilities'">
+<dest><list size="2">
+<ref id="15108" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>74</pageno>
+</outline>
+<outline level="3" title="b'3.7 Independence and Conditional Independence'">
+<dest><list size="2">
+<ref id="15109" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>75</pageno>
+</outline>
+<outline level="3" title="b'3.8 Expectation, Variance and Covariance'">
+<dest><list size="2">
+<ref id="15109" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>75</pageno>
+</outline>
+<outline level="3" title="b'3.9 Common Probability Distributions'">
+<dest><list size="2">
+<ref id="15111" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>77</pageno>
+</outline>
+<outline level="4" title="b'3.9.1 Bernoulli Distribution'">
+<dest><list size="2">
+<ref id="15111" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>77</pageno>
+</outline>
+<outline level="4" title="b'3.9.2 Multinoulli Distribution'">
+<dest><list size="2">
+<ref id="15111" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>77</pageno>
+</outline>
+<outline level="4" title="b'3.9.3 Gaussian Distribution'">
+<dest><list size="2">
+<ref id="15112" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>78</pageno>
+</outline>
+<outline level="4" title="b'3.9.4 Exponential and Laplace Distributions'">
+<dest><list size="2">
+<ref id="15114" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>80</pageno>
+</outline>
+<outline level="4" title="b'3.9.5 The Dirac Distribution and Empirical Distribution'">
+<dest><list size="2">
+<ref id="15114" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>80</pageno>
+</outline>
+<outline level="4" title="b'3.9.6 Mixtures of Distributions'">
+<dest><list size="2">
+<ref id="15115" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>81</pageno>
+</outline>
+<outline level="3" title="b'3.10 Useful Properties of Common Functions'">
+<dest><list size="2">
+<ref id="15116" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>82</pageno>
+</outline>
+<outline level="3" title="b'3.11 Bayes\xe2\x80\x99 Rule'">
+<dest><list size="2">
+<ref id="15119" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>85</pageno>
+</outline>
+<outline level="3" title="b'3.12 Technical Details of Continuous Variables'">
+<dest><list size="2">
+<ref id="15120" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>86</pageno>
+</outline>
+<outline level="3" title="b'3.13 Information Theory'">
+<dest><list size="2">
+<ref id="15121" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>87</pageno>
+</outline>
+<outline level="3" title="b'3.14 Structured Probabilistic Models'">
+<dest><list size="2">
+<ref id="15124" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>90</pageno>
+</outline>
+<outline level="2" title="b'Chapter 4 - Numerical Computation'">
+<dest><list size="2">
+<ref id="15129" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>95</pageno>
+</outline>
+<outline level="3" title="b'4.1 Overflow and Underflow'">
+<dest><list size="2">
+<ref id="15129" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>95</pageno>
+</outline>
+<outline level="3" title="b'4.2 Poor Conditioning'">
+<dest><list size="2">
+<ref id="15131" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>97</pageno>
+</outline>
+<outline level="3" title="b'4.3 Gradient-Based Optimization'">
+<dest><list size="2">
+<ref id="15131" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>97</pageno>
+</outline>
+<outline level="4" title="b'4.3.1 Beyond the Gradient: Jacobian and Hessian Matrices'">
+<dest><list size="2">
+<ref id="15135" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>101</pageno>
+</outline>
+<outline level="3" title="b'4.4 Constrained Optimization'">
+<dest><list size="2">
+<ref id="15142" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>108</pageno>
+</outline>
+<outline level="3" title="b'4.5 Example: Linear Least Squares'">
+<dest><list size="2">
+<ref id="15145" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>111</pageno>
+</outline>
+<outline level="2" title="b'Chapter 5 - Machine Learning Basics'">
+<dest><list size="2">
+<ref id="15147" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>113</pageno>
+</outline>
+<outline level="3" title="b'5.1 Learning Algorithms'">
+<dest><list size="2">
+<ref id="15148" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>114</pageno>
+</outline>
+<outline level="4" title="b'5.1.1 The Task, T'">
+<dest><list size="2">
+<ref id="15148" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>114</pageno>
+</outline>
+<outline level="4" title="b'5.1.2 The Performance Measure, P'">
+<dest><list size="2">
+<ref id="15152" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>118</pageno>
+</outline>
+<outline level="4" title="b'5.1.3 The Experience, E'">
+<dest><list size="2">
+<ref id="15153" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>119</pageno>
+</outline>
+<outline level="4" title="b'5.1.4 Example: Linear Regression'">
+<dest><list size="2">
+<ref id="15156" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>122</pageno>
+</outline>
+<outline level="3" title="b'5.2 Capacity, Overfitting and Underfitting'">
+<dest><list size="2">
+<ref id="15159" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>125</pageno>
+</outline>
+<outline level="4" title="b'5.2.1 The No Free Lunch Theorem'">
+<dest><list size="2">
+<ref id="15165" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>131</pageno>
+</outline>
+<outline level="4" title="b'5.2.2 Regularization'">
+<dest><list size="2">
+<ref id="15167" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>133</pageno>
+</outline>
+<outline level="3" title="b'5.3 Hyperparameters and Validation Sets'">
+<dest><list size="2">
+<ref id="15169" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>135</pageno>
+</outline>
+<outline level="4" title="b'5.3.1 Cross-Validation'">
+<dest><list size="2">
+<ref id="15170" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>136</pageno>
+</outline>
+<outline level="3" title="b'5.4 Estimators, Bias and Variance'">
+<dest><list size="2">
+<ref id="15171" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>137</pageno>
+</outline>
+<outline level="4" title="b'5.4.1 Point Estimation'">
+<dest><list size="2">
+<ref id="15171" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>137</pageno>
+</outline>
+<outline level="4" title="b'5.4.2 Bias'">
+<dest><list size="2">
+<ref id="15173" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>139</pageno>
+</outline>
+<outline level="4" title="b'5.4.3 Variance and Standard Error'">
+<dest><list size="2">
+<ref id="15176" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>142</pageno>
+</outline>
+<outline level="4" title="b'5.4.4 Trading off Bias and Variance to Minimize Mean Squared Error'">
+<dest><list size="2">
+<ref id="15178" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>144</pageno>
+</outline>
+<outline level="4" title="b'5.4.5 Consistency'">
+<dest><list size="2">
+<ref id="15179" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>145</pageno>
+</outline>
+<outline level="3" title="b'5.5 Maximum Likelihood Estimation'">
+<dest><list size="2">
+<ref id="15180" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>146</pageno>
+</outline>
+<outline level="4" title="b'5.5.1 Conditional Log-Likelihood and Mean Squared Error'">
+<dest><list size="2">
+<ref id="15182" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>148</pageno>
+</outline>
+<outline level="4" title="b'5.5.2 Properties of Maximum Likelihood'">
+<dest><list size="2">
+<ref id="15183" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>149</pageno>
+</outline>
+<outline level="3" title="b'5.6 Bayesian Statistics'">
+<dest><list size="2">
+<ref id="15184" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>150</pageno>
+</outline>
+<outline level="4" title="b'5.6.1 Maximum A Posteriori &#40;MAP&#41; Estimation'">
+<dest><list size="2">
+<ref id="15187" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>153</pageno>
+</outline>
+<outline level="3" title="b'5.7 Supervised Learning Algorithms'">
+<dest><list size="2">
+<ref id="15188" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>154</pageno>
+</outline>
+<outline level="4" title="b'5.7.1 Probabilistic Supervised Learning'">
+<dest><list size="2">
+<ref id="15189" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>155</pageno>
+</outline>
+<outline level="4" title="b'5.7.2 Support Vector Machines'">
+<dest><list size="2">
+<ref id="15189" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>155</pageno>
+</outline>
+<outline level="4" title="b'5.7.3 Other Simple Supervised Learning Algorithms'">
+<dest><list size="2">
+<ref id="15192" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>158</pageno>
+</outline>
+<outline level="3" title="b'5.8 Unsupervised Learning Algorithms'">
+<dest><list size="2">
+<ref id="15194" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>160</pageno>
+</outline>
+<outline level="4" title="b'5.8.1 Principal Components Analysis'">
+<dest><list size="2">
+<ref id="15195" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>161</pageno>
+</outline>
+<outline level="4" title="b'5.8.2 k-means Clustering'">
+<dest><list size="2">
+<ref id="15198" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>164</pageno>
+</outline>
+<outline level="3" title="b'5.9 Stochastic Gradient Descent'">
+<dest><list size="2">
+<ref id="15199" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>165</pageno>
+</outline>
+<outline level="3" title="b'5.10 Building a Machine Learning Algorithm'">
+<dest><list size="2">
+<ref id="15201" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>167</pageno>
+</outline>
+<outline level="3" title="b'5.11 Challenges Motivating Deep Learning'">
+<dest><list size="2">
+<ref id="15203" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>169</pageno>
+</outline>
+<outline level="4" title="b'5.11.1 The Curse of Dimensionality'">
+<dest><list size="2">
+<ref id="15203" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>169</pageno>
+</outline>
+<outline level="4" title="b'5.11.2 Local Constancy and Smoothness Regularization'">
+<dest><list size="2">
+<ref id="15205" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>171</pageno>
+</outline>
+<outline level="4" title="b'5.11.3 Manifold Learning'">
+<dest><list size="2">
+<ref id="15209" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>175</pageno>
+</outline>
+<outline level="1" title="b'Part II - Deep Networks: Modern Practices'">
+<dest><list size="2">
+<ref id="15214" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>180</pageno>
+</outline>
+<outline level="2" title="b'Chapter 6 - Deep Feedforward Networks'">
+<dest><list size="2">
+<ref id="15216" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>182</pageno>
+</outline>
+<outline level="3" title="b'6.1 Example: Learning XOR'">
+<dest><list size="2">
+<ref id="15219" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>185</pageno>
+</outline>
+<outline level="3" title="b'6.2 Gradient-Based Learning'">
+<dest><list size="2">
+<ref id="15225" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>191</pageno>
+</outline>
+<outline level="4" title="b'6.2.1 Cost Functions'">
+<dest><list size="2">
+<ref id="15226" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>192</pageno>
+</outline>
+<outline level="5" title="b'6.2.1.1 Learning Conditional Distributions with Maximum Likelihood'">
+<dest><list size="2">
+<ref id="15226" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>192</pageno>
+</outline>
+<outline level="5" title="b'6.2.1.2 Learning Conditional Statistics'">
+<dest><list size="2">
+<ref id="15228" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>194</pageno>
+</outline>
+<outline level="4" title="b'6.2.2 Output Units'">
+<dest><list size="2">
+<ref id="15229" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>195</pageno>
+</outline>
+<outline level="5" title="b'6.2.2.1 Linear Units for Gaussian Output Distributions'">
+<dest><list size="2">
+<ref id="15229" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>195</pageno>
+</outline>
+<outline level="5" title="b'6.2.2.2 Sigmoid Units for Bernoulli Output Distributions'">
+<dest><list size="2">
+<ref id="15230" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>196</pageno>
+</outline>
+<outline level="5" title="b'6.2.2.3 Softmax Units for Multinoulli Output Distributions'">
+<dest><list size="2">
+<ref id="15232" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>198</pageno>
+</outline>
+<outline level="5" title="b'6.2.2.4 Other Output Types'">
+<dest><list size="2">
+<ref id="15235" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>201</pageno>
+</outline>
+<outline level="3" title="b'6.3 Hidden Units'">
+<dest><list size="2">
+<ref id="15239" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>205</pageno>
+</outline>
+<outline level="4" title="b'6.3.1 Rectified Linear Units and Their Generalizations'">
+<dest><list size="2">
+<ref id="15241" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>207</pageno>
+</outline>
+<outline level="4" title="b'6.3.2 Logistic Sigmoid and Hyperbolic Tangent'">
+<dest><list size="2">
+<ref id="15243" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>209</pageno>
+</outline>
+<outline level="4" title="b'6.3.3 Other Hidden Units'">
+<dest><list size="2">
+<ref id="15244" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>210</pageno>
+</outline>
+<outline level="3" title="b'6.4 Architecture Design'">
+<dest><list size="2">
+<ref id="15245" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>211</pageno>
+</outline>
+<outline level="4" title="b'6.4.1 Universal Approximation Properties and Depth'">
+<dest><list size="2">
+<ref id="15246" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>212</pageno>
+</outline>
+<outline level="4" title="b'6.4.2 Other Architectural Considerations'">
+<dest><list size="2">
+<ref id="15249" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>215</pageno>
+</outline>
+<outline level="3" title="b'6.5 Back-Propagation and Other Differentiation Algorithms'">
+<dest><list size="2">
+<ref id="15252" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>218</pageno>
+</outline>
+<outline level="4" title="b'6.5.1 Computational Graphs'">
+<dest><list size="2">
+<ref id="15253" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>219</pageno>
+</outline>
+<outline level="4" title="b'6.5.2 Chain Rule of Calculus'">
+<dest><list size="2">
+<ref id="15255" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>221</pageno>
+</outline>
+<outline level="4" title="b'6.5.3 Recursively Applying the Chain Rule to Obtain Backprop'">
+<dest><list size="2">
+<ref id="15256" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>222</pageno>
+</outline>
+<outline level="4" title="b'6.5.4 Back-Propagation Computation in Fully-Connected MLP'">
+<dest><list size="2">
+<ref id="15259" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>225</pageno>
+</outline>
+<outline level="4" title="b'6.5.5 Symbol-to-Symbol Derivatives'">
+<dest><list size="2">
+<ref id="15259" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>225</pageno>
+</outline>
+<outline level="4" title="b'6.5.6 General Back-Propagation'">
+<dest><list size="2">
+<ref id="15263" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>229</pageno>
+</outline>
+<outline level="4" title="b'6.5.7 Example: Back-Propagation for MLP Training'">
+<dest><list size="2">
+<ref id="15267" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>233</pageno>
+</outline>
+<outline level="4" title="b'6.5.8 Complications'">
+<dest><list size="2">
+<ref id="15269" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>235</pageno>
+</outline>
+<outline level="4" title="b'6.5.9 Differentiation outside the Deep Learning Community'">
+<dest><list size="2">
+<ref id="15270" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>236</pageno>
+</outline>
+<outline level="4" title="b'6.5.10 Higher-Order Derivatives'">
+<dest><list size="2">
+<ref id="15272" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>238</pageno>
+</outline>
+<outline level="3" title="b'6.6 Historical Notes'">
+<dest><list size="2">
+<ref id="15273" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>239</pageno>
+</outline>
+<outline level="2" title="b'Chapter 7 - Regularization for Deep Learning'">
+<dest><list size="2">
+<ref id="15277" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>243</pageno>
+</outline>
+<outline level="3" title="b'7.1 Parameter Norm Penalties'">
+<dest><list size="2">
+<ref id="15279" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>245</pageno>
+</outline>
+<outline level="4" title="b'7.1.1 L2 Parameter Regularization'">
+<dest><list size="2">
+<ref id="15280" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>246</pageno>
+</outline>
+<outline level="4" title="b'7.1.2 L1 Regularization'">
+<dest><list size="2">
+<ref id="15283" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>249</pageno>
+</outline>
+<outline level="3" title="b'7.2 Norm Penalties as Constrained Optimization'">
+<dest><list size="2">
+<ref id="15286" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>252</pageno>
+</outline>
+<outline level="3" title="b'7.3 Regularization and Under-Constrained Problems'">
+<dest><list size="2">
+<ref id="15288" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>254</pageno>
+</outline>
+<outline level="3" title="b'7.4 Dataset Augmentation'">
+<dest><list size="2">
+<ref id="15289" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>255</pageno>
+</outline>
+<outline level="3" title="b'7.5 Noise Robustness'">
+<dest><list size="2">
+<ref id="15291" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>257</pageno>
+</outline>
+<outline level="3" title="b'7.6 Semi-Supervised Learning'">
+<dest><list size="2">
+<ref id="15292" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>258</pageno>
+</outline>
+<outline level="3" title="b'7.7 Multi-Task Learning'">
+<dest><list size="2">
+<ref id="15293" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>259</pageno>
+</outline>
+<outline level="3" title="b'7.8 Early Stopping'">
+<dest><list size="2">
+<ref id="15295" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>261</pageno>
+</outline>
+<outline level="3" title="b'7.9 Parameter Tying and Parameter Sharing'">
+<dest><list size="2">
+<ref id="15302" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>268</pageno>
+</outline>
+<outline level="3" title="b'7.10 Sparse Representations'">
+<dest><list size="2">
+<ref id="15303" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>269</pageno>
+</outline>
+<outline level="3" title="b'7.11 Bagging and Other Ensemble Methods'">
+<dest><list size="2">
+<ref id="15305" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>271</pageno>
+</outline>
+<outline level="3" title="b'7.12 Dropout'">
+<dest><list size="2">
+<ref id="15307" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>273</pageno>
+</outline>
+<outline level="3" title="b'7.13 Adversarial Training'">
+<dest><list size="2">
+<ref id="15317" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>283</pageno>
+</outline>
+<outline level="3" title="b'7.14 Tangent Distance, Tangent Prop, and Manifold Tangent Classifier'">
+<dest><list size="2">
+<ref id="15319" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>285</pageno>
+</outline>
+<outline level="2" title="b'Chapter 8 - Optimization for Training Deep Models'">
+<dest><list size="2">
+<ref id="15323" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>289</pageno>
+</outline>
+<outline level="3" title="b'8.1 How Learning Differs from Pure Optimization'">
+<dest><list size="2">
+<ref id="15324" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>290</pageno>
+</outline>
+<outline level="4" title="b'8.1.1 Empirical Risk Minimization'">
+<dest><list size="2">
+<ref id="15324" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>290</pageno>
+</outline>
+<outline level="4" title="b'8.1.2 Surrogate Loss Functions and Early Stopping'">
+<dest><list size="2">
+<ref id="15325" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>291</pageno>
+</outline>
+<outline level="4" title="b'8.1.3 Batch and Minibatch Algorithms'">
+<dest><list size="2">
+<ref id="15326" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>292</pageno>
+</outline>
+<outline level="3" title="b'8.2 Challenges in Neural Network Optimization'">
+<dest><list size="2">
+<ref id="15331" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>297</pageno>
+</outline>
+<outline level="4" title="b'8.2.1 Ill-Conditioning'">
+<dest><list size="2">
+<ref id="15331" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>297</pageno>
+</outline>
+<outline level="4" title="b'8.2.2 Local Minima'">
+<dest><list size="2">
+<ref id="15332" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>298</pageno>
+</outline>
+<outline level="4" title="b'8.2.3 Plateaus, Saddle Points and Other Flat Regions'">
+<dest><list size="2">
+<ref id="15334" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>300</pageno>
+</outline>
+<outline level="4" title="b'8.2.4 Cliffs and Exploding Gradients'">
+<dest><list size="2">
+<ref id="15337" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>303</pageno>
+</outline>
+<outline level="4" title="b'8.2.5 Long-Term Dependencies'">
+<dest><list size="2">
+<ref id="15338" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>304</pageno>
+</outline>
+<outline level="4" title="b'8.2.6 Inexact Gradients'">
+<dest><list size="2">
+<ref id="15339" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>305</pageno>
+</outline>
+<outline level="4" title="b'8.2.7 Poor Correspondence between Local and Global Structure'">
+<dest><list size="2">
+<ref id="15340" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>306</pageno>
+</outline>
+<outline level="4" title="b'8.2.8 Theoretical Limits of Optimization'">
+<dest><list size="2">
+<ref id="15342" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>308</pageno>
+</outline>
+<outline level="3" title="b'8.3 Basic Algorithms'">
+<dest><list size="2">
+<ref id="15343" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>309</pageno>
+</outline>
+<outline level="4" title="b'8.3.1 Stochastic Gradient Descent'">
+<dest><list size="2">
+<ref id="15343" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>309</pageno>
+</outline>
+<outline level="4" title="b'8.3.2 Momentum'">
+<dest><list size="2">
+<ref id="15345" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>311</pageno>
+</outline>
+<outline level="4" title="b'8.3.3 Nesterov Momentum'">
+<dest><list size="2">
+<ref id="15349" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>315</pageno>
+</outline>
+<outline level="3" title="b'8.4 Parameter Initialization Strategies'">
+<dest><list size="2">
+<ref id="15350" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>316</pageno>
+</outline>
+<outline level="3" title="b'8.5 Algorithms with Adaptive Learning Rates'">
+<dest><list size="2">
+<ref id="15355" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>321</pageno>
+</outline>
+<outline level="4" title="b'8.5.1 AdaGrad'">
+<dest><list size="2">
+<ref id="15356" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>322</pageno>
+</outline>
+<outline level="4" title="b'8.5.2 RMSProp'">
+<dest><list size="2">
+<ref id="15356" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>322</pageno>
+</outline>
+<outline level="4" title="b'8.5.3 Adam'">
+<dest><list size="2">
+<ref id="15357" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>323</pageno>
+</outline>
+<outline level="4" title="b'8.5.4 Choosing the Right Optimization Algorithm'">
+<dest><list size="2">
+<ref id="15358" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>324</pageno>
+</outline>
+<outline level="3" title="b'8.6 Approximate Second-Order Methods'">
+<dest><list size="2">
+<ref id="15359" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>325</pageno>
+</outline>
+<outline level="4" title="b'8.6.1 Newton\xe2\x80\x99s Method'">
+<dest><list size="2">
+<ref id="15359" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>325</pageno>
+</outline>
+<outline level="4" title="b'8.6.2 Conjugate Gradients'">
+<dest><list size="2">
+<ref id="15362" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>328</pageno>
+</outline>
+<outline level="4" title="b'8.6.3 BFGS'">
+<dest><list size="2">
+<ref id="15365" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>331</pageno>
+</outline>
+<outline level="3" title="b'8.7 Optimization Strategies and Meta-Algorithms'">
+<dest><list size="2">
+<ref id="15366" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>332</pageno>
+</outline>
+<outline level="4" title="b'8.7.1 Batch Normalization'">
+<dest><list size="2">
+<ref id="15366" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>332</pageno>
+</outline>
+<outline level="4" title="b'8.7.2 Coordinate Descent'">
+<dest><list size="2">
+<ref id="15370" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>336</pageno>
+</outline>
+<outline level="4" title="b'8.7.3 Polyak Averaging'">
+<dest><list size="2">
+<ref id="15371" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>337</pageno>
+</outline>
+<outline level="4" title="b'8.7.4 Supervised Pretraining'">
+<dest><list size="2">
+<ref id="15371" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>337</pageno>
+</outline>
+<outline level="4" title="b'8.7.5 Designing Models to Aid Optimization'">
+<dest><list size="2">
+<ref id="15374" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>340</pageno>
+</outline>
+<outline level="4" title="b'8.7.6 Continuation Methods and Curriculum Learning'">
+<dest><list size="2">
+<ref id="15375" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>341</pageno>
+</outline>
+<outline level="2" title="b'Chapter 9 - Convolutional Networks'">
+<dest><list size="2">
+<ref id="15379" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>345</pageno>
+</outline>
+<outline level="3" title="b'9.1 The Convolution Operation'">
+<dest><list size="2">
+<ref id="15380" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>346</pageno>
+</outline>
+<outline level="3" title="b'9.2 Motivation'">
+<dest><list size="2">
+<ref id="15384" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>350</pageno>
+</outline>
+<outline level="3" title="b'9.3 Pooling'">
+<dest><list size="2">
+<ref id="15388" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>354</pageno>
+</outline>
+<outline level="3" title="b'9.4 Convolution and Pooling as an Infinitely Strong Prior'">
+<dest><list size="2">
+<ref id="15394" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>360</pageno>
+</outline>
+<outline level="3" title="b'9.5 Variants of the Basic Convolution Function'">
+<dest><list size="2">
+<ref id="15396" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>362</pageno>
+</outline>
+<outline level="3" title="b'9.6 Structured Outputs'">
+<dest><list size="2">
+<ref id="15407" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>373</pageno>
+</outline>
+<outline level="3" title="b'9.7 Data Types'">
+<dest><list size="2">
+<ref id="15409" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>375</pageno>
+</outline>
+<outline level="3" title="b'9.8 Efficient Convolution Algorithms'">
+<dest><list size="2">
+<ref id="15411" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>377</pageno>
+</outline>
+<outline level="3" title="b'9.9 Random or Unsupervised Features'">
+<dest><list size="2">
+<ref id="15412" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>378</pageno>
+</outline>
+<outline level="3" title="b'9.10 The Neuroscientific Basis for Convolutional Networks'">
+<dest><list size="2">
+<ref id="15413" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>379</pageno>
+</outline>
+<outline level="3" title="b'9.11 Convolutional Networks and the History of Deep Learning'">
+<dest><list size="2">
+<ref id="15420" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>386</pageno>
+</outline>
+<outline level="2" title="b'Chapter 10 - Sequence Modeling: Recurrent and Recursive Nets'">
+<dest><list size="2">
+<ref id="15422" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>388</pageno>
+</outline>
+<outline level="3" title="b'10.1 Unfolding Computational Graphs'">
+<dest><list size="2">
+<ref id="15424" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>390</pageno>
+</outline>
+<outline level="3" title="b'10.2 Recurrent Neural Networks'">
+<dest><list size="2">
+<ref id="15427" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>393</pageno>
+</outline>
+<outline level="4" title="b'10.2.1 Teacher Forcing and Networks with Output Recurrence'">
+<dest><list size="2">
+<ref id="15430" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>396</pageno>
+</outline>
+<outline level="4" title="b'10.2.2 Computing the Gradient in a Recurrent Neural Network'">
+<dest><list size="2">
+<ref id="15433" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>399</pageno>
+</outline>
+<outline level="4" title="b'10.2.3 Recurrent Networks as Directed Graphical Models'">
+<dest><list size="2">
+<ref id="15435" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>401</pageno>
+</outline>
+<outline level="4" title="b'10.2.4 Modeling Sequences Conditioned on Context with RNNs'">
+<dest><list size="2">
+<ref id="15440" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>406</pageno>
+</outline>
+<outline level="3" title="b'10.3 Bidirectional RNNs'">
+<dest><list size="2">
+<ref id="15444" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>410</pageno>
+</outline>
+<outline level="3" title="b'10.4 Encoder-Decoder Sequence-to-Sequence Architectures'">
+<dest><list size="2">
+<ref id="15445" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>411</pageno>
+</outline>
+<outline level="3" title="b'10.5 Deep Recurrent Networks'">
+<dest><list size="2">
+<ref id="15447" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>413</pageno>
+</outline>
+<outline level="3" title="b'10.6 Recursive Neural Networks'">
+<dest><list size="2">
+<ref id="15449" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>415</pageno>
+</outline>
+<outline level="3" title="b'10.7 The Challenge of Long-Term Dependencies'">
+<dest><list size="2">
+<ref id="15451" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>417</pageno>
+</outline>
+<outline level="3" title="b'10.8 Echo State Networks'">
+<dest><list size="2">
+<ref id="15454" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>420</pageno>
+</outline>
+<outline level="3" title="b'10.9 Leaky Units and Other Strategies for Multiple Time Scales'">
+<dest><list size="2">
+<ref id="15457" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>423</pageno>
+</outline>
+<outline level="4" title="b'10.9.1 Adding Skip Connections through Time'">
+<dest><list size="2">
+<ref id="15457" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>423</pageno>
+</outline>
+<outline level="4" title="b'10.9.2 Leaky Units and a Spectrum of Different Time Scales'">
+<dest><list size="2">
+<ref id="15457" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>423</pageno>
+</outline>
+<outline level="4" title="b'10.9.3 Removing Connections'">
+<dest><list size="2">
+<ref id="15458" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>424</pageno>
+</outline>
+<outline level="3" title="b'10.10 The Long Short-Term Memory and Other Gated RNNs'">
+<dest><list size="2">
+<ref id="15459" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>425</pageno>
+</outline>
+<outline level="4" title="b'10.10.1 LSTM'">
+<dest><list size="2">
+<ref id="15459" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>425</pageno>
+</outline>
+<outline level="4" title="b'10.10.2 Other Gated RNNs'">
+<dest><list size="2">
+<ref id="15462" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>428</pageno>
+</outline>
+<outline level="3" title="b'10.11 Optimization for Long-Term Dependencies'">
+<dest><list size="2">
+<ref id="15463" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>429</pageno>
+</outline>
+<outline level="4" title="b'10.11.1 Clipping Gradients'">
+<dest><list size="2">
+<ref id="15464" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>430</pageno>
+</outline>
+<outline level="4" title="b'10.11.2 Regularizing to Encourage Information Flow'">
+<dest><list size="2">
+<ref id="15466" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>432</pageno>
+</outline>
+<outline level="3" title="b'10.12 Explicit Memory'">
+<dest><list size="2">
+<ref id="15467" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>433</pageno>
+</outline>
+<outline level="2" title="b'Chapter 11 - Practical Methodology'">
+<dest><list size="2">
+<ref id="15472" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>438</pageno>
+</outline>
+<outline level="3" title="b'11.1 Performance Metrics'">
+<dest><list size="2">
+<ref id="15473" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>439</pageno>
+</outline>
+<outline level="3" title="b'11.2 Default Baseline Models'">
+<dest><list size="2">
+<ref id="15476" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>442</pageno>
+</outline>
+<outline level="3" title="b'11.3 Determining Whether to Gather More Data'">
+<dest><list size="2">
+<ref id="15477" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>443</pageno>
+</outline>
+<outline level="3" title="b'11.4 Selecting Hyperparameters'">
+<dest><list size="2">
+<ref id="15478" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>444</pageno>
+</outline>
+<outline level="4" title="b'11.4.1 Manual Hyperparameter Tuning'">
+<dest><list size="2">
+<ref id="15479" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>445</pageno>
+</outline>
+<outline level="4" title="b'11.4.2 Automatic Hyperparameter Optimization Algorithms'">
+<dest><list size="2">
+<ref id="15483" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>449</pageno>
+</outline>
+<outline level="4" title="b'11.4.3 Grid Search'">
+<dest><list size="2">
+<ref id="15483" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>449</pageno>
+</outline>
+<outline level="4" title="b'11.4.4 Random Search'">
+<dest><list size="2">
+<ref id="15485" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>451</pageno>
+</outline>
+<outline level="4" title="b'11.4.5 Model-Based Hyperparameter Optimization'">
+<dest><list size="2">
+<ref id="15486" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>452</pageno>
+</outline>
+<outline level="3" title="b'11.5 Debugging Strategies'">
+<dest><list size="2">
+<ref id="15487" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>453</pageno>
+</outline>
+<outline level="3" title="b'11.6 Example: Multi-Digit Number Recognition'">
+<dest><list size="2">
+<ref id="15491" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>457</pageno>
+</outline>
+<outline level="2" title="b'Chapter 12 - Applications'">
+<dest><list size="2">
+<ref id="15494" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>460</pageno>
+</outline>
+<outline level="3" title="b'12.1 Large Scale Deep Learning'">
+<dest><list size="2">
+<ref id="15494" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>460</pageno>
+</outline>
+<outline level="4" title="b'12.1.1 Fast CPU Implementations'">
+<dest><list size="2">
+<ref id="15495" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>461</pageno>
+</outline>
+<outline level="4" title="b'12.1.2 GPU Implementations'">
+<dest><list size="2">
+<ref id="15495" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>461</pageno>
+</outline>
+<outline level="4" title="b'12.1.3 Large Scale Distributed Implementations'">
+<dest><list size="2">
+<ref id="15498" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>464</pageno>
+</outline>
+<outline level="4" title="b'12.1.4 Model Compression'">
+<dest><list size="2">
+<ref id="15498" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>464</pageno>
+</outline>
+<outline level="4" title="b'12.1.5 Dynamic Structure'">
+<dest><list size="2">
+<ref id="15499" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>465</pageno>
+</outline>
+<outline level="4" title="b'12.1.6 Specialized Hardware Implementations of Deep Networks'">
+<dest><list size="2">
+<ref id="15502" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>468</pageno>
+</outline>
+<outline level="3" title="b'12.2 Computer Vision'">
+<dest><list size="2">
+<ref id="15503" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>469</pageno>
+</outline>
+<outline level="4" title="b'12.2.1 Preprocessing'">
+<dest><list size="2">
+<ref id="15504" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>470</pageno>
+</outline>
+<outline level="5" title="b'12.2.1.1 Contrast Normalization'">
+<dest><list size="2">
+<ref id="15505" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>471</pageno>
+</outline>
+<outline level="5" title="b'12.2.1.2 Dataset Augmentation'">
+<dest><list size="2">
+<ref id="15508" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>474</pageno>
+</outline>
+<outline level="3" title="b'12.3 Speech Recognition'">
+<dest><list size="2">
+<ref id="15509" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>475</pageno>
+</outline>
+<outline level="3" title="b'12.4 Natural Language Processing'">
+<dest><list size="2">
+<ref id="15512" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>478</pageno>
+</outline>
+<outline level="4" title="b'12.4.1 n-grams'">
+<dest><list size="2">
+<ref id="15512" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>478</pageno>
+</outline>
+<outline level="4" title="b'12.4.2 Neural Language Models'">
+<dest><list size="2">
+<ref id="15514" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>480</pageno>
+</outline>
+<outline level="4" title="b'12.4.3 High-Dimensional Outputs'">
+<dest><list size="2">
+<ref id="15516" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>482</pageno>
+</outline>
+<outline level="5" title="b'12.4.3.1 Use of a Short List'">
+<dest><list size="2">
+<ref id="15517" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>483</pageno>
+</outline>
+<outline level="5" title="b'12.4.3.2 Hierarchical Softmax'">
+<dest><list size="2">
+<ref id="15518" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>484</pageno>
+</outline>
+<outline level="5" title="b'12.4.3.3 Importance Sampling'">
+<dest><list size="2">
+<ref id="15520" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>486</pageno>
+</outline>
+<outline level="5" title="b'12.4.3.4 Noise-Contrastive Estimation and Ranking Loss'">
+<dest><list size="2">
+<ref id="15522" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>488</pageno>
+</outline>
+<outline level="4" title="b'12.4.4 Combining Neural Language Models with n-grams'">
+<dest><list size="2">
+<ref id="15523" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>489</pageno>
+</outline>
+<outline level="4" title="b'12.4.5 Neural Machine Translation'">
+<dest><list size="2">
+<ref id="15524" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>490</pageno>
+</outline>
+<outline level="5" title="b'12.4.5.1 Using an Attention Mechanism and Aligning Pieces of Data'">
+<dest><list size="2">
+<ref id="15526" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>492</pageno>
+</outline>
+<outline level="4" title="b'12.4.6 Historical Perspective'">
+<dest><list size="2">
+<ref id="15527" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>493</pageno>
+</outline>
+<outline level="3" title="b'12.5 Other Applications'">
+<dest><list size="2">
+<ref id="15528" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>494</pageno>
+</outline>
+<outline level="4" title="b'12.5.1 Recommender Systems'">
+<dest><list size="2">
+<ref id="15529" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>495</pageno>
+</outline>
+<outline level="5" title="b'12.5.1.1 Exploration Versus Exploitation'">
+<dest><list size="2">
+<ref id="15531" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>497</pageno>
+</outline>
+<outline level="4" title="b'12.5.2 Knowledge Representation, Reasoning and Question Answering'">
+<dest><list size="2">
+<ref id="15533" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>499</pageno>
+</outline>
+<outline level="5" title="b'12.5.2.1 Knowledge, Relations and Question Answering'">
+<dest><list size="2">
+<ref id="15533" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>499</pageno>
+</outline>
+<outline level="1" title="b'Part III - Deep Learning Research'">
+<dest><list size="2">
+<ref id="15537" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>503</pageno>
+</outline>
+<outline level="2" title="b'Chapter 13 - Linear Factor Models'">
+<dest><list size="2">
+<ref id="15540" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>506</pageno>
+</outline>
+<outline level="3" title="b'13.1 Probabilistic PCA and Factor Analysis'">
+<dest><list size="2">
+<ref id="15541" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>507</pageno>
+</outline>
+<outline level="3" title="b'13.2 Independent Component Analysis &#40;ICA&#41;'">
+<dest><list size="2">
+<ref id="15542" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>508</pageno>
+</outline>
+<outline level="3" title="b'13.3 Slow Feature Analysis'">
+<dest><list size="2">
+<ref id="15544" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>510</pageno>
+</outline>
+<outline level="3" title="b'13.4 Sparse Coding'">
+<dest><list size="2">
+<ref id="15547" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>513</pageno>
+</outline>
+<outline level="3" title="b'13.5 Manifold Interpretation of PCA'">
+<dest><list size="2">
+<ref id="15550" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>516</pageno>
+</outline>
+<outline level="2" title="b'Chapter 14 - Autoencoders'">
+<dest><list size="2">
+<ref id="15553" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>519</pageno>
+</outline>
+<outline level="3" title="b'14.1 Undercomplete Autoencoders'">
+<dest><list size="2">
+<ref id="15554" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>520</pageno>
+</outline>
+<outline level="3" title="b'14.2 Regularized Autoencoders'">
+<dest><list size="2">
+<ref id="15555" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>521</pageno>
+</outline>
+<outline level="4" title="b'14.2.1 Sparse Autoencoders'">
+<dest><list size="2">
+<ref id="15556" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>522</pageno>
+</outline>
+<outline level="4" title="b'14.2.2 Denoising Autoencoders'">
+<dest><list size="2">
+<ref id="15558" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>524</pageno>
+</outline>
+<outline level="4" title="b'14.2.3 Regularizing by Penalizing Derivatives'">
+<dest><list size="2">
+<ref id="15559" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>525</pageno>
+</outline>
+<outline level="3" title="b'14.3 Representational Power, Layer Size and Depth'">
+<dest><list size="2">
+<ref id="15559" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>525</pageno>
+</outline>
+<outline level="3" title="b'14.4 Stochastic Encoders and Decoders'">
+<dest><list size="2">
+<ref id="15560" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>526</pageno>
+</outline>
+<outline level="3" title="b'14.5 Denoising Autoencoders'">
+<dest><list size="2">
+<ref id="15561" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>527</pageno>
+</outline>
+<outline level="4" title="b'14.5.1 Estimating the Score'">
+<dest><list size="2">
+<ref id="15564" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>530</pageno>
+</outline>
+<outline level="5" title="b'14.5.1.1 Historical Perspective'">
+<dest><list size="2">
+<ref id="15566" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>532</pageno>
+</outline>
+<outline level="3" title="b'14.6 Learning Manifolds with Autoencoders'">
+<dest><list size="2">
+<ref id="15566" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>532</pageno>
+</outline>
+<outline level="3" title="b'14.7 Contractive Autoencoders'">
+<dest><list size="2">
+<ref id="15572" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>538</pageno>
+</outline>
+<outline level="3" title="b'14.8 Predictive Sparse Decomposition'">
+<dest><list size="2">
+<ref id="15574" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>540</pageno>
+</outline>
+<outline level="3" title="b'14.9 Applications of Autoencoders'">
+<dest><list size="2">
+<ref id="15575" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>541</pageno>
+</outline>
+<outline level="2" title="b'Chapter 15 - Representation Learning'">
+<dest><list size="2">
+<ref id="15577" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>543</pageno>
+</outline>
+<outline level="3" title="b'15.1 Greedy Layer-Wise Unsupervised Pretraining'">
+<dest><list size="2">
+<ref id="15579" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>545</pageno>
+</outline>
+<outline level="4" title="b'15.1.1 When and Why Does Unsupervised Pretraining Work?'">
+<dest><list size="2">
+<ref id="15580" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>546</pageno>
+</outline>
+<outline level="3" title="b'15.2 Transfer Learning and Domain Adaptation'">
+<dest><list size="2">
+<ref id="15587" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>553</pageno>
+</outline>
+<outline level="3" title="b'15.3 Semi-Supervised Disentangling of Causal Factors'">
+<dest><list size="2">
+<ref id="15592" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>558</pageno>
+</outline>
+<outline level="3" title="b'15.4 Distributed Representation'">
+<dest><list size="2">
+<ref id="15597" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>563</pageno>
+</outline>
+<outline level="3" title="b'15.5 Exponential Gains from Depth'">
+<dest><list size="2">
+<ref id="15604" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>570</pageno>
+</outline>
+<outline level="3" title="b'15.6 Providing Clues to Discover Underlying Causes'">
+<dest><list size="2">
+<ref id="15605" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>571</pageno>
+</outline>
+<outline level="2" title="b'Chapter 16 - Structured Probabilistic Models for Deep Learning'">
+<dest><list size="2">
+<ref id="15609" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>575</pageno>
+</outline>
+<outline level="3" title="b'16.1 The Challenge of Unstructured Modeling'">
+<dest><list size="2">
+<ref id="15610" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>576</pageno>
+</outline>
+<outline level="3" title="b'16.2 Using Graphs to Describe Model Structure'">
+<dest><list size="2">
+<ref id="15614" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>580</pageno>
+</outline>
+<outline level="4" title="b'16.2.1 Directed Models'">
+<dest><list size="2">
+<ref id="15614" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>580</pageno>
+</outline>
+<outline level="4" title="b'16.2.2 Undirected Models'">
+<dest><list size="2">
+<ref id="15617" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>583</pageno>
+</outline>
+<outline level="4" title="b'16.2.3 The Partition Function'">
+<dest><list size="2">
+<ref id="15619" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>585</pageno>
+</outline>
+<outline level="4" title="b'16.2.4 Energy-Based Models'">
+<dest><list size="2">
+<ref id="15620" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>586</pageno>
+</outline>
+<outline level="4" title="b'16.2.5 Separation and D-Separation'">
+<dest><list size="2">
+<ref id="15623" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>589</pageno>
+</outline>
+<outline level="4" title="b'16.2.6 Converting between Undirected and Directed Graphs'">
+<dest><list size="2">
+<ref id="15624" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>590</pageno>
+</outline>
+<outline level="4" title="b'16.2.7 Factor Graphs'">
+<dest><list size="2">
+<ref id="15630" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>596</pageno>
+</outline>
+<outline level="3" title="b'16.3 Sampling from Graphical Models'">
+<dest><list size="2">
+<ref id="15631" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>597</pageno>
+</outline>
+<outline level="3" title="b'16.4 Advantages of Structured Modeling'">
+<dest><list size="2">
+<ref id="15633" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>599</pageno>
+</outline>
+<outline level="3" title="b'16.5 Learning about Dependencies'">
+<dest><list size="2">
+<ref id="15633" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>599</pageno>
+</outline>
+<outline level="3" title="b'16.6 Inference and Approximate Inference'">
+<dest><list size="2">
+<ref id="15634" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>600</pageno>
+</outline>
+<outline level="3" title="b'16.7 The Deep Learning Approach to Structured Probabilistic Models'">
+<dest><list size="2">
+<ref id="15635" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>601</pageno>
+</outline>
+<outline level="4" title="b'16.7.1 Example: The Restricted Boltzmann Machine'">
+<dest><list size="2">
+<ref id="15638" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>604</pageno>
+</outline>
+<outline level="2" title="b'Chapter 17 - Monte Carlo Methods'">
+<dest><list size="2">
+<ref id="15641" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>607</pageno>
+</outline>
+<outline level="3" title="b'17.1 Sampling and Monte Carlo Methods'">
+<dest><list size="2">
+<ref id="15641" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>607</pageno>
+</outline>
+<outline level="4" title="b'17.1.1 Why Sampling?'">
+<dest><list size="2">
+<ref id="15641" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>607</pageno>
+</outline>
+<outline level="4" title="b'17.1.2 Basics of Monte Carlo Sampling'">
+<dest><list size="2">
+<ref id="15642" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>608</pageno>
+</outline>
+<outline level="3" title="b'17.2 Importance Sampling'">
+<dest><list size="2">
+<ref id="15643" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>609</pageno>
+</outline>
+<outline level="3" title="b'17.3 Markov Chain Monte Carlo Methods'">
+<dest><list size="2">
+<ref id="15646" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>612</pageno>
+</outline>
+<outline level="3" title="b'17.4 Gibbs Sampling'">
+<dest><list size="2">
+<ref id="15650" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>616</pageno>
+</outline>
+<outline level="3" title="b'17.5 The Challenge of Mixing between Separated Modes'">
+<dest><list size="2">
+<ref id="15650" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>616</pageno>
+</outline>
+<outline level="4" title="b'17.5.1 Tempering to Mix between Modes'">
+<dest><list size="2">
+<ref id="15653" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>619</pageno>
+</outline>
+<outline level="4" title="b'17.5.2 Depth May Help Mixing'">
+<dest><list size="2">
+<ref id="15654" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>620</pageno>
+</outline>
+<outline level="2" title="b'Chapter 18 - Confronting the Partition Function'">
+<dest><list size="2">
+<ref id="15656" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>622</pageno>
+</outline>
+<outline level="3" title="b'18.1 The Log-Likelihood Gradient'">
+<dest><list size="2">
+<ref id="15657" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>623</pageno>
+</outline>
+<outline level="3" title="b'18.2 Stochastic Maximum Likelihood and Contrastive Divergence'">
+<dest><list size="2">
+<ref id="15658" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>624</pageno>
+</outline>
+<outline level="3" title="b'18.3 Pseudolikelihood'">
+<dest><list size="2">
+<ref id="15666" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>632</pageno>
+</outline>
+<outline level="3" title="b'18.4 Score Matching and Ratio Matching'">
+<dest><list size="2">
+<ref id="15668" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>634</pageno>
+</outline>
+<outline level="3" title="b'18.5 Denoising Score Matching'">
+<dest><list size="2">
+<ref id="15670" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>636</pageno>
+</outline>
+<outline level="3" title="b'18.6 Noise-Contrastive Estimation'">
+<dest><list size="2">
+<ref id="15671" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>637</pageno>
+</outline>
+<outline level="3" title="b'18.7 Estimating the Partition Function'">
+<dest><list size="2">
+<ref id="15674" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>640</pageno>
+</outline>
+<outline level="4" title="b'18.7.1 Annealed Importance Sampling'">
+<dest><list size="2">
+<ref id="15676" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>642</pageno>
+</outline>
+<outline level="4" title="b'18.7.2 Bridge Sampling'">
+<dest><list size="2">
+<ref id="15679" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>645</pageno>
+</outline>
+<outline level="2" title="b'Chapter 19 - Approximate Inference'">
+<dest><list size="2">
+<ref id="15682" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>648</pageno>
+</outline>
+<outline level="3" title="b'19.1 Inference as Optimization'">
+<dest><list size="2">
+<ref id="15684" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>650</pageno>
+</outline>
+<outline level="3" title="b'19.2 Expectation Maximization'">
+<dest><list size="2">
+<ref id="15685" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>651</pageno>
+</outline>
+<outline level="3" title="b'19.3 MAP Inference and Sparse Coding'">
+<dest><list size="2">
+<ref id="15686" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>652</pageno>
+</outline>
+<outline level="3" title="b'19.4 Variational Inference and Learning'">
+<dest><list size="2">
+<ref id="15689" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>655</pageno>
+</outline>
+<outline level="4" title="b'19.4.1 Discrete Latent Variables'">
+<dest><list size="2">
+<ref id="15690" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>656</pageno>
+</outline>
+<outline level="4" title="b'19.4.2 Calculus of Variations'">
+<dest><list size="2">
+<ref id="15696" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>662</pageno>
+</outline>
+<outline level="4" title="b'19.4.3 Continuous Latent Variables'">
+<dest><list size="2">
+<ref id="15699" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>665</pageno>
+</outline>
+<outline level="4" title="b'19.4.4 Interactions between Learning and Inference'">
+<dest><list size="2">
+<ref id="15701" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>667</pageno>
+</outline>
+<outline level="3" title="b'19.5 Learned Approximate Inference'">
+<dest><list size="2">
+<ref id="15702" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>668</pageno>
+</outline>
+<outline level="4" title="b'19.5.1 Wake-Sleep'">
+<dest><list size="2">
+<ref id="15702" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>668</pageno>
+</outline>
+<outline level="4" title="b'19.5.2 Other Forms of Learned Inference'">
+<dest><list size="2">
+<ref id="15703" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>669</pageno>
+</outline>
+<outline level="2" title="b'Chapter 20 - Deep Generative Models'">
+<dest><list size="2">
+<ref id="15705" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>671</pageno>
+</outline>
+<outline level="3" title="b'20.1 Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15705" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>671</pageno>
+</outline>
+<outline level="3" title="b'20.2 Restricted Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15707" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>673</pageno>
+</outline>
+<outline level="4" title="b'20.2.1 Conditional Distributions'">
+<dest><list size="2">
+<ref id="15709" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>675</pageno>
+</outline>
+<outline level="4" title="b'20.2.2 Training Restricted Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15710" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>676</pageno>
+</outline>
+<outline level="3" title="b'20.3 Deep Belief Networks'">
+<dest><list size="2">
+<ref id="15711" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>677</pageno>
+</outline>
+<outline level="3" title="b'20.4 Deep Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15714" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>680</pageno>
+</outline>
+<outline level="4" title="b'20.4.1 Interesting Properties'">
+<dest><list size="2">
+<ref id="15716" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>682</pageno>
+</outline>
+<outline level="4" title="b'20.4.2 DBM Mean Field Inference'">
+<dest><list size="2">
+<ref id="15717" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>683</pageno>
+</outline>
+<outline level="4" title="b'20.4.3 DBM Parameter Learning'">
+<dest><list size="2">
+<ref id="15719" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>685</pageno>
+</outline>
+<outline level="4" title="b'20.4.4 Layer-Wise Pretraining'">
+<dest><list size="2">
+<ref id="15720" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>686</pageno>
+</outline>
+<outline level="4" title="b'20.4.5 Jointly Training Deep Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15722" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>688</pageno>
+</outline>
+<outline level="3" title="b'20.5 Boltzmann Machines for Real-Valued Data'">
+<dest><list size="2">
+<ref id="15727" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>693</pageno>
+</outline>
+<outline level="4" title="b'20.5.1 Gaussian-Bernoulli RBMs'">
+<dest><list size="2">
+<ref id="15727" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>693</pageno>
+</outline>
+<outline level="4" title="b'20.5.2 Undirected Models of Conditional Covariance'">
+<dest><list size="2">
+<ref id="15729" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>695</pageno>
+</outline>
+<outline level="3" title="b'20.6 Convolutional Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15734" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>700</pageno>
+</outline>
+<outline level="3" title="b'20.7 Boltzmann Machines for Structured or Sequential Outputs'">
+<dest><list size="2">
+<ref id="15736" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>702</pageno>
+</outline>
+<outline level="3" title="b'20.8 Other Boltzmann Machines'">
+<dest><list size="2">
+<ref id="15737" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>703</pageno>
+</outline>
+<outline level="3" title="b'20.9 Back-Propagation through Random Operations'">
+<dest><list size="2">
+<ref id="15738" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>704</pageno>
+</outline>
+<outline level="4" title="b'20.9.1 Back-Propagating through Discrete Stochastic Operations'">
+<dest><list size="2">
+<ref id="15740" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>706</pageno>
+</outline>
+<outline level="3" title="b'20.10 Directed Generative Nets'">
+<dest><list size="2">
+<ref id="15743" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>709</pageno>
+</outline>
+<outline level="4" title="b'20.10.1 Sigmoid Belief Nets'">
+<dest><list size="2">
+<ref id="15743" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>709</pageno>
+</outline>
+<outline level="4" title="b'20.10.2 Differentiable Generator Nets'">
+<dest><list size="2">
+<ref id="15744" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>710</pageno>
+</outline>
+<outline level="4" title="b'20.10.3 Variational Autoencoders'">
+<dest><list size="2">
+<ref id="15747" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>713</pageno>
+</outline>
+<outline level="4" title="b'20.10.4 Generative Adversarial Networks'">
+<dest><list size="2">
+<ref id="15751" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>717</pageno>
+</outline>
+<outline level="4" title="b'20.10.5 Generative Moment Matching Networks'">
+<dest><list size="2">
+<ref id="15754" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>720</pageno>
+</outline>
+<outline level="4" title="b'20.10.6 Convolutional Generative Networks'">
+<dest><list size="2">
+<ref id="15755" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>721</pageno>
+</outline>
+<outline level="4" title="b'20.10.7 Auto-Regressive Networks'">
+<dest><list size="2">
+<ref id="15756" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>722</pageno>
+</outline>
+<outline level="4" title="b'20.10.8 Linear Auto-Regressive Networks'">
+<dest><list size="2">
+<ref id="15757" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>723</pageno>
+</outline>
+<outline level="4" title="b'20.10.9 Neural Auto-Regressive Networks'">
+<dest><list size="2">
+<ref id="15758" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>724</pageno>
+</outline>
+<outline level="4" title="b'20.10.10 NADE'">
+<dest><list size="2">
+<ref id="15759" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>725</pageno>
+</outline>
+<outline level="3" title="b'20.11 Drawing Samples from Autoencoders'">
+<dest><list size="2">
+<ref id="15761" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>727</pageno>
+</outline>
+<outline level="4" title="b'20.11.1 Markov Chain Associated with any Denoising Autoencoder'">
+<dest><list size="2">
+<ref id="15762" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>728</pageno>
+</outline>
+<outline level="4" title="b'20.11.2 Clamping and Conditional Sampling'">
+<dest><list size="2">
+<ref id="15762" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>728</pageno>
+</outline>
+<outline level="4" title="b'20.11.3 Walk-Back Training Procedure'">
+<dest><list size="2">
+<ref id="15764" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>730</pageno>
+</outline>
+<outline level="3" title="b'20.12 Generative Stochastic Networks'">
+<dest><list size="2">
+<ref id="15765" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>731</pageno>
+</outline>
+<outline level="4" title="b'20.12.1 Discriminant GSNs'">
+<dest><list size="2">
+<ref id="15766" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>732</pageno>
+</outline>
+<outline level="3" title="b'20.13 Other Generation Schemes'">
+<dest><list size="2">
+<ref id="15766" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>732</pageno>
+</outline>
+<outline level="3" title="b'20.14 Evaluating Generative Models'">
+<dest><list size="2">
+<ref id="15768" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>734</pageno>
+</outline>
+<outline level="3" title="b'20.15 Conclusion'">
+<dest><list size="2">
+<ref id="15770" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>736</pageno>
+</outline>
+<outline level="1" title="b'Bibliography'">
+<dest><list size="2">
+<ref id="15772" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>738</pageno>
+</outline>
+<outline level="1" title="b'Index'">
+<dest><list size="2">
+<ref id="15829" />
+<literal>Fit</literal>
+</list></dest>
+<pageno>795</pageno>
+</outline>
+</outlines>
