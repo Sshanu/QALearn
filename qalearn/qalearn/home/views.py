@@ -12,6 +12,11 @@ import requests
 from file2id import file2id
 from sim2id import sim2id
 import pickle as pkl
+import re
+
+def upper_repl(match):
+	print(match.group(2).upper())
+	return match.group(1) + match.group(2).upper()
 
 def upload(request):
     # Handle file upload
@@ -146,6 +151,7 @@ def index(request):
 						try:
 							print("sending data to bidaf")
 							final_url = url+urllib.parse.quote_plus(sections[top_ids[i]])+"&question="+urllib.parse.quote_plus(ques.lower())
+							print("url", final_url)
 							url_request = urllib.request.Request(final_url,None,headers)
 							response = urllib.request.urlopen(url_request)
 							data = response.read()
@@ -155,9 +161,11 @@ def index(request):
 								ans_data = json_data['result']
 								if(ans_data != ""):
 									print("answer found")
-									ans +=  ans_data + "\n\n"
+									ans_data = re.sub("\n+", " ", ans_data)
+									ans +=  ans_data.capitalize() + "\n\n"
+									ans = re.sub("(.[\.?]\s+)(\w)", upper_repl, ans)
 									context['status'] = 1
-									context['answer'] = ans.capitalize()
+									context['answer'] = ans
 									context["ques"] = ques
 									context["title"] =  top_n_ids[i] + "    " + top_titles[i].upper()
 								else:
