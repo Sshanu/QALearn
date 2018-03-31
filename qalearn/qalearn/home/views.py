@@ -145,7 +145,7 @@ def index(request):
 					if(top_sims[i]):
 						try:
 							print("sending data to bidaf")
-							final_url = url+urllib.parse.quote_plus(sections[top_ids[i]])+"&question="+urllib.parse.quote_plus(ques)
+							final_url = url+urllib.parse.quote_plus(sections[top_ids[i]])+"&question="+urllib.parse.quote_plus(ques.lower())
 							url_request = urllib.request.Request(final_url,None,headers)
 							response = urllib.request.urlopen(url_request)
 							data = response.read()
