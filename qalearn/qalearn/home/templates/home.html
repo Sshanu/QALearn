@@ -46,7 +46,7 @@
 	                        </select>
 	                </div>
 	                 <div class="col-sm-4 container-contact100-form-btn" align="left">
-	                    <button class="contact100-form-btn form-control" style="width: 5%">
+	                    <button class="contact100-form-btn form-control" name="preview" style="width: 5%">
 	                        Preview
 	                    </button>
 	                </div>
@@ -82,31 +82,34 @@
                 </div>
 
                 <div class="container-contact100-form-btn">
-                    <button class="contact100-form-btn form-control" style="width:30%; margin:0 auto;"">
+                    <button class="contact100-form-btn form-control" type="submit" name="submit" value="submit" style="width:30%; margin:0 auto;"">
                         Submit
                     </button>
                 </div>
-                {% if status %}
+                {% if status1 %}
                     <p class="contact100-form-text"> Answer: </p>
                     <div class="wrap-input100 validate-input">
-                        <textarea readonly class="input100" name="answer">{{answer}}</textarea>
+                        <textarea readonly class="input100" style="font-weight: bold" name="answer">{{answer1}}</textarea>
                         <span class="focus-input100"></span>
                     </div>
+                {% endif %} 
+                {% if title_status1 %}
+
                         <p class="contact100-form-text"> For More Info See This Section: </p>
 
 
                     <div class="wrap-input100 validate-input">
-                        <textarea style="{white-space: pre-line;text-align: justify;-moz-text-align-last: center;text-align-last:center;}" readonly class="input100" name="title">{{title}}</textarea>
+                        <textarea readonly class="input100" name="title">{{title1}}</textarea>
                         <span class="focus-input100"></span>
                     </div>
-                {% endif %}
 
+            
+                {% endif %}
                 {% if no_ans_status %}
                     <p class="contact100-form-text"> No answer found</p>
                 {% endif %}
             </form>
-            
-
+        
 
         </div>
 

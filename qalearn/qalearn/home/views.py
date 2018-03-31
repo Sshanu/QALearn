@@ -104,10 +104,14 @@ def upload(request):
 
 def index(request):
 	context={}
-	context['status'] = None
+	context['status1'] = None
+	context['title_status1'] = None
+	context['status2'] = None
+	context['title_status2'] = None
 	context['show'] = None
 	context['file_select_status'] = 0
 	context['no_ans_status'] = 0
+	context['more'] = 0
 
 	num_ans = 1
 	ans = ""
@@ -122,8 +126,7 @@ def index(request):
 	except:
 		print("no doc")
 		context['documents'] = None
-
-
+		
 	print("Requesting GET")		
 	if(request.method == 'GET'):
 		ques = request.GET.get('question')
@@ -162,16 +165,17 @@ def index(request):
 								if(ans_data != ""):
 									print("answer found")
 									ans_data = re.sub("\n+", " ", ans_data)
-									ans +=  ans_data.capitalize() + "\n\n"
+									ans +=  ans_data.capitalize()
 									ans = re.sub("(.[\.?]\s+)(\w)", upper_repl, ans)
-									context['status'] = 1
-									context['answer'] = ans
+									context['status'+str(i+1)] = 1
+									context['title_status'+str(i+1)] = 1
+									context['answer'+str(i+1)] = ans
 									context["ques"] = ques
-									context["title"] =  top_n_ids[i] + "    " + top_titles[i].upper()
+									context["title"+str(i+1)] =  top_n_ids[i] + "    " + top_titles[i].upper()
 								else:
-									print("no answer")
-									context['no_ans_status'] = 1
 									context["ques"] = ques
+									context['title_status'+str(i+1)] = 1
+									context["title"+str(i+1)] =  top_n_ids[i] + "    " + top_titles[i].upper()
 
 							except:
 								print("no answer")
