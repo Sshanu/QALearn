@@ -143,7 +143,7 @@ def file2id(text_file_loc):
                 regex = ids[j] + "\s+" + contents[j]
                 sections[-1] = re.sub(regex, "", sections[-1])
             sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
-            sections[-1] = re.sub(r'\s?(\d\.)+\d\s+', '', sections[-1])
+            sections[-1] = re.sub(r'\s?(\d\.)+\d\.?\s+', '', sections[-1])
             # sections[-1] = re.sub(r'')
             final_str = final_str[end:]
             print("pass", i)
