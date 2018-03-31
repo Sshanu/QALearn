@@ -1,0 +1,4541 @@
+CONTENTS
+
+FOREWORD
+PREFACE
+
+1 Reproduction  in  Organisms
+
+1.1  ASEXUAL REPRODUCTION
+1.2 SEXUAL REPRODUCTION
+1.2.1 Pre-fertilisation Events
+
+1.2.1.1 Gametogenesis
+1.2.1.2 Gamete Transfer
+1.2.2 Fertilisation
+
+1.2.3 Post-fertilisation Events
+1.2.3.1 The Zygote
+1.2.3.2  Embryogenesis
+
+
+
+2 Sexual  Reproduction  in  Flowering  Plants
+
+2.1 FLOWER – A FASCINATING ORGAN OF
+2.2 PRE-FERTILISATION: STRUCTURES AND EVENTS
+2.2.1 Stamen, Microsporangium and Pollen Grain
+2.2.2 The Pistil, Megasporangium (ovule) and Embryo sac
+2.2.3 Pollination
+
+2.3 DOUBLE FERTILISATION
+
+2.4  POST-FERTILISATION : STRUCTURES AND EVENTS
+2.4.1 Endosperm
+2.4.2 Embryo
+2.4.3 Seed
+
+2.5  APOMIXIS AND POLYEMBRYONY
+
+
+3  Human  Reproduction
+
+3.1 THE MALE REPRODUCTIVE SYSTEM
+3.2 THE FEMALE REPRODUCTIVE SYSTEM
+3.3 GAMETOGENESIS
+3.4 MENSTRUAL CYCLE
+3.5 FERTILISATION AND IMPLANTATION
+3.6 PREGNANCY AND EMBRYONIC DEVELOPMENT
+3.7 PARTURITION AND LACTATION
+
+
+4  Reproductive  Health
+
+4.1 REPRODUCTIVE HEALTH – PROBLEMS AND STRATEGIES
+4.2 POPULATION EXPLOSION AND BIRTH CONTROL
+4.3 MEDICAL TERMINATION OF PREGNANCY (MTP)
+4.4 SEXUALLY TRANSMITTED DISEASES (STDS)
+4.5 INFERTILITY
+
+5  Principles  of  Inheritance  and  Variation
+5.1 MENDEL’S LAWS OF INHERITANCE 
+5.2 INHERITANCE OF ONE GENE
+5.2.1 Law of Dominance
+5.2.2 Law of Segregation
+5.2.2.1 Incomplete Dominance
+5.2.2.2  Co-dominance
+5.3 INHERITANCE OF TWO GENES
+5.3.1 Law of Independent Assortment
+5.3.2 Chromosomal Theory of Inheritance
+5.3.3 Linkage and Recombination
+5.4 SEX DETERMINATION
+5.4.1 Sex Determination in Humans
+5.5 MUTATION
+5.6 GENETIC DISORDERS
+5.6.1 Pedigree Analysis
+5.6.2 Mendelian Disorders
+5.6.3 Chromosomal disorders
+
+
+
+
+Biology in essence is the story of life on earth. While individual
+organisms die without fail, species continue to live through
+millions of years unless threatened by natural or anthropogenic
+extinction.  Reproduction  becomes  a  vital  process  without
+which species cannot survive for long. Each individual leaves
+its  progeny  by  asexual  or  sexual  means.  Sexual  mode  of
+reproduction enables creation of new variants, so that survival
+advantage  is  enhanced.  This  unit  examines  the  general
+principles underlying reproductive processes in living organisms
+and then explains the details of this process in flowering plants
+and humans as easy to relate representative examples. A related
+perspective  on  human  reproductive  health  and  how
+reproductive ill health can be avoided is also presented to
+complete our understanding of biology of reproduction.
+
+Born in November 1904 in Jaipur (Rajasthan) Panchanan Maheshwari
+rose to become one of the most distinguished botanists not only of India
+but of the entire world. He moved to Allahabad for higher education
+where he obtained his D.Sc. During his college days, he was inspired
+by Dr W. Dudgeon, an American missionary teacher, to develop interest
+in Botany and especially morphology. His teacher once expressed that
+if his student progresses ahead of him, it will give him a great satisfaction.
+These words encouraged Panchanan to enquire what he could do for
+his teacher in return.
+
+He worked on embryological aspects and popularised the use of
+embryological chracters in taxonomy. He established the Department
+of  Botany,  University  of  Delhi  as  an  important  centre  of  research  in
+embryology and tissue culture. He also emphasised the need for initiation
+of  work  on  artificial  culture  of  immature  embryos.  These  days,  tissue
+culture  has  become  a  landmark  in  science.  His  work  on  test  tube
+fertilisation  and  intra-ovarian  pollination  won  worldwide  acclaim.
+
+He was honoured with fellowship of Royal Society of London (FRS),
+Indian  National  Science  Academy  and  several  other  institutions  of
+excellence. He encouraged general education and made a significant
+contribution to school education by his leadership in bringing out the
+very first textbooks of Biology for Higher Secondary Schools published
+by NCERT in 1964.
+
+PANCHANAN MAHESHWARI
+
+(1904-1966)
+
+CHAPTER 1
+REPRODUCTION IN ORGANISMS
+
+
+Each and every organism can live only for a certain period
+of time. The period from birth to the natural death of an
+organism  represents  its  life  span.  Life  spans  of  a  few
+organisms are given in Figure 1.1. Several other organisms
+are drawn for which you should find out their life spans
+and write in the spaces provided.  Examine the life spans
+of organisms represented in the Figure 1.1. Isn’t it both
+interesting and intriguing to note that it may be as short
+as a few days or as long as a few thousand years?  Between
+these two extremes are the life spans of most other living
+organisms. You may note that life spans of organisms are
+not  necessarily  correlated  with  their  sizes;  the  sizes  of
+crows and parrots are not very different yet their life spans
+show a wide difference. Similarly, a mango tree has a much
+shorter life span as compared to a peepal tree. Whatever
+be the life span, death of every individual organism is a
+certainty, i.e., no individual is immortal, except single-celled
+organisms. Why do we say there is no natural death in
+single-celled organisms? Given this reality, have you ever
+wondered how vast number of plant and animal species
+have existed on earth for several thousands of years?  There
+must be some processes in living organisms that ensure
+this continuity.  Yes, we are talking about reproduction,
+something that we take for granted.
+
+BIOLOGY
+
+4
+4
+
+Figure 1.1 Approximate life spans of some organisms
+
+REPRODUCTION  IN  ORGANISMS
+
+Reproduction  is  defined  as  a  biological  process  in  which  an
+organism gives rise to young ones (offspring) similar to itself. The offspring
+grow, mature and in turn produce new offspring. Thus, there is a cycle
+of birth, growth and death. Reproduction enables the continuity of the
+species, generation after generation. You will study later in Chapter 5
+(Principles of Inheritance and Variation) how genetic variation is created
+and inherited during reproduction.
+
+There is a large diversity in the biological world and each organism
+has  evolved  its  own  mechanism  to  multiply  and  produce  offspring.
+The organism’s habitat, its internal physiology and several other factors
+are collectively responsible for how it reproduces.  Based on whether
+there  is  participation  of  one  organism  or  two  in  the  process  of
+reproduction, it is of two types. When offspring is produced by a single
+parent  with  or  without  the  involvement  of  gamete  formation,  the
+reproduction is asexual. When two parents (opposite sex) participate in
+the reproductive process and also involve fusion of male and female
+gametes, it is called sexual reproduction.
+
+1.1  ASEXUAL REPRODUCTION
+In this method, a single individual (parent) is capable of producing
+offspring. As a result, the offspring that are produced are not only
+identical to one another but are also exact copies of their parent.
+Are  these  offspring  likely  to  be  genetically  identical  or  different?
+The  term  clone  is  used  to  describe  such  morphologically  and
+genetically similar individuals.
+
+(a)
+
+Figure  1.2 Cell  division  in  unicellular  organism:  (a)  Budding  in
+
+yeast;  (b)  Binary  fission  in  Amoeba
+
+Let us see how widespread asexual reproduction is, among different
+groups  of  organisms.  Asexual  reproduction  is  common  among
+single-celled organisms, and in plants and animals with relatively simple
+organisations. In Protists and Monerans, the organism or the parent
+cell divides into two to give rise to new individuals (Figure1.2). Thus,
+
+(b)
+
+5
+
+BIOLOGY
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure1.3 Asexual  reproductive  structures:  (a)  Zoospores  of  chlamydomonas;  (b)  Conidia  of
+
+Penicillium; (c) Buds in  Hydra ; (d) Gemmules in sponge
+
+6
+
+in these organisms cell division is itself a mode of reproduction. Many
+single-celled organisms reproduce by binary fission, where a cell divides
+into two halves and each rapidly grows into an adult (e.g., Amoeba,
+Paramecium).  In  yeast,  the  division  is  unequal  and  small  buds  are
+produced  that  remain  attached  initially  to  the  parent  cell  which,
+eventually gets separated and  mature into new yeast organisms (cells).
+Members  of  the  Kingdom  Fungi  and  simple  plants  such  as  algae
+reproduce through special asexual reproductive structures (Figure 1.3).
+The most common of these structures are zoospores that usually are
+microscopic  motile  structures.    Other  common  asexual  reproductive
+structures are conidia (Penicillium), buds (Hydra) and gemmules (sponge).
+
+REPRODUCTION  IN  ORGANISMS
+
+(a)
+
+Nodes
+
+Buds
+
+Adventitious
+
+Root
+
+(b)
+
+Adventitious
+
+Buds
+
+(c)
+
+(d)
+
+(e)
+
+Figure  1.4 Vegetative propagules in angiosperms: (a) Eyes of potato; (b) Rhizome of ginger;
+
+(c) Bulbil of Agave; (d) Leaf buds of Bryophyllum; (e) Offset of water hyacinth
+
+You have learnt about vegetative reproduction in plants in Class XI.
+What do you think – Is vegetative reproduction also a type of asexual
+reproduction?  Why  do  you  say  so?  Is  the  term  clone  applicable  to  the
+offspring  formed  by  vegetative  reproduction?
+
+While in animals and other simple organisms the term asexual is used
+unambiguously, in plants, the term vegetative reproduction is frequently
+used. In plants, the units of vegetative propagation such as runner,
+rhizome, sucker, tuber, offset, bulb are all capable of giving rise to new
+offspring (Figure1.4). These structures are called vegetative propagules.
+Obviously, since the formation of these structures does not involve two
+parents, the process involved is asexual.
+
+7
+
+BIOLOGY
+
+You must have heard about the scourge of the water bodies or about
+the ‘terror of Bengal’. This is nothing but the aquatic plant ‘water hyacinth’
+which is one of the most invasive weeds found growing wherever there is
+standing water. It drains oxygen from the water, which leads to death of
+fishes.  You will learn more about it in Chapters 13 and 14. You may find
+it interesting to know that this plant was introduced in India because of
+its beautiful flowers and shape of leaves.  Since it can propagate vegetatively
+at a phenomenal rate and spread all over the water body in a short period
+of time, it is very difficult to get rid off them.
+
+Are  you  aware  how  plants  like  potato,  sugarcane,  banana,  ginger,
+dahlia are cultivated?  Have you seen small plants emerging from the
+buds (called eyes) of the potato tuber, from the rhizomes of banana and
+ginger? When you carefully try to determine the site of origin of the new
+plantlets in the plants listed above, you will notice that they invariably
+arise from the nodes present in the modified stems of these plants. When
+the nodes come in contact with damp soil or water, they produce roots
+and  new  plants.  Similarly,  adventitious  buds  arise  from  the  notches
+present at margins of leaves of Bryophyllum.  This ability is fully exploited
+by gardeners and farmers for commercial propagation of such plants.
+
+It is interesting to note that asexual reproduction is the common method
+of reproduction in organisms that have a relatively simple organisation,
+like algae and fungi and that they shift to sexual method of reproduction
+just  before  the  onset  of  adverse  conditions.    Find  out  how  sexual
+reproduction  enables  these  organisms  to  survive  during  unfavourable
+conditions? Why is sexual reproduction favoured under such conditions?
+Asexual (vegetative) as well as sexual modes of reproduction are exhibited
+by the higher plants. On the other hand, only sexual mode of reproduction
+is present in most of the animals.
+
+1.2 SEXUAL REPRODUCTION
+
+Sexual reproduction involves formation of the male and female gametes,
+either by the same individual or by different individuals of the opposite
+sex. These gametes fuse to form the zygote which develops to form the
+new organism. It is an elaborate, complex and slow process as compared
+to asexual reproduction. Because of the fusion of male and female gametes,
+sexual reproduction results in offspring that are not identical to the parents
+or amongst themselves.
+
+A study of diverse organisms–plants animals or fungi–show  that
+though they differ so greatly in external morphology, internal structure
+and  physiology,  when  it  comes  to  sexual  mode  of  reproduction,
+surprisingly, they share a similar pattern. Let us first discuss what features
+are common to these diverse organisms.
+
+All organisms have to reach a certain stage of growth and maturity in
+their life, before they can reproduce sexually. That period of growth is
+
+8
+
+REPRODUCTION  IN  ORGANISMS
+
+called the juvenile phase. It is known as vegetative phase in plants.
+This phase is of variable durations in different organisms.
+
+The end of juvenile/vegetative phase which marks the beginning of
+the reproductive phase can be seen easily in the higher plants when they
+come to flower. How long does it take for marigold/rice/wheat/coconut/
+mango plants to come to flower?  In some plants, where flowering occurs
+more than once, what would you call the inter-flowering period – juvenile
+or  mature?
+
+Observe a few trees in your area. Do they flower during the same
+month year after year? Why do you think the availability of fruits like
+mango, apple, jackfruit, etc., is seasonal? Are there some plants that flower
+throughout the year and some others that show seasonal flowering?
+Plants –the  annual  and  biennial  types,  show  clear  cut  vegetative,
+reproductive and senescent phases, but in the perennial species it is very
+difficult to clearly define these phases. A few plants exhibit unusual
+flowering phenomenon; some of them such as bamboo species flower only
+once in their life time, generally after 50-100 years, produce large number
+of fruits  and die. Another plant, Strobilanthus kunthiana (neelakuranji),
+flowers once in 12 years. As many of you would be knowing that this
+plant  flowered  during  September-October  2006.  Its  mass  flowering
+transformed large tracks of hilly areas in Kerala, Karnataka and Tamil
+Nadu into blue stretches and attracted a large number of tourists. In
+animals, the juvenile phase is followed by morphological and physiological
+changes prior to active reproductive behaviour. The reproductive phase
+is also of variable duration in different organisms.
+
+Can you list the changes seen in human beings that are indicative
+
+of  reproductive  maturity?
+
+Among animals, for example birds, do they lay eggs all through the
+year? Or is it a seasonal phenomenon? What about other animals like
+frogs and lizards? You will notice that, birds living in nature lay eggs only
+seasonally. However, birds in captivity (as in poultry farms) can be made
+to lay eggs throughout the year. In this case, laying eggs is not related to
+reproduction but is a commercial exploitation for human welfare.  The
+females of placental mammals exhibit cyclical changes in the activities of
+ovaries and accessory ducts as well as hormones during the reproductive
+phase. In non-primate mammals like cows, sheep, rats, deers, dogs, tiger,
+etc., such cyclical changes during reproduction are called oestrus cycle
+where as in primates (monkeys, apes, and humans) it is called menstrual
+cycle. Many mammals, especially those living in natural, wild conditions
+exhibit such cycles only during favourable seasons in their reproductive
+phase and are therefore called seasonal breeders. Many other mammals
+are reproductively active throughout their reproductive phase and hence
+are called continuous breeders.
+
+That we all grow old (if we live long enough), is something that we
+recognise. But what is meant by growing old? The end of reproductive
+
+9
+
+BIOLOGY
+
+phase can be considered as one of the parameters of senescence or old
+age.  There  are  concomitant  changes  in  the  body  (like  slowing  of
+metabolism, etc.) during this last phase of life span. Old age ultimately
+leads to death.
+
+In  both  plants  and  animals,  hormones  are  responsible  for  the
+transitions between the three phases. Interaction between hormones and
+certain environmental factors regulate the reproductive processes and
+the associated behavioural expressions of organisms.
+Events in sexual reproduction : After attainment of maturity, all sexually
+reproducing organisms exhibit events and processes that have remarkable
+fundamental similarity, even though the structures associated with sexual
+reproduction are indeed very different. The events of sexual reproduction
+though  elaborate  and  complex,  follow  a  regular  sequence.  Sexual
+reproduction is characterised by the fusion (or fertilisation) of the male and
+female gametes, the formation of zygote and embryogenesis. For convenience
+these sequential events may be grouped into three distinct stages namely,
+the pre-fertilisation, fertilisation and the post-fertilisation events.
+
+1.2.1 Pre-fertilisation Events
+
+These include all the events of sexual reproduction prior to the fusion of
+gametes.  The two main pre-fertilisation events are gametogenesis and
+gamete transfer.
+
+1.2.1.1 Gametogenesis
+
+As you are already aware gametogenesis refers to the process of formation
+of the two types of gametes – male and female. Gametes are haploid
+cells.  In  some  algae  the  two  gametes  are  so  similar  in  appearance
+that it is not possible to categorise them into male and female gametes.
+
+10
+
+(a)
+
+(b)
+
+(c)
+
+Figure  1.5 Types  of  gametes:  (a)  Isogametes  of  Cladophora  (an  alga);  Heterogametes
+
+(b) Fucus (an alga); (c) Human beings
+
+REPRODUCTION  IN  ORGANISMS
+
+They are hence, are called homogametes (isogametes) (Figure 1.5a).
+However, in a majority of sexually reproducing organisms the gametes
+produced are of two morphologically distinct types (heterogametes).  In
+such organisms the male gamete is called the antherozoid or sperm
+and the female gamete is called the egg or ovum (Figure1.5 b, c).
+Sexuality in organisms: Sexual reproduction in organisms generally
+involves the fusion of gametes from two different individuals. But this
+is  not  always  true.    From  your  recollection  of  examples  studied  in
+Class XI, can you identify cases where self-fertilisation is observed? Of
+course, citing such examples in plants is easy.
+
+Plants may have both male and female reproductive structures in the
+same plant (bisexual) (Figure 1.6 c, e) or on different plants  (unisexual)
+(Figure 1.6 d). In several fungi and plants, terms such as homothallic
+and  monoecious  are  used  to  denote  the  bisexual  condition  and
+heterothallic and dioecious are the terms used to describe unisexual
+condition. In flowering plants, the unisexual male flower is staminate,
+i.e., bearing stamens, while the female is pistillate or bearing pistils. In
+some flowering plants, both male and female flowers  may be present on
+the same individual (monoecious) or on separate individuals (dioecious).
+Some examples of monoecious plants are  cucurbits and coconuts and of
+dioecious plants are papaya and date palm. Name the type of gametes
+that are formed in staminate and pistillate flowers.
+
+But what about animals?  Are individuals of all species either male or
+female  (unisexual)?  Or  are  there  species  which  possess  both  the
+reproductive  organs  (bisexual)?  You  probably  can  make  a  list
+of several unisexual animal species. Earthworms, (Figure 1.6 a) sponge,
+tapeworm and leech, typical examples of bisexual animals that possess
+both  male  and  female  reproductive  organs,  are  hermaphrodites.
+Cockroach (Figure 1.6b) is an example of a unisexual species.
+Cell division during gamete formation : Gametes in all heterogametic
+species are of two types namely, male and female. Gametes are haploid
+though the parent plant body from which they arise may be either haploid
+or diploid. A haploid parent produces gametes by mitotic division.  Does
+this  mean  that  meiosis  never  occurs  in  organisms  that  are  haploid?
+Carefully examine the flow charts of life cycles of algae that you have
+studied in Class XI (Chapter 3) to get a suitable answer.
+
+Several organisms belonging to monera, fungi, algae and bryophytes
+have  haploid  plant  body,  but  organisms  belonging  to  pteridophytes,
+gymnosperms, angiosperms and most of the animals including human
+beings, the parental body is diploid.  It is obvious that meiosis, the reduction
+division, has to occur if a diploid body has to produce haploid gametes.
+
+In diploid organisms, specialised cells called meiocytes (gamete mother
+cell) undergo meiosis.  At the end of meiosis, only one set of chromosomes
+
+11
+
+Clitellum
+
+Testis  sac
+with  testis
+
+Ovary
+
+(a)
+
+(c)
+
+BIOLOGY
+
+Male
+
+Testis
+
+Female
+
+Ovary
+
+Archegoniophore
+
+Antheridiophore
+
+(b)
+
+12
+
+Female thallus
+
+(d)
+
+Male thallus
+
+(e)
+
+Figure  1.6 Diversity  of  sexuality  in  organisms  (a)  Bisexual  animal  (Earthworm);  (b)  Unisexual
+animal  (Cockroach);  (c)  Monoecious  plant  (Chara);  (d)  Dioecious  plant  (Marchantia);
+(e)  Bisexual  flower  (sweet  potato)
+
+REPRODUCTION  IN  ORGANISMS
+
+Table  1.1: Chromosome  Numbers  in  Meiocytes  (diploid,  2n)  and  Gametes
+
+(haploid, n) of Some Organisms. Fill in the Blank Spaces
+
+Name of organism
+
+Chromosome number
+in meiocyte (2n)
+
+Chromosome number
+in gamete (n)
+
+Human  beings
+
+House fly
+
+Rat
+
+Dog
+
+Cat
+
+Fruit fly
+
+Ophioglossum  (a  fern)
+
+Apple
+
+Rice
+
+Maize
+
+Potato
+
+Butterfly
+
+Onion
+
+46
+
+12
+
+—
+
+78
+
+—
+
+8
+
+—
+
+34
+
+—
+
+20
+
+—
+
+380
+
+—
+
+23
+
+—
+
+21
+
+—
+
+19
+
+—
+
+630
+
+—
+
+12
+
+—
+
+24
+
+—
+
+16
+
+gets incorporated into each gamete.  Carefully study Table 1.1 and fill in
+the diploid and haploid chromosome numbers of organisms.  Is there any
+relationship in the number of chromosomes of meiocytes and gametes?
+
+1.2.1.2 Gamete Transfer
+
+After  their  formation,  male  and  female  gametes  must  be  physically
+brought  together  to  facilitate  fusion  (fertilisation).  Have  you  ever
+wondered  how  the  gametes  meet?  In  a  majority  of  organisms,  male
+gamete is motile and the female gamete is stationary. Exceptions are a
+few  fungi  and  algae  in  which  both  types  of  gametes  are  motile
+(Figure1.7a). There is a need for a medium through which the male
+gametes  move.  In  several  simple  plants  like  algae,  bryophytes  and
+pteridophytes, water is the medium through which this gamete transfer
+takes place. A large number of the male gametes, however, fail to reach
+the female gametes. To compensate this loss of male gametes during
+transport, the number of male gametes produced is several thousand
+times the number of female gametes produced.
+
+In seed plants, pollen grains are the carriers of male gametes and
+ovule have the egg. Pollen grains produced in anthers therefore, have to
+
+13
+
+BIOLOGY
+
+be  transferred  to  the  stigma  before  it  can  lead  to
+fertilisation (Figure 1.7b). In bisexual, self-fertilising
+plants, e.g., peas, transfer of pollen grains to the stigma
+is relatively easy as anthers and stigma are located close
+to each other; pollen grains soon after they are shed,
+come  in  contact  with  the  stigma.  But  in  cross
+pollinating  plants  (including  dioecious  plants),  a
+specialised event called pollination facilitates transfer
+of pollen grains to the stigma. Pollen grains germinate
+on the stigma and the pollen tubes carrying the male
+gametes reach the ovule and discharge male gametes
+near the egg.  In dioecious animals, since male and
+female gametes are formed in different individuals, the
+organism must evolve a special mechanism for gamete
+transfer.  Successful transfer and coming together of
+gametes is essential for the most critical event in sexual
+reproduction, the fertilisation.
+
+1.2.2 Fertilisation
+
+The most vital event of sexual reproduction is perhaps
+the fusion of gametes. This process called syngamy
+results in the formation of a diploid zygote. The term
+fertilisation is also often used for this process. The
+terms  syngamy  and  fertilisation  are  frequently  used
+though , interchangeably.
+
+What would happen if syngamy does not occur?
+However, it has to be mentioned here that in some
+organisms like rotifers, honeybees and even some lizards
+and  birds  (turkey),  the  female  gamete  undergoes
+development to form new organisms without fertilisation.
+This phenomenon is called parthenogenesis.
+Where  does  syngamy  occur?    In  most  aquatic
+organisms, such  as a majority of algae and fishes as well as amphibians,
+syngamy occurs in the external medium (water), i.e., outside the body of
+the organism.  This type of gametic fusion is called external fertilisation.
+Organisms exhibiting external fertilisation show great synchrony between
+the sexes and release a large number of gametes into the surrounding
+medium (water) in order to enhance the chances of syngamy.  This happens
+in  the  bony  fishes  and  frogs  where  a  large  number  of  offspring  are
+produced.  A  major  disadvantage  is  that  the  offspring  are  extremely
+vulnerable to predators threatening their survival up to adulthood.
+
+In many terrestrial organisms, belonging to fungi, higher animals such
+as  reptiles  birds,  mammals  and  in  a  majority  of  plants  (bryophytes,
+pteridophytes, gymnosperms and angiosperms), syngamy occurs inside
+
+(a)
+
+(b)
+
+Figure  1.7 (a)  Homogametic  contact  in
+alga;  (b)  Germinating  pollen
+grains on the stigma of  a flower
+
+14
+
+REPRODUCTION  IN  ORGANISMS
+
+the body of the organism, hence the process is called internal fertilisation.
+In all these organisms, egg is formed inside the female body where they
+fuse with the male gamete. In organisms exhibiting internal fertilisation,
+the male gamete is motile and has to reach the egg in order to fuse with it.
+In these even though the number of sperms produced is very large, there
+is a significant reduction in the number of eggs produced. In seed plants,
+however, the non-motile male gametes are carried to female gamete by
+pollen tubes.
+
+1.2.3 Post-fertilisation Events
+
+Events in sexual reproduction after the formation of zygote are called
+post-fertilisation events.
+
+1.2.3.1 The Zygote
+
+Formation of the diploid zygote is universal in all sexually reproducing
+organisms. In organisms with external fertilisation, zygote is formed in
+the external medium (usually water), whereas in those exhibiting internal
+fertilisation, zygote is formed inside the body of the organism.
+
+ Further development of the zygote depends on the type of life cycle
+the organism has and the environment it is exposed to. In organisms
+belonging to fungi and algae, zygote develops a thick wall that is resistant
+to  dessication  and  damage.  It  undergoes  a  period  of  rest  before
+germination.  In organisms with haplontic life cycle (As you have read
+in  Class XI), zygote divides by meiosis to form haploid spores that grow
+into haploid individuals. Consult your Class XI book and find out what
+kind of development takes place in the zygote in organisms with diplontic
+and haplo-diplontic life cycles.
+
+Zygote  is  the  vital  link  that  ensures  continuity  of  species
+between  organisms  of  one  generation  and  the  next.  Every  sexually
+reproducing  organism,  including  human  beings  begin  life  as  a  single
+cell–the zygote.
+
+1.2.3.2  Embryogenesis
+
+Embryogenesis refers to the process of development of embryo from the
+zygote.  During embryogenesis, zygote undergoes cell division (mitosis)
+and cell differentiation. While cell divisions increase the number of cells
+in the developing embryo; cell differentiation helps groups of cells to
+undergo certain modifications to form specialised tissues and organs to
+form an organism. You have studied about the process of cell division
+and differentiation in the previous class.
+
+Animals are categorised into oviparous and viviparous based on
+whether the development of the zygote take place outside the body of the
+female parent or inside, i.e., whether they lay fertilised/unfertilised eggs
+or give birth to young ones.  In oviparous animals like reptiles and birds,
+
+15
+
+BIOLOGY
+
+the fertilised eggs covered by hard calcareous shell are laid in a safe
+place in the environment; after a period of incubation young ones hatch
+out. On the other hand, in viviparous animals (majority of mammals
+including human beings), the zygote develops into a young one inside
+the body of the female organism. After attaining a certain stage of growth,
+the young ones are delivered out of the body of the female organism.
+Because of proper embryonic care and protection, the chances of survival
+of young ones is greater in viviparous organisms.
+
+In  flowering  plants,  the  zygote  is  formed  inside  the  ovule.  After
+fertilisation the sepals, petals and stamens of the flower wither and fall
+off.  Can  you  name  a  plant  in  which  the  sepals  remain  attached? The
+pistil however, remains attached to the plant.  The zygote develops  into
+the embryo and the ovules develop into the seed. The ovary develops into
+the fruit which develops a thick wall called pericarp that is protective in
+function (Figure 1.8). After dispersal, seeds germinate under favourable
+conditions to produce new plants.
+
+Figure  1.8 A  few  kinds  of  fruit  showing  seeds  (S)  and
+
+protective  pericarp(P)
+
+SUMMARY
+
+Reproduction  enables  a  species  to  live  generation  after  generation.
+Reproduction  in  organisms  can  be  broadly  classified  into  asexual  and
+sexual  reproduction.  Asexual  reproduction  does  not  involve  the
+formation or fusion of gametes. It is common in organisms that have a
+relatively  simple  organisation  such  as  the  fungi,  algae  and  some
+invertebrate  animals.  The  offspring  formed  by  asexual  reproduction
+are identical and are referred to as clones. Zoospores, conidia, etc., are
+the most common asexual structures formed in several algae and fungi.
+Budding  and  gemmule  formation  are  the  common  asexual  methods
+seen  in  animals.
+
+Prokaryotes  and  unicellular  organisms  reproduce  asexually  by
+cell division or binary fission of the parent cell. In several aquatic and
+terrestrial  species  of  angiosperms,  structures  such  as  runners,
+
+16
+
+REPRODUCTION  IN  ORGANISMS
+
+rhizomes,  suckers,  tubers,  offsets,  etc.,  are  capable  of  giving  rise  to
+new  offspring.    This  method  of  asexual  reproduction  is  generally
+referred  to  as  vegetative  propagation.
+
+Sexual  reproduction  involves  the  formation  and  fusion  of  gametes.
+It is a complex and slower process as compared to asexual reproduction.
+Most of the higher animals reproduce almost entirely by sexual method.
+Events of sexual reproduction may be categorised into pre-fertilisation,
+fertilisation and post-fertilisation events.  Pre-fertilisation events include
+gametogenesis  and  gamete  transfer  while  post-fertilisation  events
+include  the  formation  of  zygote  and  embryogenesis.
+
+Organisms  may  be  bisexual  or  unisexual.    Sexuality  in  plants  is
+varied,  particularly  in  angiosperms,  due  to  the  production  of  diverse
+types  of  flowers.    Plants  are  defined  as  monoecious  and  dioecious.
+Flowers  may  be  bisexual  or  unisexual  flowers.
+
+Gametes  are  haploid  in  nature  and  usually  a  direct  product  of  meiotic
+
+division except in haploid organisms where gametes are formed by mitosis.
+
+Transfer of male gametes is an essential event in sexual reproduction.
+It is relatively easy in bisexual organisms. In unisexual animals it occurs
+by copulation or simultaneous release. In angiosperms, a special process
+called pollination ensures transfer of pollen grains which carry the pollen
+grains  to  the  stigma.
+
+Syngamy (fertilisation) occurs between the male and female gametes.
+Syngamy may occur either externally, outside the body of organisms or
+internally, inside the body. Syngamy leads to formation of a specialised
+cell  called  zygote.
+
+  The  process  of  development  of  embryo  from  the  zygote  is  called
+embryogenesis.  In animals, the zygote starts developing soon after its
+formation. Animals may be either oviparous or viviparous.  Embryonal
+protection  and  care  are  better  in  viviparous  organisms.
+
+ In flowering plants, after fertilisation, ovary develops into fruit and
+ovules  mature  into  seeds.  Inside  the  mature  seed  is  the  progenitor  of
+the  next  generation,  the  embryo.
+
+EXERCISES
+
+1. Why  is  reproduction  essential  for  organisms?
+
+2. Which is a better mode of reproduction sexual or asexual? Why?
+
+3. Why is the offspring formed by asexual reproduction referred to as clone?
+4. Offspring  formed  due  to  sexual  reproduction  have  better  chances  of
+
+survival.  Why?  Is  this  statement  always  true?
+
+5. How  does  the  progeny    formed  from  asexual  reproduction  differ  from
+
+those  formed  by  sexual  reproduction?
+
+6. Distinguish between asexual and sexual reproduction. Why is vegetative
+
+reproduction  also  considered  as  a  type  of  asexual  reproduction?
+
+17
+
+7. What  is  vegetative  propagation?    Give  two  suitable  examples.
+
+BIOLOGY
+
+8. Define
+
+(a)  Juvenile  phase,
+(b)  Reproductive  phase,
+
+(c)  Senescent  phase.
+
+9. Higher  organisms  have  resorted  to  sexual  reproduction  in  spite  of  its
+
+complexity.  Why?
+
+10. Explain  why  meiosis  and  gametogenesis  are  always  interlinked?
+11.
+
+Identify  each  part  in  a  flowering  plant  and  write  whether  it  is  haploid
+(n) or diploid (2n).
+(a) Ovary
+(b) Anther
+
+———————————
+———————————
+
+———————————
+(c) Egg
+———————————
+(d) Pollen
+(e) Male  gamete ———————————
+
+(f ) Zygote
+
+———————————
+
+12. Define  external  fertilisation.  Mention  its  disadvantages.
+13. Differentiate between a zoospore and a  zygote.
+
+14. Differentiate  between  gametogenesis  from  embryogenesis.
+15. Describe  the  post-fertilisation  changes  in  a  flower.
+16. What  is  a  bisexual  flower?  Collect  five  bisexual  flowers  from  your
+neighbourhood and with the help of your teacher find out their common
+and  scientific  names.
+
+17. Examine  a  few  flowers  of  any  cucurbit  plant  and  try  to  identify  the
+staminate  and  pistillate  flowers.  Do  you  know  any  other  plant  that
+bears  unisexual  flowers?
+
+18. Why  are  offspring  of  oviparous  animals  at  a  greater  risk  as  compared
+
+to  offspring  of  viviparous  animals?
+
+18
+
+
+
+CHAPTER 2 SEXUAL REPRODUCTION IN
+FLOWERING PLANTS
+
+
+Are we not lucky that plants reproduce sexually? The
+myriads of flowers that we enjoy gazing at, the scents and
+the perfumes that we swoon over, the rich colours that
+attract us, are all there as an aid to sexual reproduction.
+Flowers do not exist only for us to be used for our own
+selfishness. All flowering plants show sexual reproduction.
+A look at the diversity of structures of the inflorescences,
+flowers  and  floral  parts,  shows  an  amazing  range  of
+adaptations to ensure formation of the end products of
+sexual reproduction, the fruits and seeds.  In this chapter,
+let  us  understand  the  morphology,  structure  and  the
+processes  of  sexual  reproduction  in  flowering  plants
+(angiosperms).
+
+2.1 FLOWER – A FASCINATING ORGAN OF
+
+ANGIOSPERMS
+
+Human  beings  have  had  an  intimate  relationship  with
+flowers  since  time  immemorial.    Flowers  are  objects  of
+aesthetic, ornamental, social, religious and cultural value
+– they have always been used as symbols for conveying
+important  human  feelings  such  as  love,  affection,
+happiness, grief, mourning, etc.  List at least five flowers
+of  ornamental  value  that  are  commonly  cultivated  at
+
+BIOLOGY
+
+Figure  2.1  A  diagrammatic  representation  of  L.S.  of  a  flower
+
+homes and in gardens. Find out the names of five more flowers that are
+used in social and cultural celebrations in your family.  Have you heard
+of floriculture – what does it refer to?
+
+To a biologist, flowers are morphological and embryological marvels
+and the sites of sexual reproduction.  In class XI, you have read the various
+parts of a flower.  Figure 2.1 will help you recall the parts of a typical
+flower. Can you name the two parts in a flower in which the two most
+important units of sexual reproduction develop?
+
+2.2 PRE-FERTILISATION: STRUCTURES AND EVENTS
+Much before the actual flower is seen on a plant, the decision that the plant
+is going to flower has taken place. Several hormonal and structural changes
+are initiated which lead to the differentiation and further development of
+the floral primordium. Inflorescences are formed which bear the floral buds
+and  then  the  flowers.  In  the  flower  the  male  and  female  reproductive
+structures, the androecium and the gynoecium differentiate and develop.
+You would recollect that the androecium consists of a whorl of stamens
+representing the male reproductive organ and the gynoecium represents
+the female reproductive organ.
+
+20
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+2.2.1 Stamen, Microsporangium and Pollen Grain
+
+Figure 2.2a shows the two parts of a typical stamen – the long and slender
+stalk called the filament, and the terminal generally bilobed structure
+called the anther. The proximal end of the filament
+is attached to the thalamus or the petal of the
+flower.  The  number  and  length  of  stamens  are
+variable in flowers of different species.  If you were
+to collect a stamen each from ten flowers (each from
+different species) and arrange them on a slide, you
+would be able to appreciate the large variation in
+size seen in nature.  Careful observation of each
+stamen under a dissecting microscope and making
+neat diagrams would elucidate the range in shape
+and attachment of anthers in different flowers.
+
+A typical angiosperm anther is bilobed with
+each lobe having two theca, i.e., they are dithecous
+(Figure  2.2).  Often  a  longitudinal  groove  runs
+lengthwise separating the theca. Let us understand
+the various types of tissues and their organisation
+in the transverse section of an anther (Figure 2.3 a).
+The bilobed nature of an anther is very distinct in
+the transverse section of the anther. The anther is
+a four-sided (tetragonal) structure consisting of
+four microsporangia located at the corners, two
+in each lobe.
+
+(b)
+
+(a)
+
+The  microsporangia  develop  further  and
+become pollen sacs.  They extend longitudinally
+all through the length of an anther and are packed
+with pollen grains.
+Structure of microsporangium: In a transverse
+section, a typical microsporangium appears near
+circular  in  outline.    It  is  generally  surrounded  by  four  wall  layers
+(Figure 2.3 b)– the epidermis, endothecium, middle layers and the tapetum.
+The outer three wall layers perform the function of protection and help in
+dehiscence of anther to release the pollen.  The innermost wall layer is the
+tapetum.  It nourishes the developing pollen grains. Cells of the tapetum
+possess dense cytoplasm and generally have more than one nucleus.  Can
+you think of how tapetal cells could become bi-nucleate?
+
+When the anther is young, a group of compactly arranged homogenous
+cells  called  the  sporogenous  tissue  occupies  the  centre  of  each
+microsporangium.
+Microsporogenesis : As the anther develops, the cells of the sporogenous
+tissue undergo meiotic divisions to form microspore tetrads.  What would
+be the ploidy of the cells of the tetrad?
+
+Figure  2.2 (a) A  typical  stamen;
+
+(b) three–dimensional  cut  section
+ of an anther
+
+21
+
+BIOLOGY
+
+(a)
+
+(b)
+
+Figure 2.3 (a)  Transverse  section  of  a  mature  anther;  (b)  Enlarged  view  of  one  microsporangium
+
+showing wall layers; (c) A dehisced anther
+
+(c)
+
+22
+
+As each cell of the sporogenous tissue is capable of giving rise to a
+microspore tetrad. Each one is a potential pollen or microspore mother
+cell (PMC). The process of formation of microspores from a pollen mother
+cell through meiosis is called microsporogenesis. The microspores, as
+they are formed, are arranged in a cluster of four cells–the microspore
+tetrad (Figure 2.3 a).  As the anthers mature and dehydrate, the microspores
+dissociate from each other and develop into pollen grains (Figure 2.3 b).
+Inside each microsporangium several thousands of microspores or pollen
+grains  are  formed  that  are  released  with  the  dehiscence  of  anther
+(Figure 2.3 c).
+Pollen grain: The pollen grains represent the male gametophytes.  If you
+touch the opened anthers of Hibiscus or any other flower you would find
+deposition of yellowish powdery pollen grains on your fingers. Sprinkle
+these grains on a drop of water taken on a glass slide and observe under
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+Figure  2.4  Scanning  electron  micrographs  of  a  few  pollen  grains
+
+(a)
+
+a microscope.  You will really be amazed at the variety of architecture –
+sizes, shapes, colours, designs – seen on the pollen grains
+from different species (Figure 2.4).
+
+Pollen  grains  are  generally  spherical  measuring  about
+25-50 micrometers in diameter. It has a prominent two-layered
+wall.  The hard outer layer called the exine  is made up of
+sporopollenin which is one of the most resistant organic material
+known. It can withstand high temperatures and strong acids
+and alkali. No enzyme that degrades sporopollenin is so far
+known. Pollen grain exine has prominent apertures called germ
+pores where sporopollenin is absent.  Pollen grains are well-
+preserved as fossils because of the presence of sporopollenin.
+The exine exhibits a fascinating array of patterns and designs.
+Why  do  you  think  the  exine  should  be  hard?    What  is  the
+function of germ pore?  The inner wall of the pollen grain is
+called the intine.  It is a thin and continuous layer made up of
+cellulose  and  pectin.    The  cytoplasm  of  pollen  grain  is
+surrounded by a plasma membrane.  When the pollen grain is
+mature it contains two cells, the vegetative cell and generative
+cell (Figure 2.5b).  The vegetative cell is bigger, has abundant
+food  reserve  and  a  large  irregularly  shaped  nucleus.  The
+generative cell is small and floats in the cytoplasm of the
+vegetative cell.  It is spindle shaped with dense cytoplasm and
+a nucleus.  In over 60 per cent of angiosperms, pollen grains
+are shed at this 2-celled stage. In the remaining species, the
+generative cell divides mitotically to give rise to the two male
+gametes before pollen grains are shed (3-celled stage).
+
+(b)
+
+Figure  2.5  (a)  Enlarged  view  of
+a  pollen  grain  tetrad;  (b)  stages
+of  a  microspore  maturing  into  a
+pollen  grain
+
+23
+
+Pollen grains of many species cause severe allergies and bronchial
+afflictions  in  some  people  often  leading  to  chronic  respiratory
+disorders – asthma, bronchitis, etc. It may be mentioned that Parthenium
+or carrot grass that came into India as a contaminant with imported wheat,
+has become ubiquitous in occurrence and causes pollen allergy.
+
+BIOLOGY
+
+Pollen grains are rich in nutrients. It has become a fashion in recent
+years to use pollen tablets as food supplements. In western countries, a
+large number of  pollen products in the form of tablets and syrups are
+available in the market. Pollen consumption has been claimed to increase
+the performance of athletes and race horses (Figure 2.6).
+
+Figure  2.6  Pollen  products
+
+When once they are shed, pollen grains have to land on the stigma
+before they lose viability if they have to bring about fertilisation. How long
+do you think the pollen grains retain viability? The period for which pollen
+grains remain viable is highly variable and to some extent depends on the
+prevailing temperature and humidity. In some cereals such as rice and
+wheat, pollen grains lose viability within 30 minutes of their release, and
+in  some  members  of  Rosaceae,  Leguminoseae  and  Solanaceae,  they
+maintain viability for months. You may have heard of storing semen/
+sperms of many animals including humans for artificial insemination. It
+is possible to store pollen grains of a large number of species for years in
+liquid nitrogen (-1960C). Such stored pollen can be used as pollen banks,
+similar to seed banks, in crop breeding programmes.
+
+2.2.2 The Pistil, Megasporangium (ovule) and Embryo sac
+
+The gynoecium represents the female reproductive part of the flower.  The
+gynoecium may consist of a single pistil (monocarpellary) or may have
+more than one pistil (multicarpellary).  When there are more than one,
+the pistils may be fused together (syncarpous) (Figure 2.7b) or may be
+free (apocarpous) (Figure 2.7c). Each pistil has three parts (Figure 2.7a),
+the stigma, style and ovary. The stigma serves as a landing platform
+for pollen grains.  The style is the elongated slender part beneath the
+stigma.  The basal bulged part of the pistil is the ovary.  Inside the ovary
+is the ovarian cavity ( ( ( ( (locule).  The placenta is located inside the ovarian
+cavity.  Recall the definition and types of placentation that you studied in
+
+24
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+Stigma
+
+Style
+
+Ovary
+Thalamus
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure  2.7 (a) A dissected flower of Hibiscus showing pistil (other floral parts have been removed);
+(b)  Multicarpellary,  syncarpous  pistil  of  Papaver ;  (c)  A  multicarpellary,  apocarpous
+gynoecium  of Michelia;  (d)  A  diagrammatic  view  of  a  typical  anatropous  ovule
+
+Class XI.  Arising from the placenta are the megasporangia, commonly
+called ovules.  The number of ovules in an ovary may be one (wheat,
+paddy, mango) to many (papaya, water melon, orchids).
+The Megasporangium (Ovule) : Let us familiarise ourselves with the
+structure of a typical angiosperm ovule (Figure 2.7d). The ovule is a small
+structure attached to the placenta by means of a stalk called funicle.
+The body of the ovule fuses with funicle in the region called hilum. Thus,
+hilum represents the junction between ovule and funicle. Each ovule has
+one or two protective envelopes called integuments. Integuments encircle
+the ovule except at the tip where a small opening called the micropyle is
+organised. Opposite the micropylar end, is the chalaza, representing the
+basal part of the ovule.
+
+Enclosed within the integuments is a mass of cells called the nucellus.
+Cells of the nucellus have abundant reserve food materials.  Located in the
+nucellus is the embryo sac or female gametophyte. An ovule generally has
+a single embryo sac formed from a megaspore through reduction division.
+Megasporogenesis : The process of formation of megaspores from the
+megaspore mother cell is called megasporogenesis. Ovules generally
+differentiate a single megaspore mother cell (MMC) in the micropylar region
+
+25
+
+BIOLOGY
+
+(a)
+
+(b)
+
+(c)
+
+Figure 2.8 (a)  Parts  of  the  ovule  showing  a  large  megaspore  mother  cell,  a  dyad  and  a  tetrad  of
+megaspores; (b) 1,2, 4, and 8-nucleate stages of embryo sac and a mature embryo sac;
+(c)  A  diagrammatic  representation  of  the  mature  embryo  sac.
+
+26
+
+of  the  nucellus.  It  is  a  large  cell  containing  dense  cytoplasm  and  a
+prominent nucleus. The MMC undergoes meiotic division. What is the
+importance  of  the  MMC  undergoing  meiosis?  Meiosis  results  in  the
+production of four megaspores (Figure 2.8a).
+Female  gametophyte  :  In  a  majority  of  flowering  plants,  one  of  the
+megaspores  is  functional  while  the  other  three  degenerate.  Only  the
+functional megaspore develops into the female gametophyte (embryo
+sac). This method of embryo sac formation from a single megaspore is termed
+monosporic development. What will be the ploidy of the cells of the nucellus,
+MMC, the functional megaspore and female gametophyte?
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+Let  us  study  formation  of  the  embryo  sac  in  a  little  more  detail.
+(Figure 2.8b). The nucleus of the functional megaspore divides mitotically
+to  form  two  nuclei  which  move  to  the  opposite  poles,  forming  the
+2-nucleate embryo sac. Two more sequential mitotic nuclear divisions
+result in the formation of the 4-nucleate and later the 8-nucleate stages
+of the embryo sac. It is of interest to note that these mitotic divisions are
+strictly free nuclear, that is, nuclear divisions are not followed immediately
+by cell wall formation. After the 8-nucleate stage, cell walls are laid down
+leading  to  the  organisation  of  the  typical  female  gametophyte
+or embryo sac. Observe the distribution of cells inside the embryo sac
+(Figure 2.8b, c).  Six of the eight nuclei are surrounded by cell walls and
+organised into cells; the remaining two nuclei, called polar nuclei are
+situated below the egg apparatus in the large central cell.
+
+There is a characteristic distribution of the cells within the embryo
+sac. Three cells are grouped together at the micropylar end and constitute
+the egg apparatus.  The egg apparatus, in turn, consists of two synergids
+and one egg cell. The synergids have special cellular thickenings at the
+micropylar tip called filiform apparatus, which play an important role in
+guiding the pollen tubes into the synergid. Three cells are at the chalazal
+end and are called the antipodals. The large central cell, as mentioned
+earlier, has two polar nuclei. Thus, a typical angiosperm embryo sac, at
+maturity, though 8-nucleate is 7-celled.
+
+2.2.3 Pollination
+
+In the preceding sections you have learnt that the male and female gametes
+in flowering plants are produced in the pollen grain and embryo sac,
+respectively. As both types of gametes are non-motile, they have to be
+brought together for fertilisation to occur. How is this achieved?
+
+Pollination is the mechanism to achieve this objective. Transfer
+of pollen grains (shed from the anther) to the stigma of a pistil is
+termed pollination. Flowering plants have evolved an amazing array
+of  adaptations  to  achieve  pollination. They  make  use  of    external
+agents  to  achieve  pollination.  Can  you  list  the  possible  external
+agents?
+Kinds of Pollination : Depending on the source of pollen, pollination
+can be divided into three types.
+(i)
+
+Autogamy : In this type, pollination is achieved within the same
+flower. Transfer of pollen grains from the anther to the stigma of the
+same  flower  (Figure  2.9a).  In  a  normal  flower  which  opens  and
+exposes the anthers and the stigma, complete autogamy is rather
+rare. Autogamy in such flowers requires synchrony in pollen release
+and stigma receptivity and also, the anthers and the stigma should
+
+27
+
+BIOLOGY
+
+two 
+
+types  of 
+
+lie close to each other so that self-pollination
+can  occur.  Some  plants  such  as  Viola
+(common  pansy),  Oxalis,  and  Commelina
+produce 
+flowers  –
+chasmogamous flowers which are similar to
+flowers of other species with exposed anthers
+and stigma, and cleistogamous flowers which
+do not open at all (Figure 2.9c). In such flowers,
+the anthers and stigma lie close to each other.
+When  anthers  dehisce  in  the  flower  buds,
+pollen grains come in contact with the stigma
+to  effect  pollination.  Thus,  cleistogamous
+flowers are invariably autogamous as there is
+no  chance  of  cross-pollen  landing  on  the
+stigma.  Cleistogamous  flowers  produce
+assured  seed-set  even  in  the  absence  of
+pollinators. Do you think that cleistogamy is
+advantageous  or  disadvantageous  to  the
+plant? Why?
+
+(ii) Geitonogamy – Transfer of pollen grains from
+the anther to the stigma of another flower of
+the  same  plant.  Although  geitonogamy  is
+functionally  cross-pollination  involving  a
+pollinating agent, genetically it is similar to
+autogamy since the pollen grains come from
+the same plant.
+
+(iii) Xenogamy – Transfer of pollen grains from
+anther to the stigma of a different plant (Figure
+2.9b). This is the only type of pollination which
+during pollination brings genetically different
+types of pollen grains to the stigma.
+
+Agents of Pollination : Plants use two abiotic (wind
+and water) and one biotic (animals) agents to achieve
+pollination. Majority of plants use biotic agents for
+pollination. Only a small proportion of plants use
+abiotic agents. Pollen grains coming in contact with
+the stigma is a chance factor in both wind and water
+pollination. To compensate for this uncertainties and
+associated loss of pollen grains, the flowers produce
+enormous amount of pollen when compared to the
+number of ovules available for pollination.
+
+(a)
+
+(b)
+
+28
+
+(c)
+
+Figure  2.9 (a)  Self-pollinated  flowers;
+
+(b) Cross  pollinated  flowers;
+(c) Cleistogamous  flowers
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+Pollination  by  wind  is  more  common
+amongst abiotic pollinations. Wind pollination
+also requires that the pollen grains are light
+and  non-sticky  so  that  they  can  be
+transported  in  wind  currents.  They  often
+possess  well-exposed  stamens  (so  that  the
+pollens are easily dispersed into wind currents,
+Figure 2.10) and large often-feathery stigma
+to easily trap air-borne pollen grains. Wind-
+pollinated flowers often have a single ovule in
+each ovary and numerous flowers packed into
+an inflorescence; a familiar example is the corn
+cob – the tassels you see are nothing but the
+stigma and style which wave in the wind to
+trap pollen grains.  Wind-pollination is quite
+common in grasses.
+
+Pollination  by  water  is  quite  rare  in
+flowering plants and is limited to about 30
+genera, mostly monocotyledons. As against
+this, you would recall that water is a regular
+mode of transport for the male gametes among
+the  lower  plant  groups  such  as  algae,
+bryophytes and pteridophytes. It is believed,
+particularly  for  some  bryophytes  and
+pteridophytes, that their distribution is limited
+because of the need for water for the transport
+of  male  gametes  and  fertilisation.  Some
+examples of water pollinated plants are  Vallisneria and Hydrilla which
+grow  in  fresh water and several marine sea-grasses such as Zostera. Not
+all aquatic plants use water for pollination. In a majority of aquatic plants
+such as water hyacinth and water lily, the flowers emerge above the level
+of water and are pollinated by insects or wind as in most of the land
+plants. In Vallisneria, the female flower reach the surface of water by the
+long stalk and the male flowers or pollen grains are released on to the
+surface of water. They are carried passively by water currents (Figure
+2.11a);  some of them eventually reach the female flowers and the stigma.
+In another group of water pollinated plants such as seagrasses, female
+flowers remain submerged in water and the pollen grains are released
+inside the water. Pollen grains in many such species are long, ribbon like
+and they are carried passively inside the water; some of them reach the
+stigma and achieve pollination. In most of the water-pollinated species,
+pollen grains are protected from wetting by a mucilaginous covering.
+
+Both wind and water pollinated flowers are not very colourful and do
+
+not produce nectar. What would be the reason for this?
+
+Figure  2.10 A  wind-pollinated  plant  showing
+compact  inflorecence  and  well-
+exposed  stamens
+
+29
+
+BIOLOGY
+
+Majority of flowering plants use
+a  range  of  animals  as  pollinating
+agents.  Bees,  butterflies,  flies,
+beetles, wasps, ants, moths, birds
+(sunbirds and humming birds)  and
+bats  are  the  common  pollinating
+agents. (Figure 2.11b). Among the
+animals, insects, particularly bees
+are the dominant biotic pollinating
+agents.  Even larger animals such
+as some primates (lemurs), arboreal
+(tree-dwelling)  rodents,  or  even
+reptiles  (gecko  lizard  and  garden
+lizard) have also been reported as
+pollinators in some species.
+
+Often  flowers  of  animal-
+pollinated  plants  are  specifically
+adapted for a particular species of
+animal.
+
+(a)
+
+Majority  of  insect-pollinated
+flowers are large, colourful, fragrant
+and rich in nectar. When the flowers
+are small, a number of flowers are
+clustered into an inflorescence to
+make them conspicuous. Animals
+are attracted to flowers by colour
+and/or  fragrance.  The  flowers
+pollinated  by  flies  and  beetles
+secrete foul odours to attract these
+animals. To sustain animal visits,
+the flowers have to provide rewards
+to the animals. Nectar and pollen
+grains are the usual floral rewards.
+For harvesting the reward(s) from
+the flower the animal visitor comes
+in contact with the anthers and the
+stigma. The body of the animal gets
+a coating of pollen grains, which are
+generally sticky in animal pollinated flowers. When the animal carrying
+pollen on its body comes in contact with the stigma, it brings about
+pollination.
+
+(b)
+
+In some species floral rewards are in providing safe places to lay eggs;
+an example is that of the tallest flower of Amorphophallus (the flower
+itself is about 6 feet in height). A similar relationship exists between a
+species of moth and the plant Yucca where both species – moth and the
+
+Figure  2.1 (a)  Pollination  by  water  in  Vallisneria;
+
+(b)  Insect  pollination
+
+30
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+plant – cannot complete their life cycles without each other. The moth
+deposits its eggs in the locule of the ovary and the flower, in turn, gets
+pollinated by the moth.  The larvae of the moth come out of the eggs as
+the seeds start developing.
+
+Why don’t you observe some flowers of the following plants (or any
+others  available  to  you):  Cucumber,  Mango,  Peepal,  Coriander,  Papaya,
+Onion, Lobia, Cotton, Tobacco, Rose, Lemon, Eucalyptus, Banana? Try to
+find  out  which  animals  visit  them  and  whether  they  could  be
+pollinators.You’ll have to patiently observe the flowers over a few days
+and at different times of the day.  You could also try to see whether there
+is  any  correlation  in  the  characteristics  of  a  flower  to  the  animal  that
+visits it. Carefully observe if any of the visitors come in contact with the
+anthers and the stigma as only such visitors can bring about pollination.
+Many insects may consume pollen or the nectar without bringing about
+pollination. Such floral visitors are referred to as pollen/nectar robbers.
+You may or may not be able to identify the pollinators, but you will surely
+enjoy your efforts!
+
+Outbreeding Devices : Majority of flowering plants produce hermaphrodite
+flowers and pollen grains are likely to come in contact with the stigma of
+the same flower. Continued self-pollination result in inbreeding depression.
+Flowering  plants  have  developed  many  devices  to  discourage  self-
+pollination and to encourage cross-pollination. In some species, pollen
+release and stigma receptivity are not synchronised. Either the pollen is
+released before the stigma becomes receptive or stigma becomes receptive
+much before the release of pollen. In some other species, the anther and
+stigma are placed at different positions so that the pollen cannot come in
+contact with the stigma of the same flower. Both these devices prevent
+autogamy. The third device to prevent inbreeding is self-incompatibility.
+This is a genetic mechanism and prevents self-pollen (from the same flower
+or other flowers of the same plant) from fertilising the ovules by inhibiting
+pollen germination or pollen tube growth in the pistil.  Another device to
+prevent self-pollination is the production of unisexual flowers. If both male
+and female flowers are present on the same plant such as castor and maize
+(monoecious), it prevents autogamy but not geitonogamy. In several species
+such as papaya, male and female flowers are present on different plants,
+that is each plant is either male or female (dioecy). This condition prevents
+both autogamy and geitonogamy.
+
+Pollen-pistil Interaction : Pollination does not guarantee the transfer
+of the right type of pollen (compatible pollen of the same species as the
+stigma). Often, pollen of the wrong type, either from other species or from
+the same plant (if it is self-incompatible), also land on the stigma. The
+pistil has the ability to recognise the pollen, whether it is of the right type
+(compatible) or of the wrong type (incompatible). If it is of the right type,
+the pistil accepts the pollen and promotes post-pollination events that
+
+31
+
+BIOLOGY
+
+(a)
+
+(b)
+
+(d)
+
+(c)
+
+(e)
+
+Figure  2.12
+
+(a)  Pollen  grains  germinating  on  the  stigma;  (b)  Pollen  tubes  growing  through  the
+style;  (c)  L.S.  of  pistil  showing  path  of  pollen  tube  growth;  (d)  enlarged  view  of  an
+egg  apparatus  showing  entry  of  pollen  tube  into  a  synergid;  (e)  Discharge  of  male
+gametes  into  a  synergid  and  the  movements  of  the  sperms,  one  into  the  egg  and
+the  other  into  the  central  cell
+
+32
+
+leads to fertilisation. If the pollen is of the wrong type, the pistil rejects the
+pollen by preventing pollen germination on the stigma or the pollen tube
+growth in the style. The ability of the pistil to recognise the pollen followed
+by  its  acceptance  or  rejection  is  the  result  of  a  continuous  dialogue
+between pollen grain and the pistil. This dialogue is mediated by chemical
+components of the pollen interacting with those of the pistil. It is only in
+recent years that botanists have been able to identify some of the pollen
+and pistil components and the interactions leading to the recognition,
+followed by acceptance or rejection.
+
+As mentioned earlier, following compatible pollination, the pollen grain
+germinates on the stigma to produce a pollen tube through one of the
+germ pores (Figure 2.12a). The contents of the pollen grain move into the
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+pollen tube. Pollen tube grows through the tissues of the stigma and
+style and reaches the ovary (Figure 2.12b, c). You would recall that in
+some plants, pollen grains are shed at two-celled condition (a vegetative
+cell and a generate cell).  In such plants, the generative cell divides and
+forms the two male gametes during the growth of pollen tube in the stigma.
+In plants which shed pollen in the three-celled condition, pollen tubes
+carry the two male gametes from the beginning. Pollen tube, after reaching
+the ovary, enters the ovule through the micropyle and then enters one of
+the synergids through the filiform apparatus (Figure 2.12d, e). Many recent
+studies have shown that filiform apparatus present at the micropylar part
+of the synergids guides the entry of pollen tube.  All these events–from
+pollen deposition on the stigma until pollen tubes enter the ovule–are
+together referred to as pollen-pistil interaction. As pointed out earlier,
+pollen-pistil interaction is a dynamic process involving pollen recognition
+followed by promotion or inhibition of the pollen. The knowledge gained
+in this area would help the plant breeder in manipulating pollen-pistil
+interaction, even in incompatible pollinations, to get desired hybrids.
+
+You can easily study pollen germination by dusting some pollen from
+flowers such as  pea, chickpea, Crotalaria, balsam and Vinca on a glass slide
+containing a drop of sugar solution (about 10 per cent). After about 15–30
+minutes, observe the slide under the low power lens of the microscope.  You
+are likely to see pollen tubes coming out of the pollen grains.
+
+As you shall learn in the chapter on plant breeding (Chapter 9), a
+breeder is interested in crossing different species and often genera to
+combine desirable characters to produce commercially ‘superior’ varieties.
+Artificial  hybridisation  is  one  of  the  major  approaches  of  crop
+improvement programme. In such crossing experiments it is important
+to make sure that only the desired pollen grains are used for pollination
+and the stigma is protected from contamination (from unwanted pollen).
+This is achieved by emasculation and bagging techniques.
+
+If the female parent bears bisexual flowers, removal of anthers from
+the  flower  bud  before  the  anther  dehisces  using  a  pair  of  forceps  is
+necessary. This step is referred to as emasculation. Emasculated flowers
+have to be covered with a bag of suitable size, generally made up of butter
+paper, to prevent contamination of its stigma with unwanted pollen. This
+process  is  called  bagging.  When  the  stigma  of  bagged  flower  attains
+receptivity, mature pollen grains collected from anthers of the male parent
+are dusted on the stigma, and the flowers are rebagged, and the fruits
+allowed to develop.
+
+If the female parent produces unisexual flowers, there is no need for
+emasculation. The female flower buds are bagged before the flowers open.
+When the stigma becomes receptive, pollination is carried out using the
+desired pollen and the flower rebagged.
+
+33
+
+BIOLOGY
+
+2.3 DOUBLE FERTILISATION
+
+After entering one of the synergids, the pollen tube releases the two male
+gametes into the cytoplasm of the synergid.  One of the male gametes
+moves towards the egg cell and fuses with its nucleus thus completing the
+syngamy.  This results in the formation of a diploid cell, the zygote. The
+other male gamete moves towards the two polar nuclei located in the central
+cell and fuses with them to produce a triploid primary endosperm nucleus
+(PEN) (Figure 2.13a).  As this involves the fusion of three haploid nuclei it
+is termed triple fusion. Since two types of fusions, syngamy and triple
+fusion take place in an embryo sac the phenomenon is termed double
+fertilisation, an event unique to flowering plants. The central cell after
+triple fusion becomes the primary endosperm cell (PEC) and develops
+into the endosperm while the zygote develops into an embryo.
+
+(a)
+
+(b)
+
+Figure  2.13 (a)  Fertilised  embryo  sac  showing  zygote  and  Primary  Endosperm  Nucleus  (PEN);
+(b) Stages in embryo development in a dicot [shown in reduced size as compared to (a)]
+
+34
+
+2.4  POST-FERTILISATION : STRUCTURES AND EVENTS
+Following  double  fertilisation,  events  of    endosperm  and  embryo
+development, maturation of ovule(s) into seed(s) and ovary into fruit, are
+collectively termed post-fertilisation events.
+
+2.4.1 Endosperm
+
+Endosperm development precedes embryo development. Why? The
+primary  endosperm  cell  divides  repeatedly  and  forms  a  triploid
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+endosperm tissue. The cells of this tissue are filled with
+reserve food materials and are used for the nutrition of
+the  developing  embryo.  In  the  most  common  type  of
+endosperm development, the PEN undergoes successive
+nuclear divisions to give rise to free nuclei. This stage of
+endosperm development is called free-nuclear endosperm.
+Subsequently  cell  wall  formation  occurs  and  the
+endosperm becomes cellular. The number of free nuclei
+formed before cellularisation varies greatly. The coconut
+water from tender coconut that you are familiar with, is
+nothing  but  free-nuclear  endosperm  (made  up  of
+thousands of nuclei) and the surrounding white kernel is
+the cellular endosperm.
+
+Endosperm may either be completely consumed by the
+developing embryo (e.g., pea, groundnut, beans) before seed
+maturation or it may persist in the mature seed (e.g. castor
+and coconut) and be used up during seed germination. Split
+open some seeds of castor, peas, beans, groundnut, fruit of
+coconut and look for the endosperm in each case.  Find out
+whether the endosperm is persistent in cereals – wheat, rice
+and maize.
+
+2.4.2 Embryo
+
+Embryo develops at the micropylar end of the embryo sac where
+the zygote is situated. Most zygotes divide only after certain
+amount  of  endosperm  is  formed.  This  is  an  adaptation  to
+provide assured nutrition to the developing embryo. Though
+the seeds differ greatly, the early stages of embryo development
+(embryogeny)  are  similar  in  both  monocotyledons  and
+dicotyledons. Figure 2.13 depicts the stages of embryogeny in
+a  dicotyledonous  embryo.    The  zygote  gives  rise  to  the
+proembryo and subsequently to the globular, heart-shaped
+and mature embryo.
+
+A typical dicotyledonous embryo (Figure 2.14a), consists
+of an embryonal axis and two cotyledons. The portion of
+embryonal axis above the level of cotyledons is the epicotyl,
+which terminates with the plumule or stem tip. The cylindrical
+portion  below  the  level  of  cotyledons  is  hypocotyl  that
+terminates at its lower end in the radical or root tip.  The root
+tip is covered with a root cap.
+
+Embryos of monocotyledons (Figure 2.14 b) possess only
+one  cotyledon.  In  the  grass  family  the  cotyledon  is  called
+scutellum  that  is  situated  towards  one  side  (lateral)  of  the
+embryonal axis. At its lower end, the embryonal axis has the
+
+(a)
+
+(b)
+
+Figure  2.14 (a)  A  typical  dicot
+embryo; (b)  L.S. of an
+embryo of grass
+
+35
+
+BIOLOGY
+
+radical  and  root  cap  enclosed  in  an  undifferentiated  sheath  called
+coleorrhiza.  The  portion  of  the  embryonal  axis  above  the  level  of
+attachment of scutellum is the epicotyl. Epicotyl has a shoot apex and a
+few leaf primordia enclosed in a hollow foliar structure, the coleoptile.
+Soak a few seeds in water (say of wheat, maize, peas, chickpeas,
+ground  nut)  overnight.    Then  split  the  seeds  and  observe  the  various
+parts of the embryo and the seed.
+
+2.4.3 Seed
+
+In angiosperms, the seed is the final product of sexual reproduction.  It is
+often described as a fertilised ovule. Seeds are formed inside fruits. A
+seed typically consists of seed coat(s), cotyledon(s) and an embryo axis.
+The  cotyledons  (Figure  2.15a)  of  the  embryo  are  simple  structures,
+generally thick and swollen due to storage of food reserves (as in legumes).
+Mature seeds may be non-albuminous or albuminous. Non-albuminous
+seeds have no residual endosperm as it is completely consumed during
+embryo development (e.g., pea, groundnut).  Albuminous seeds retain a
+part  of  endosperm  as  it  is  not  completely  used  up  during  embryo
+development (e.g., wheat, maize, barley, castor, sunflower). Occasionally,
+in some seeds such as black pepper and beet, remnants of nucellus are
+also persistent.  This residual, persistent nucellus is the perisperm.
+
+Integuments  of  ovules  harden  as  tough  protective  seed  coats
+(Figure 2.15a). The micropyle remains as a small pore in the seed coat.
+This facilitates entry of oxygen and water into the seed during germination.
+As the seed matures, its water content is reduced and seeds become
+relatively dry (10-15 per cent moisture by mass). The general metabolic
+activity of the embryo slows down.  The embryo may  enter a state of
+inactivity  called  dormancy,  or  if  favourable  conditions  are  available
+(adequate moisture, oxygen and suitable temperature), they germinate.
+As ovules mature into seeds, the ovary develops into a fruit, i.e., the
+transformation  of  ovules  into  seeds  and  ovary  into  fruit  proceeds
+simultaneously.  The wall of the ovary develops into the wall of fruit called
+pericarp.  The fruits may be fleshy as in guava, orange, mango, etc., or
+may be dry, as in groundnut, and  mustard, etc.  Many fruits have evolved
+mechanisms for dispersal of seeds.  Recall the classification of fruits and
+their dispersal mechanisms that you have studied in an earlier class. Is
+there any relationship between number of ovules in an ovary and the
+number of seeds present in a fruit?
+
+In most plants, by the time the fruit develops from the ovary, other
+floral parts degenerate and fall off. However, in a few species such as apple,
+strawberry, cashew, etc., the thalamus  also contributes to fruit formation.
+Such fruits are called false fruits (Figure 2.15b).  Most fruits however
+develop only from the ovary and are called true fruits. Although in most
+of the species, fruits are the results of fertilisation, there are a few species
+
+36
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+(a)
+
+(b)
+
+Figure  2.15  (a)  Structure  of  some  seeds.  (b)  False  fruits  of  apple  and  strawberry
+
+in  which  fruits  develop  without  fertilisation.  Such  fruits  are  called
+parthenocarpic fruits. Banana is one such example. Parthenocarpy can
+be induced through the application of growth hormones and such fruits
+are seedless.
+
+Seeds  offer  several  advantages  to  angiosperms.  Firstly,  since
+reproductive  processes  such  as  pollination  and  fertilisation  are
+independent of water, seed formation is more dependable. Also seeds have
+better adaptive strategies for dispersal to new habitats and help the species
+
+37
+
+BIOLOGY
+
+to colonise in other areas. As they have  sufficient food reserves, young
+seedlings are nourished until they are capable of photosynthesis on their
+own. The hard seed coat provides protection to the young embryo. Being
+products of sexual reproduction, they generate new genetic combinations
+leading to variations.
+
+Seed is the basis of our agriculture. Dehydration and dormancy of
+mature seeds are crucial for storage of seeds which can be used as food
+through out the year and also to raise crop in the next season. Can you
+imagine agriculture in the absence of seeds, or in the presence of seeds
+which germinate straight away soon after formation and cannot be stored?
+How long do the seeds remain alive after they are dispersed? This
+period again varies greatly. In a few species the seeds lose viability within
+a few months. Seeds of a large number of species live for several years.
+Some seeds can remain alive for hundreds of years. There are several
+records of very old yet viable seeds. The oldest is that of a lupine, Lupinus
+arcticus excavated from Arctic Tundra. The seed germinated and flowered
+after an estimated record of 10,000 years of dormancy. A recent record of
+2000  years  old  viable  seed  is  of  the  date  palm,  Phoenix  dactylifera
+discovered during the archeological excavation at King Herod’s palace
+near the Dead Sea.
+
+After completing a brief account of sexual reproduction of flowering
+plants  it  would  be  worth  attempting  to  comprehend  the  enormous
+reproductive capacity of some flowering plants by asking  the following
+questions:  How many eggs are present in an embryo sac? How many
+embryo sacs are present in an ovule? How many ovules are present in
+an ovary? How many ovaries are present in a typical flower? How many
+flowers are present on a tree? And so on...
+
+Can  you  think  of  some  plants  in  which  fruits  contain  very  large
+number  of  seeds.  Orchid  fruits  are  one  such  category  and  each  fruit
+contain  thousands  of  tiny  seeds.  Similar  is  the  case  in  fruits  of  some
+parasitic species such as Orobanche and Striga.  Have you seen a tiny
+seed of Ficus? How large is the tree of Ficus developed from that tiny
+seed. How many billions of seeds does each Ficus tree produce? Can
+you  imagine  any  other  example  in  which  such  a  tiny  structure  can
+produce such a large biomass over the years?
+
+2.5  APOMIXIS AND POLYEMBRYONY
+Although seeds, in general are the products of fertilisation, a few flowering
+plants such as some species of Asteraceae and grasses, have evolved a
+special mechanism, to produce seeds without fertilisation, called apomixis.
+What is fruit production without fertilisation called? Thus, apomixis is a
+form of asexual reproduction that mimics sexual reproduction. There are
+several ways of development of apomictic seeds. In some species, the
+diploid egg cell is formed without reduction division and develops into
+the embryo without fertilisation. More often, as in many Citrus and Mango
+
+38
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+varieties some of the nucellar cells surrounding the embryo sac start
+dividing, protrude into the embryo sac and develop into the embryos. In
+such species each ovule contains many embryos. Occurrence of more
+than one embryo in a seed is referred as polyembryony. Take out some
+seeds  of  orange  and  squeeze  them.  Observe  the  many  embryos  of
+different sizes and shapes from each seed. Count the number of embryos
+in each seed. What would be the genetic nature of apomictic embryos?
+Can they be called clones?
+
+Hybrid varieties of several of our food and vegetable crops are being
+extensively cultivated. Cultivation of hybrids has tremendously increased
+productivity. One of the problems of hybrids is that hybrid seeds have
+to be produced every year. If the seeds collected from hybrids are sown,
+the plants in the progeny will segregate and do not maintain hybrid
+characters. Production of hybrid seeds is costly and hence the cost of
+hybrid seeds become too expensive for the farmers. If  these hybrids are
+made into apomicts, there is no segregation of characters in the hybrid
+progeny. Then the farmers can keep on using the hybrid seeds to raise
+new crop year after year and he does not have to buy hybrid seeds every
+year. Because of the importance of apomixis in hybrid seed industry,
+active research is going on in many laboratories around the world to
+understand the genetics of apomixis and to transfer apomictic genes
+into hybrid varieties.
+
+SUMMARY
+
+Flowers are the seat of sexual reproduction in angiosperms.  In the flower,
+androecium  consisting  of  stamens  represents  the  male  reproductive
+organs  and  gynoecium  consisting  of  pistils  represents  the  female
+reproductive  organs.
+
+A  typical  anther  is  bilobed,  dithecous  and  tetrasporangiate.    Pollen
+grains  develop  inside  the  microsporangia.    Four  wall  layers,  the
+epidermis,  endothecium,  middle  layers  and  the  tapetum  surround  the
+microsporangium. Cells of the  sporogenous tissue lying in the centre of
+the  microsporangium,  undergo  meiosis  (microsporogenesis)  to  form
+tetrads of microspores.  Individual microspores mature into pollen grains.
+Pollen  grains  represents  the  male  gametophytic  generation.    The
+pollen  grains  have  a  two-layered  wall,  the  outer  exine  and  inner  intine.
+The exine is made up of sporopollenin and has germ pores.  Pollen grains
+may  have  two-celled  (a  vegetative  cell  and  generative  cell)  or  three  cells
+(a vegetative cell and two male gametes) at the time of shedding.
+
+The pistil has three parts – the stigma, style and the ovary.  Ovules
+are present in the ovary. The ovules have a stalk called funicle, protective
+integument(s),  and  an  opening  called  micropyle.  The  central  tissue  is
+the  nucellus  in  which  the  archesporium  differentiates.  A  cell  of  the
+archesporium, the megaspore mother cell divides meiotically and one of
+the  megaspores  forms  the  embryo  sac  (the  female  gametophyte).  The
+mature embryo sac is 7-celled and 8-nucleate.  At the micropylar end is
+
+39
+
+BIOLOGY
+
+the  egg  apparatus  consisting  of  two  synergids  and  an  egg  cell.    At  the
+chalazal end are three antipodals.  At the centre is a large central cell
+with  two  polar  nuclei.
+
+Pollination  is  the  mechanism  to  transfer  pollen  grains  from  the
+anther  to  the  stigma.    Pollinating  agents  are  either  abiotic  (wind  and
+water)  or  biotic  (animals).
+
+Pollen-pistil interaction involves all events from the landing of pollen
+grains on the stigma until the pollen tube enters the embryo sac (when
+the  pollen  is  compatible)  or  pollen  inhibition  (when  the  pollen  is
+incompatible).  Following compatible pollination, pollen grain germinates
+on  the  stigma  and  the  resulting    pollen  tube  grow  through  the  style,
+enter the ovules and finally discharges two male gametes in one of the
+synergids.  Angiosperms exhibit double fertilisation because two fusion
+events  occur  in  each  embryo  sac,  namely  syngamy  and  triple  fusion.
+The  products  of  these  fusions  are  the  diploid  zygote  and  the  triploid
+primary  endosperm  nucleus  (in  the  primary  endosperm  cell).  Zygote
+develops  into  the  embryo  and  the  primary  endosperm  cell  forms  the
+endosperm  tissue.  Formation  of  endosperm  always  precedes
+development  of  the  embryo.
+
+The  developing  embryo  passes  through  different  stages  such  as
+the  proembryo,  globular  and  heart-shaped  stages  before  maturation.
+Mature  dicotyledonous  embryo  has  two  cotyledons  and  an  embryonal
+axis  with  epicotyl  and  hypocotyl.    Embryos  of  monocotyledons  have  a
+single cotyledon.  After fertilisation, ovary develops into fruit and ovules
+develop  into  seeds.
+
+A  phenomenon  called  apomixis  is  found  in  some  angiosperms,
+particularly  in  grasses.  It  results  in  the  formation  of  seeds  without
+fertilisation.    Apomicts  have  several  advantages  in  horticulture  and
+agriculture.
+
+Some  angiosperms  produce  more  than  one  embryo  in  their  seed.
+
+This  phenomenon  is  called  polyembryony.
+
+EXERCISES
+
+1. Name the parts of an angiosperm flower in which development of male
+
+and  female  gametophyte  take  place.
+
+2. Differentiate  between  microsporogenesis  and  megasporogenesis.  Which
+type  of  cell  division  occurs  during  these  events?  Name  the  structures
+formed at the end of these two events.
+
+3. Arrange  the  following  terms  in  the  correct  developmental  sequence:
+
+Pollen grain, sporogenous tissue, microspore tetrad, pollen mother cell,
+male  gametes.
+
+4. With a neat, labelled diagram, describe the parts of a typical angiosperm
+
+ovule.
+
+5. What  is  meant  by  monosporic  development  of  female  gametophyte?
+6. With a neat diagram explain the 7-celled, 8-nucleate nature of the female
+
+gametophyte.
+
+40
+
+SEXUAL  REPRODUCTION  IN  FLOWERING  PLANTS
+HUMAN REPRODUCTION
+
+7. What  are  chasmogamous  flowers?  Can  cross-pollination  occur  in
+
+cleistogamous  flowers?    Give  reasons  for  your  answer.
+
+8. Mention  two  strategies  evolved  to  prevent  self-pollination  in  flowers.
+9. What is self-incompatibility? Why does self-pollination not lead to seed
+
+formation  in  self-incompatible  species?
+
+10. What  is  bagging  technique?    How  is  it  useful  in  a  plant  breeding
+
+programme?
+
+11. What  is  triple  fusion?  Where  and  how  does  it  take  place?  Name  the
+
+nuclei  involved  in  triple  fusion.
+
+12. Why  do  you  think  the  zygote  is  dormant  for  sometime  in  a  fertilised
+
+ovule?
+
+13. Differentiate  between:
+
+(a)  hypocotyl  and  epicotyl;
+(b)  coleoptile  and  coleorrhiza;
+(c)  integument  and  testa;
+(d)  perisperm  and  pericarp.
+
+14. Why is apple called a false fruit?  Which part(s) of the flower forms the
+
+fruit?
+
+15. What  is  meant  by  emasculation?  When  and  why  does  a  plant  breeder
+
+16.
+
+employ  this  technique?
+If  one  can  induce  parthenocarpy  through  the  application  of  growth
+substances,  which  fruits  would  you  select  to  induce  parthenocarpy
+and  why?
+
+17. Explain  the  role  of  tapetum  in  the  formation  pollen-grain  wall.
+18. What  is  apomixis  and  what  is  its  importance?
+
+41
+
+
+
+
+CHAPTER 3 HUMAN REPRODUCTION
+
+n
+
+As you are aware, humans are sexually reproducing and
+viviparous. The reproductive events in humans include
+formation of gametes (gametogenesis), i.e., sperms in males
+and ovum in females, transfer of sperms into the female
+genital tract (insemination) and fusion of male and female
+gametes (fertilisation) leading to formation of zygote. This
+is followed by formation and development of blastocyst
+and its attachment to the uterine wall (implantation),
+embryonic development (gestation) and delivery of the
+baby (parturition). You have learnt that these reproductive
+events  occur  after  puberty.  There  are  remarkable
+differences between the reproductive events in the male
+and in the female, for example, sperm formation continues
+even in old men, but formation of ovum ceases in women
+around the age of fifty years. Let us examine the male and
+female reproductive systems in human.
+
+3.1 THE MALE REPRODUCTIVE SYSTEM
+
+The male reproductive system is located in the pelvis region
+(Figure  3.1a).  It  includes  a  pair  of  testes  alongwith
+accessory ducts, glands and the external genitalia.
+
+HUMAN  REPRODUCTION
+
+The testes are situated outside the
+abdominal  cavity  within  a  pouch
+called scrotum. The scrotum helps
+in maintaining the low temperature
+of the testes (2–2.5o C lower than
+the  normal 
+internal  body
+temperature)  necessary  for
+spermatogenesis. In adults, each
+testis is oval in shape, with a length
+of about 4 to 5 cm and a width of
+about  2  to  3  cm.  The  testis  is
+covered by a dense covering. Each
+testis has about 250 compartments
+lobules
+called 
+(Figure 3.1b).
+
+testicular 
+
+Each  lobule  contains  one  to
+three  highly  coiled  seminiferous
+tubules  in  which  sperms  are
+produced. Each seminiferous tubule
+is lined on its inside by two types
+of  cells  called  male  germ  cells
+(spermatogonia) and Sertoli cells
+(Figure 3.2 ). The male germ cells
+undergo  meiotic  divisions  finally
+leading to sperm formation, while
+Sertoli cells provide nutrition to the
+germ cells. The regions outside the
+seminiferous  tubules  called
+interstitial  spaces,  contain  small
+blood vessels and interstitial cells
+or Leydig cells (Figure 3.2). Leydig
+cells  synthesise  and  secrete
+testicular  hormones  called
+androgens. Other  immunologically
+competent cells are also present.
+
+Figure  3.1(a) Diagrammatic sectional view of  male  pelvis
+
+showing  reproductive  system
+
+Figure  3.1(b) Diagrammatic view of male reproductive system
+
+(part of testis is open to show inner details)
+
+The male sex accessory ducts include rete testis, vasa efferentia,
+epididymis and vas deferens (Figure 3.1b). The seminiferous tubules of
+the testis open into the vasa efferentia through rete testis. The vasa efferentia
+leave the testis and open into epididymis located along the posterior surface
+of each testis. The epididymis leads to vas deferens that ascends to the
+abdomen and loops over the urinary bladder. It receives a duct from seminal
+vesicle and opens into urethra as the ejaculatory duct (Figure 3.1a). These
+ducts store and transport the sperms from the testis to the outside through
+urethra. The urethra originates from the urinary bladder and extends
+through the penis to its external opening called urethral meatus.
+
+43
+
+BIOLOGY
+
+Figure 3.2 Diagrammatic sectional view of seminiferous tubule
+
+The penis is the male external genitalia (Figure 3.1a, b). It is made up
+of special tissue that helps in erection of the penis to facilitate insemination.
+The enlarged end of penis called the glans penis is covered by a loose fold
+of skin called foreskin.
+
+The male accessory glands (Figure 3.1a, b) include paired seminal
+vesicles, a prostate and paired bulbourethral glands. Secretions of these
+glands constitute the seminal plasma which is rich in fructose, calcium
+and certain enzymes. The secretions of bulbourethral glands also helps
+in the lubrication of the penis.
+
+3.2 THE FEMALE REPRODUCTIVE SYSTEM
+The female reproductive system consists of a pair of ovaries alongwith a pair
+of oviducts, uterus, cervix, vagina and the external genitalia located in
+pelvic region (Figure 3.3a). These parts of the system alongwith a pair of the
+mammary glands are integrated structurally and functionally to support
+the processes of ovulation, fertilisation, pregnancy, birth and child care.
+
+Ovaries are the primary female sex organs that produce the female
+gamete  (ovum)  and  several  steroid  hormones  (ovarian  hormones).
+The  ovaries  are  located  one  on  each  side  of  the  lower  abdomen
+(Figure 3.3b). Each ovary is about 2 to 4 cm in length and is connected to
+the pelvic wall and uterus by ligaments. Each ovary is covered by a thin
+epithelium which encloses the ovarian stroma. The stroma is divided into
+two zones – a peripheral cortex and an inner medulla.
+
+44
+
+HUMAN  REPRODUCTION
+
+Figure  3.3  (a) Diagrammatic  sectional  view  of  female  pelvis  showing
+
+reproductive  system
+
+The oviducts (fallopian tubes), uterus and vagina constitute the female
+accessory ducts. Each fallopian tube is about 10-12 cm long and extends
+from the periphery of each ovary to the uterus (Figure 3.3b), the part closer
+to  the  ovary  is  the  funnel-shaped  infundibulum.  The  edges  of  the
+infundibulum possess finger-like projections called fimbriae, which help in
+collection of the ovum after ovulation. The infundibulum leads to a wider
+
+Figure 3.3  (b) Diagrammatic sectional view of the female reproductive  system
+
+45
+
+BIOLOGY
+
+part of the oviduct called ampulla. The last part of the oviduct, isthmus has
+a narrow lumen and it joins the uterus.
+
+The uterus is single and it is also called womb. The shape of the uterus
+is like an inverted pear. It is supported by ligaments attached to the pelvic
+wall. The uterus opens into vagina through a narrow cervix. The cavity of
+the cervix is called cervical canal (Figure 3.3b) which alongwith vagina
+forms the birth canal. The wall of the uterus has three layers of tissue. The
+external thin membranous perimetrium, middle  thick layer of smooth
+muscle, myometrium and inner glandular layer called endometrium that
+lines the uterine cavity. The endometrium undergoes cyclical changes during
+menstrual cycle while the myometrium exhibits strong contraction during
+delivery of the baby.
+
+The female external genitalia include mons pubis, labia majora, labia
+minora, hymen and clitoris (Figure 3.3a). Mons pubis is a cushion of fatty
+tissue covered by skin and pubic hair. The labia majora are fleshy folds of
+tissue, which extend down from the mons pubis and surround the vaginal
+opening. The labia minora are paired folds of tissue under the labia majora.
+The opening of the vagina is often covered partially by a membrane called
+hymen. The clitoris is a tiny finger-like structure which lies at the upper
+junction of the two labia minora above the urethral opening.  The hymen is
+often torn during the first coitus (intercourse). However, it can also be broken
+by a sudden fall or jolt, insertion of a vaginal tampon, active participation
+in some sports like horseback riding, cycling, etc. In some women the hymen
+persists even after coitus. In fact, the presence or absence of hymen is not
+a reliable indicator of virginity or sexual experience.
+
+46
+
+Figure  3.4  A  diagrammatic  sectional  view  of  Mammary  gland
+
+HUMAN  REPRODUCTION
+
+A functional mammary gland is characteristic of all female mammals.
+The  mammary  glands  are  paired  structures  (breasts)  that  contain
+glandular tissue and variable amount of fat. The glandular tissue of each
+breast is divided into 15-20 mammary lobes containing clusters of cells
+called alveoli (Figure 3.4). The cells of alveoli secrete milk, which is stored
+in the cavities (lumens) of alveoli. The alveoli open into mammary tubules.
+The tubules of each lobe join to form a mammary duct. Several mammary
+ducts join to form a wider mammary ampulla  which is connected to
+lactiferous duct through which milk is sucked out.
+
+3.3 GAMETOGENESIS
+The primary sex organs – the testis in the males and the ovaries in the
+females – produce gametes, i.e, sperms and ovum, respectively, by the
+process called gametogenesis. In testis, the immature male germ cells
+(spermatogonia) produce sperms by spermatogenesis that begins at
+puberty.  The spermatogonia (sing. spermatogonium) present on the
+inside wall of seminiferous tubules multiply by mitotic division and
+increase in numbers. Each spermatogonium is diploid and contains 46
+chromosomes.  Some  of  the  spermatogonia  called  primary
+spermatocytes periodically undergo meiosis. A primary spermatocyte
+completes  the  first  meiotic  division  (reduction  division)  leading  to
+formation of two equal,  haploid cells called
+secondary spermatocytes, which have only
+23  chromosomes  each.  The  secondary
+spermatocytes undergo the second meiotic
+division  to  produce  four  equal,  haploid
+spermatids (Figure 3.5). What would be the
+number of chromosome in the spermatids?
+The  spermatids  are  transformed  into
+spermatozoa (sperms) by the process called
+spermiogenesis.  After  spermiogenesis,
+sperm  heads  become  embedded  in  the
+Sertoli cells, and are finally released from
+the  seminiferous  tubules  by  the  process
+called spermiation.
+
+Spermatogenesis  starts  at  the  age  of
+puberty  due  to  significant  increase  in  the
+secretion of gonadotropin releasing hormone
+(GnRH). This, if you recall, is a hypothalamic hormone. The increased
+levels of GnRH then acts at the anterior pituitary gland and stimulates
+secretion of two gonadotropins – luteinising hormone (LH) and follicle
+stimulating hormone (FSH).  LH acts at the Leydig cells and stimulates
+synthesis and secretion of androgens. Androgens, in turn, stimulate the
+process of spermatogenesis. FSH acts on the Sertoli cells and stimulates
+
+Figure  3.5 Diagrammatic  sectional  view  of  a
+
+seminiferous  tubule  (enlarged)
+
+47
+
+BIOLOGY
+
+secretion  of  some  factors  which  help  in  the
+process of spermiogenesis.
+
+Let us examine the structure of a sperm. It
+is a microscopic structure composed of a head,
+neck, a middle piece and a tail (Figure 3.6). A
+plasma membrane envelops the whole body of
+sperm. The sperm head contains an elongated
+haploid nucleus, the anterior portion of which
+is covered by a cap-like structure, acrosome.
+The acrosome is filled with enzymes that help
+fertilisation  of  the  ovum.  The  middle  piece
+possesses  numerous  mitochondria,  which
+produce energy for the movement of  tail that
+facilitate sperm motility essential for fertilisation.
+The human male ejaculates about 200 to 300
+million sperms during a coitus of which, for
+normal fertility, at least 60 per cent sperms
+must have normal shape and size and for at
+least 40 per cent of them must show vigorous
+motility.
+
+Figure  3.6  Structure  of  a  sperm
+
+Sperms  released  from  the  seminiferous
+tubules,  are  transported  by  the  accessory
+ducts.  Secretions  of  epididymis,  vas  deferens,  seminal  vesicle  and
+prostate are essential for maturation and motility of sperms. The seminal
+plasma along with the sperms constitute the semen. The functions of
+male sex accessory ducts and glands are maintained by the testicular
+hormones (androgens).
+
+The process of formation of a mature female gamete is called oogenesis
+which is markedly different from spermatogenesis. Oogenesis is initiated
+during the embryonic development stage when a couple of million gamete
+mother cells (oogonia) are formed within each fetal ovary; no more oogonia
+are formed and added after birth. These cells start division and enter into
+prophase-I of the meiotic division and get temporarily arrested at that stage,
+called primary oocytes. Each primary oocyte then gets surrounded by a
+layer of granulosa cells and then called the primary follicle (Figure 3.7).
+A large number of these follicles degenerate during the phase from birth to
+puberty. Therefore, at puberty only 60,000-80,000 primary follicles are
+left in each ovary. The primary follicles get surrounded by more layers of
+granulosa cells and a new theca and called secondary follicles.
+
+The secondary follicle soon transforms into a tertiary follicle which is
+characterised by a fluid filled cavity called antrum. The theca layer is
+organised into an inner theca interna and an outer theca externa. It is
+important to draw your attention that it is at this stage that the primary
+oocyte within the tertiary follicle grows in size and completes its first meiotic
+division. It is an unequal division resulting in the formation of a large
+haploid secondary oocyte and a tiny first polar body (Figure 3.8b). The
+
+48
+
+HUMAN  REPRODUCTION
+
+secondary  oocyte  retains  bulk  of  the
+nutrient rich cytoplasm of the primary
+oocyte. Can you think of any advantage
+for this? Does the first polar body born
+out of first meiotic division divide further
+or degenerate?  At present we are not
+very  certain  about  this.  The  tertiary
+follicle further changes into the mature
+follicle or Graafian follicle (Figure 3.7).
+The  secondary  oocyte  forms  a  new
+membrane  called  zona  pellucida
+surrounding it. The Graafian follicle now
+ruptures to release the secondary oocyte
+(ovum)  from  the  ovary  by  the
+process  called  ovulation.  Can  you
+identify  major  differences  between
+spermatogenesis  and  oogenesis?    A  diagrammatic  representation  of
+spermatogenesis and oogenesis is given below (Figure 3.8).
+
+Figure  3.7  Diagrammatic  Section  view  of  ovary
+
+(a)
+
+(b)
+
+Figure  3.8  Schematic  representation  of  (a)  Spermatogenesis;  (b)  Oogenesis
+
+3.4 MENSTRUAL CYCLE
+
+The reproductive cycle in the female primates (e.g. monkeys, apes and
+human beings) is called menstrual cycle. The first menstruation begins
+at puberty and is called menarche. In human females, menstruation
+is repeated at an average interval of about 28/29 days, and the cycle of
+events starting from one menstruation till the next one is called the
+menstrual cycle. One ovum is released (ovulation) during the middle
+
+49
+
+BIOLOGY
+
+Figure  3.9  Diagrammatic  presenation  of  various  events  during  a  menstrual  cycle
+
+of each menstrual cycle. The major events of the menstrual cycle are
+shown in Figure 3.9. The cycle starts with the menstrual phase, when
+menstrual flow occurs and it lasts for 3-5 days. The menstrual flow
+results due to breakdown of endometrial lining of the uterus and its
+blood  vessels  which  forms  liquid  that  comes  out  through  vagina.
+Menstruation only occurs if the released ouvm is not fertilised. Lack of
+menstruation may be indicative of pregnancy. However, it may also be
+caused due to some other underlying causes like stress, poor health etc.
+The  menstrual  phase  is  followed  by  the  follicular  phase.  During
+this  phase,  the  primary  follicles  in  the  ovary  grow  to  become  a
+fully  mature  Graafian  follicle  and  simultaneously  the  endometrium
+of  uterus  regenerates  through  proliferation.  These  changes  in  the
+ovary  and  the  uterus  are  induced  by  changes  in  the  levels  of
+pituitary  and  ovarian  hormones  (Figure  3.9).  The  secretion  of
+
+50
+
+HUMAN  REPRODUCTION
+
+gonadotropins (LH and FSH) increases gradually during the follicular
+phase, and stimulates follicular development as well as secretion of
+estrogens by the growing follicles. Both LH and FSH attain a peak level
+in the middle of cycle (about 14th day). Rapid secretion of LH leading to
+its maximum level during the mid-cycle called LH surge induces rupture
+of Graafian follicle and thereby the release of ovum (ovulation). The
+ovulation (ovulatory phase) is followed by the luteal phase during which
+the remaining parts of the Graafian follicle transform as the corpus
+luteum  (Figure  3.9).  The  corpus  luteum  secretes  large  amounts  of
+progesterone which is essential for maintenance of the endometrium.
+Such an endometrium is necessary for implantation of the fertilised
+ovum and other events of pregnancy. During pregnanacy all events of
+the menstrual cycle stop and there is no menstruation.  In the absence
+of fertilisation, the corpus luteum degenerates. This causes disintegration
+of the endometrium leading to menstruation, marking a new cycle.  In
+human beings, menstrual cycles ceases around 50 years of age; that is
+termed as menopause. Cyclic menstruation is an indicator of normal
+reproductive phase and extends between menarche and menopause.
+
+3.5 FERTILISATION AND IMPLANTATION
+During copulation (coitus) semen is released by the penis into the vagina
+(insemination). The motile sperms swim rapidly, pass through the cervix,
+enter into the uterus and finally reach the junction of the isthmus and
+ampulla (ampullary-isthmic junction) of the fallopian tube (Figure 3.11b).
+The ovum released by the ovary is also
+transported to the ampullary-isthmic
+junction  where  fertilisation  takes
+place.  Fertilisation can only occur if
+the ovum and sperms are transported
+simultaneously  to  the  ampullary-
+isthmic junction.  This is the reason
+why  not  all  copulations  lead  to
+fertilisation and pregnancy.
+
+The process of fusion of a sperm
+with an ovum is called fertilisation.
+During fertilisation, a sperm comes in
+contact with the zona pellucida layer
+of the ovum  (Figure 3.10) and induces
+changes in the membrane  that block
+the entry of additional sperms.  Thus,
+it  ensures  that  only  one  sperm  can
+fertilise an ovum.  The secretions of the
+acrosome help the sperm enter into the
+cytoplasm  of  the  ovum  through  the
+zona  pellucida  and  the  plasma
+
+51
+
+51
+
+Figure  3.10  Ovum  surrounded  by  few  sperms
+
+BIOLOGY
+
+membrane. This induces the completion of the meiotic division of the
+secondary oocyte. The second meiotic division is also unequal and results
+in the formation of a second polar body and a haploid ovum (ootid). Soon
+the haploid nucleus of the sperms and that of the ovum fuse together to
+form a diploid zygote.  How many chromosomes will be there in the zygote?
+One has to remember that the sex of the baby has been decided at this
+stage itself. Let us see how? As you know the chromosome pattern in the
+human female is XX and that in the male is XY. Therefore, all the haploid
+gametes produced by the female (ova) have the sex chromosome X whereas
+in the male gametes (sperms) the sex chromosome could be either X or Y,
+hence, 50 per cent of sperms carry the X chromosome while the other 50 per
+cent carry the Y. After fusion of the male and female gametes the zygote
+would carry either XX or XY depending on whether the sperm carrying X
+or Y fertilised the ovum. The zygote carrying XX would develop into a female
+baby and XY would form a male (you will learn more about the chromosomal
+patterns in Chapter 5). That is why, scientifically it is correct to say that the
+sex of the baby is determined by the father and not by the mother!
+
+The mitotic division  starts as the zygote moves through the isthmus
+of the oviduct called cleavage towards the uterus (Figure 3.11) and forms
+2, 4, 8, 16 daughter cells called blastomeres. The embryo with 8 to 16
+
+52
+
+Figure  3.11  Transport  of  ovum,  fertilisation  and  passage  of  growing  embryo  through  fallopian  tube
+
+HUMAN  REPRODUCTION
+
+blastomeres is called a morula (Figure 3.11e). The morula continues to
+divide and transforms into blastocyst (Figure 3.11g) as it moves further
+into the uterus. The blastomeres in the blastocyst are arranged into an
+outer layer called trophoblast and an inner group of cells attached to
+trophoblast called the inner cell mass. The trophoblast layer then gets
+attached to the endometrium and the inner cell mass gets differentiated
+as the embryo. After attachment, the uterine cells divide rapidly and covers
+the  blastocyst.  As  a  result,  the  blastocyst  becomes  embedded  in  the
+endometrium of the uterus (Figure 3.11h). This is called implantation
+and it leads to pregnancy.
+
+3.6 PREGNANCY AND EMBRYONIC DEVELOPMENT
+After implantation, finger-like projections appear on the trophoblast called
+chorionic villi which are surrounded by the uterine tissue and maternal
+blood. The chorionic villi and uterine tissue become interdigitated with
+each  other  and  jointly  form  a  structural  and  functional  unit  between
+developing embryo (foetus) and maternal body called placenta (Figure 3.12).
+The  placenta  facilitate  the  supply  of  oxygen  and  nutrients  to  the
+embryo and also removal of carbon dioxide and excretory/waste materials
+produced by the embryo. The placenta is connected to the embryo through
+an umbilical cord which helps in the transport of substances to and from
+the embryo. Placenta also acts as an endocrine tissue and produces
+several hormones like human chorionic gonadotropin (hCG), human
+placental lactogen (hPL), estrogens, progestogens, etc. In the later
+phase  of  pregnancy,  a  hormone  called  relaxin  is  also  secreted  by
+the  ovary.  Let  us  remember
+that  hCG,  hPL  and  relaxin
+are  produced  in  women
+only  during  pregnancy.  In
+addition,  during  pregnancy
+the levels of other hormones
+like estrogens, progestogens,
+cortisol, prolactin, thyroxine,
+etc.,  are  increased  several-
+folds in the maternal blood.
+Increased production of these
+hormones  is  essential  for
+supporting the fetal growth,
+metabolic  changes  in  the
+mother  and  maintenance  of
+pregnancy.
+
+Immediately 
+
+after
+implantation,  the  inner  cell
+mass  (embryo)  differentiates
+
+Figure  3.12  The  human  foetus  within  the  uterus
+
+53
+
+BIOLOGY
+
+into an outer layer called ectoderm and an inner layer called endoderm. A
+mesoderm soon appears between the ectoderm and the endoderm. These
+three layers give rise to all tissues (organs) in adults. It needs to be mentioned
+here that the inner cell mass contains certain cells called stem cells which
+have the potency to give rise to all the tissues and organs.
+
+What  are  the  major  features  of  embryonic  development  at  various
+months of pregnancy?  The human pregnancy lasts 9 months. Do you
+know many months pregnancy last in dogs, elephants, cats? Find out.
+In human beings, after one month of pregnancy, the embryo’s heart is
+formed. The first sign of growing foetus may be noticed by listening to the
+heart sound carefully through the stethoscope. By the end of the second
+month of pregnancy, the foetus develops limbs and digits. By the end of
+12 weeks (first trimester), most of the major organ systems are formed,
+for example, the limbs and external genital organs are well-developed.
+The first movements of the foetus and appearance of hair on the head are
+usually observed during the fifth month. By the end of 24 weeks (second
+trimester),  the  body  is  covered  with  fine  hair,  eye-lids  separate,  and
+eyelashes are formed.  By the end of nine months of pregnancy, the foetus
+is fully developed and is ready for delivery.
+
+3.7 PARTURITION AND LACTATION
+The  average  duration  of  human  pregnancy  is  about  9  months
+which is called the gestation period. Vigorous contraction of the uterus at
+the end of pregnancy causes expulsion/delivery of the foetus. This process
+of delivery of the foetus (childbirth) is called parturition. Parturition is
+induced  by  a  complex  neuroendocrine  mechanism.  The  signals  for
+parturition originate from the fully developed fetus and the placenta which
+induce mild uterine contractions called foetal ejection reflex. This triggers
+release of oxytocin from the maternal pituitary. Oxytocin acts on the uterine
+muscle and causes stronger uterine contractions, which in turn stimulates
+further secretion of oxytocin. The stimulatory reflex between the uterine
+contraction  and  oxytocin  secretion  continues  resulting  in  stronger  and
+stronger contractions. This leads to expulsion of the baby out of the uterus
+through the birth canal – parturition. Soon after the infant is delivered, the
+placenta is also expelled out of the uterus. What do you think the doctors
+inject  to  induce  delivery?
+
+The mammary glands of the female undergo differentiation during
+pregnancy and starts producing milk towards the end of pregnancy by
+the process called lactation. This helps the mother in feeding the new-
+born. The milk produced during the initial few days of lactation is called
+colostrum  which  contains  several  antibodies  absolutely  essential  to
+develop resistance for the new-born babies. Breast-feeding during the
+initial period of infant growth is recommended by doctors for bringing up
+a healthy baby.
+
+54
+
+HUMAN  REPRODUCTION
+
+SUMMARY
+
+Humans  are  sexually  reproducing  and  viviparous.  The  male
+reproductive  system  is  composed  of  a  pair  of  testes,  the  male  sex
+accessory ducts and the accessory glands and external genitalia. Each
+testis has about 250 compartments called testicular lobules, and each
+lobule  contains  one  to  three  highly  coiled  seminiferous  tubules.  Each
+seminiferous tubule is lined inside by spermatogonia and Sertoli cells.
+The spermatogonia undergo meiotic divisions leading to sperm formation,
+while Sertoli cells provide nutrition to the dividing germ cells. The Leydig
+cells outside the seminiferous tubules, synthesise and secrete testicular
+hormones called androgens. The male external genitalia is called penis.
+The female reproductive system consists of a pair of ovaries, a pair
+of  oviducts,  a  uterus,  a  vagina,  external  genitalia,  and  a  pair  of
+mammary  glands.  The  ovaries  produce  the  female  gamete  (ovum)  and
+some steroid hormones (ovarian hormones). Ovarian follicles in different
+stages of development are embedded in the stroma. The oviducts, uterus
+and  vagina  are  female  accessory  ducts.  The  uterus  has  three  layers
+namely  perimetrium,  myometrium  and  endometrium.  The  female
+external  genitalia  includes  mons  pubis,  labia  majora,  labia  minora,
+hymen  and  clitoris.  The  mammary  glands  are  one  of  the  female
+secondary  sexual  characteristics.
+
+Spermatogenesis  results  in  the  formation  of  sperms  that  are
+transported  by  the  male  sex  accessory  ducts.  A  normal  human  sperm
+is  composed  of  a  head,  neck,  a  middle  piece  and  tail.  The  process  of
+formation  of  mature  female  gametes  is  called  oogenesis.  The
+reproductive  cycle  of  female  primates  is  called  menstrual  cycle.
+Menstrual cycle starts only after attaining sexual maturation (puberty).
+During  ovulation  only  one  ovum  is  released  per  menstrual  cycle.  The
+cyclical  changes  in  the  ovary  and  the  uterus  during  menstrual  cycle
+are induced by changes in the levels of pituitary and ovarian hormones.
+After coitus, sperms are transported to the junction of the isthmus and
+ampulla, where the sperm fertilises the ovum leading to formation of a
+diploid  zygote.  The  presence  of  X  or  Y  chromosome  in  the  sperm
+determines the sex of the embryo. The zygote undergoes repeated mitotic
+division to form a blastocyst, which is implanted in the uterus resulting
+in pregnancy. After nine months of pregnancy, the fully developed  foetus
+is ready for delivery. The process of childbirth is called parturition which
+is induced by a complex neuroendocrine mechanism involving cortisol,
+estrogens and oxytocin. Mammary glands differentiate during pregnancy
+and secrete milk after child-birth. The new-born baby is fed milk by the
+mother  (lactation)  during  the  initial  few  months  of  growth.
+
+EXERCISES
+
+1. Fill  in  the  blanks:
+
+(a) Humans  reproduce  _____________  (asexually/sexually)
+(b) Humans  are  _____________  (oviparous,  viviparous,  ovoviviparous)
+(c) Fertilisation  is  _____________  in  humans  (external/internal)
+(d) Male  and  female  gametes  are  _____________  (diploid/haploid)
+(e) Zygote  is  _____________  (diploid/haploid)
+
+55
+
+BIOLOGY
+
+(f) The  process  of  release  of  ovum  from  a  mature  follicle  is  called
+
+_____________
+
+(g) Ovulation  is  induced  by  a  hormone  called  _____________
+(h) The  fusion  of  male  and  female  gametes  is  called  _____________
+(i) Fertilisation  takes  place  in  _____________
+(j) Zygote  divides  to  form  _____________which  is  implanted  in  uterus.
+(k) The  structure  which  provides  vascular  connection  between  fetus
+
+and  uterus  is  called  _____________
+
+2. Draw  a  labelled  diagram  of  male  reproductive  system.
+3. Draw  a  labelled  diagram  of  female  reproductive  system.
+4. Write two major functions each of testis and ovary.
+5. Describe  the  structure  of  a  seminiferous  tubule.
+6. What is spermatogenesis? Briefly describe the process of spermatogenesis.
+7. Name  the  hormones  involved  in  regulation  of  spermatogenesis.
+8. Define  spermiogenesis  and  spermiation.
+9. Draw a labelled diagram of sperm.
+10. What  are  the  major  components  of  seminal  plasma?
+11. What  are  the  major  functions  of  male  accessory  ducts  and  glands?
+12. What is oogenesis? Give a brief account of oogenesis.
+13. Draw  a  labelled  diagram  of  a  section  through  ovary.
+14. Draw  a  labelled  diagram  of  a  Graafian  follicle?
+15. Name  the  functions  of  the  following:
+
+16.
+
+(b)  Endometrium
+(d)  Sperm  tail
+
+(a)  Corpus  luteum
+(c)  Acrosome
+(e)  Fimbriae
+Identify  True/False  statements.  Correct  each  false  statement  to  make
+it  true.
+(a) Androgens  are  produced  by  Sertoli  cells.  (True/False)
+(b) Spermatozoa  get  nutrition  from  Sertoli  cells.  (True/False)
+(c) Leydig  cells  are  found  in  ovary.  (True/False)
+(d) Leydig  cells  synthesise  androgens.  (True/False)
+(e) Oogenesis  takes  place  in  corpus  luteum.  (True/False)
+(f) Menstrual  cycle  ceases  during  pregnancy.  (True/False)
+(g) Presence or absence of hymen is not a reliable indicator of virginity
+
+or  sexual  experience.  (True/False)
+
+17. What  is  menstrual  cycle?  Which  hormones  regulate  menstrual  cycle?
+18. What is parturition? Which hormones are involved in induction of parturition?
+In our society the women are often blamed for giving birth to daughters.
+19.
+Can you explain why this is not correct?
+
+20. How many eggs are released by a human ovary in a month? How many
+eggs do you think would have been released if the mother gave birth to
+identical  twins?  Would  your  answer  change  if  the  twins  born  were
+fraternal?
+
+21. How many eggs do you think were released by the ovary of a female dog
+
+which gave birth to 6 puppies?
+
+56
+
+
+
+CHAPTER 4 REPRODUCTIVE HEALTH
+You have learnt about human reproductive system and its
+functions in Chapter 3. Now, let’s discuss a closely related
+topic – reproductive health. What do we understand by
+this term?  The term simply refers to healthy reproductive
+organs with normal functions. However, it has a broader
+perspective and includes the emotional and social aspects
+of  reproduction  also.  According  to  the  World  Health
+Organisation (WHO), reproductive health means a total
+well-being in all aspects of reproduction, i.e., physical,
+emotional, behavioural and social. Therefore, a society with
+people  having  physically  and  functionally  normal
+reproductive organs and normal emotional and behavioural
+interactions among them in all sex-related aspects might
+be called reproductively healthy. Why is it significant to
+maintain reproductive health and what are the methods
+taken up to achieve it? Let us examine them.
+
+4.1 REPRODUCTIVE HEALTH – PROBLEMS AND STRATEGIES
+
+India was amongst the first countries in the world to
+initiate action plans and programmes at a national level
+to  attain  total  reproductive  health  as  a  social  goal.
+These  programmes  called  ‘family  planning’  were
+initiated in 1951 and were periodically assessed over
+the past decades. Improved programmes covering wider
+
+BIOLOGY
+
+reproduction-related  areas  are  currently  in  operation  under  the
+popular name ‘Reproductive and Child Health Care (RCH) programmes’.
+Creating awareness among people about various reproduction related
+aspects  and  providing  facilities  and  support  for  building  up  a
+reproductively  healthy  society  are  the  major  tasks  under  these
+programmes.
+
+With the help of audio-visual and the print-media governmental and
+non-governmental agencies have taken various steps to create awareness
+among the people about reproduction-related aspects. Parents, other
+close  relatives,  teachers  and  friends,  also  have  a  major  role  in  the
+dissemination of the above information. Introduction of sex education
+in schools should also be encouraged to provide right information to
+the young so as to discourage children from believing in myths and
+having misconceptions about sex-related aspects. Proper information
+about reproductive organs, adolescence and related changes, safe and
+hygienic sexual practices, sexually transmitted diseases (STD), AIDS,
+etc., would help people, especially those in the adolescent age group to
+lead a reproductively healthy life. Educating people, especially fertile
+couples and those in marriageable age group, about available birth
+control options, care of pregnant mothers, post-natal care of the mother
+and child, importance of breast feeding, equal opportunities for the male
+and the female child, etc., would address the importance of bringing up
+socially conscious healthy families of desired size. Awareness of problems
+due to uncontrolled population growth, social evils like sex-abuse and
+sex-related crimes, etc., need to be created to enable people to think
+and take up necessary steps to prevent them and thereby build up a
+socially responsible and healthy society.
+
+Successful  implementation  of  various  action  plans  to  attain
+reproductive health requires strong infrastructural facilities, professional
+expertise and material support. These are essential to provide medical
+assistance  and  care  to  people  in  reproduction-related  problems  like
+pregnancy, delivery, STDs, abortions, contraception, menstrual problems,
+infertility, etc. Implementation of better techniques and new strategies
+from time to time are also required to provide more efficient care and
+assistance  to  people.  Statutory  ban  on  amniocentesis  (a  foetal  sex
+determination test based on the chromosomal pattern in the amniotic
+fluid surrounding the developing embryo) for sex-determination to legally
+check increasing female foeticides, massive child immunisation, etc., are
+some programmes that merit mention in this connection.
+
+Research on various reproduction-related areas are encouraged and
+supported by governmental and non-governmental agencies to find out
+new methods and/or to improve upon the existing ones. Do you know
+that  ‘Saheli’–a  new  oral  contraceptive  for  the  females–was  developed
+by scientists at Central Drug Research Institute (CDRI) in Lucknow, India?
+Better awareness about sex related matters, increased number of medically
+assisted deliveries and better post-natal care leading to decreased maternal
+
+58
+
+REPRODUCTIVE  HEALTH
+
+and  infant  mortality  rates,  increased  number  of  couples  with  small
+families, better detection and cure of STDs and overall increased medical
+facilities for all sex-related problems, etc. all indicate improved reproductive
+health of the society.
+
+4.2 POPULATION EXPLOSION AND BIRTH CONTROL
+In the last century an all-round development in various fields significantly
+improved the quality of life of the people. However, increased health facilities
+along with better living conditions had an explosive impact on the growth
+of  population.  The  world  population  which  was  around  2  billion
+(2000 million) in 1900 rocketed to about 6 billions  by 2000. A similar
+trend was observed in India too. Our population which was approximately
+350 million at the time of our independence reached close to the billion
+mark by 2000 and crossed 1 billion in May 2000. That means, every
+sixth person in the world is an Indian. A rapid decline in death rate,
+maternal mortality rate (MMR) and infant mortality rate (IMR) as
+well as an increase in number of people in reproducible age are probable
+reasons for this. Through our RCH programmes, though we could bring
+down the population growth rate, it was only marginal. According to the
+2001 census report, the population growth rate was still around  1.7 per
+cent, i.e., 17/1000/year, a rate at which our population could double in
+33 years. Such an alarming growth rate could lead to an absolute scarcity
+of even the basic requirements, i.e., food, shelter and clothing, in spite of
+significant progress made in those areas. Therefore, the government was
+forced to take up serious measures to check this population growth rate.
+The most important step to overcome this problem is to motivate smaller
+families by using various contraceptive methods. You might have seen
+advertisements in the media as well as posters/bills, etc., showing a happy
+couple with two children with a slogan Hum Do Hamare Do (we two, our
+two). Many couples, mostly the young, urban, working ones have even
+adopted an ‘one child norm’. Statutory raising of marriageable age of the
+female to 18 years and that of males to 21 years, and incentives given to
+couples with small families are two of the other measures taken to tackle
+this problem. Let us describe some of the commonly used contraceptive
+methods, which help prevent unwanted pregnancies.
+
+An  ideal  contraceptive  should  be  user-friendly,  easily  available,
+effective and reversible with no or least side-effects. It also should in no
+way interfere with the sexual drive, desire and/or the sexual act of the
+user. A wide range of contraceptive methods are presently available which
+could  be  broadly  grouped  into  the  following  categories,  namely
+Natural/Traditional,  Barrier,  IUDs,  Oral  contraceptives,  Injectables,
+Implants and Surgical methods.
+
+Natural methods work on the principle of avoiding chances of ovum
+and sperms meeting. Periodic abstinence is one such method in which
+the couples avoid or abstain from coitus from day 10 to 17 of the menstrual
+cycle when ovulation could be expected. As chances of fertilisation are
+
+59
+
+BIOLOGY
+
+very high during this period, it is called the fertile period. Therefore, by
+abstaining from coitus during this period, conception could be prevented.
+Withdrawal or coitus interruptus is another method in which the male
+partner withdraws his penis from the vagina just before ejaculation so as
+to  avoid  insemination.  Lactational  amenorrhea  (absence  of
+menstruation) method is based on the fact that ovulation
+and therefore the cycle do not occur during the period of
+intense lactation following parturition. Therefore, as long
+as  the  mother  breast-feeds  the  child  fully,  chances  of
+conception are almost nil. However, this method has been
+reported to be effective only upto a maximum period of six
+months following parturition. As no medicines or devices
+are  used  in  these  methods,  side  effects  are  almost  nil.
+Chances of failure, though, of this method are also high.
+
+Figure  4.1(a)  Condom  for  male
+
+Figure  4.1(b)  Condom  for  female
+
+In barrier methods, ovum and sperms are prevented
+from physically meeting with the help of barriers. Such
+methods    are  available  for  both  males  and  females.
+Condoms (Figure 4.1 a, b) are barriers made of thin rubber/
+latex sheath that are used to cover the penis in the male or
+vagina and cervix in the female, just before coitus so that
+the  ejaculated  semen  would  not  enter  into  the  female
+reproductive tract. This can prevent conception. ‘Nirodh’ is
+a popular brand of condom for the male. Use of condoms
+has increased in recent years due to its additional benefit of
+protecting the user from contracting STDs and AIDS. Both
+the male and the female condoms are disposable, can be
+self-inserted  and  thereby  gives  privacy  to  the  user.
+Diaphragms, cervical caps and vaults are also barriers
+made of rubber that are inserted into the female reproductive
+tract  to  cover  the  cervix  during  coitus.  They  prevent
+conception by blocking the entry of sperms through the
+cervix. They are reusable. Spermicidal creams, jellies and
+foams are usually used alongwith these barriers to increase
+their contraceptive efficiency.
+
+Figure  4.2.  Copper  T  (CuT)
+
+60
+
+Another effective and popular method is the use of Intra
+Uterine  Devices  (IUDs).  These  devices  are  inserted  by
+doctors  or  expert  nurses  in  the  uterus  through  vagina.
+These Intra Uterine Devices are presently available as the
+non-medicated IUDs (e.g., Lippes loop), copper releasing
+IUDs  (CuT,  Cu7,  Multiload  375)  and  the  hormone  releasing  IUDs
+(Progestasert, LNG-20) (Figure 4.2). IUDs increase phagocytosis of sperms
+within the uterus and the Cu ions released suppress sperm motility
+and  the  fertilising  capacity  of  sperms.  The  hormone  releasing  IUDs,
+in  addition,  make  the  uterus  unsuitable  for  implantation  and  the
+cervix hostile to the sperms. IUDs are ideal contraceptives for the females
+
+REPRODUCTIVE  HEALTH
+
+who want to delay pregnancy and/or space children. It is
+one of most widely accepted methods of contraception in
+India.
+
+Oral administration of small doses of either progestogens
+or  progestogen –estrogen  combinations  is  another
+contraceptive method used by the females. They are used
+in the form of tablets and hence are popularly called the
+pills. Pills have to be taken daily for a period of 21 days
+starting preferably within the first five days of menstrual
+cycle. After a gap of 7 days (during which menstruation
+occurs) it has to be repeated in the same pattern till the
+female desires to prevent conception. They inhibit ovulation
+and implantation as well as alter the quality of cervical mucus to prevent/
+retard entry of sperms. Pills are very effective with lesser side effects and
+are well accepted by the females. Saheli –the new oral contraceptive for
+the females contains a non-steroidal preparation. It is a ‘once a week’ pill
+with very few side effects and high contraceptive value.
+
+Figure  4.3  Implants
+
+Progestogens alone or in combination with estrogen can also be used
+by females as injections or implants under the skin (Figure 4.3). Their
+mode of action is similar to that of pills and their effective periods are
+much longer. Administration of progestogens or progestogen-estrogen
+combinations or IUDs within 72 hours of coitus have been found to be
+very effective as emergency contraceptives as they could be used to avoid
+possible pregnancy due to rape or casual unprotected intercourse.
+
+Surgical methods, also called sterilisation, are generally advised for
+the  male/female  partner  as  a  terminal  method  to  prevent  any  more
+pregnancies. Surgical intervention blocks gamete transport and thereby
+prevent conception. Sterilisation procedure in the male is called ‘vasectomy’
+
+61
+
+Figure  4.4a  Vasectomy
+
+Figure  4.4  (b)  Tubectomy
+
+BIOLOGY
+
+and that in the female, ‘tubectomy’. In vasectomy, a small part of the vas
+deferens is removed or tied up through a small incision on the scrotum
+(Figure 4.4a) whereas in tubectomy, a small part of the fallopian tube is
+removed (Figure 4.4b) or tied up through a small incision in the abdomen
+or  through  vagina.  These  techniques  are  highly  effective  but  their
+reversibility is very poor.
+
+It needs to be emphasised that the selection of a suitable contraceptive
+method and its use should always be undertaken in consultation with
+qualified  medical  professionals.  One  must  also  remember  that
+contraceptives  are  not  regular  requirements  for  the  maintenance  of
+reproductive  health.  In  fact,  they  are  practiced  against  a  natural
+reproductive event, i.e., conception/pregnancy. One is forced to use these
+methods either to prevent pregnancy or to delay or space pregnancy due
+to personal reasons. No doubt, the widespread use of these methods have
+a significant role in checking uncontrolled growth of population. However,
+their  possible  ill-effects  like  nausea,  abdominal  pain,  breakthrough
+bleeding, irregular menstrual bleeding or even breast cancer, though not
+very significant, should not be totally ignored.
+
+4.3 MEDICAL TERMINATION OF PREGNANCY (MTP)
+Intentional or voluntary termination of pregnancy before full term is called
+medical termination of pregnancy (MTP) or induced abortion. Nearly
+45 to 50 million MTPs are performed in a year all over the world which
+accounts to 1/5th of the total number of conceived pregnancies in a year.
+Obviously, MTP has a significant role in decreasing the population though
+it is not meant for that purpose. Whether to accept / legalise MTP or not is
+being debated upon in many countries due to emotional, ethical, religious
+and social issues involved in it. Government of India legalised MTP in
+1971 with some strict conditions to avoid its misuse. Such restrictions
+are all the more important to check indiscriminate and illegal female
+foeticides which are reported to be high in India.
+
+Why  MTP ?  Obviously  the  answer  is – to  get  rid  of  unwanted
+pregnancies either due to casual unprotected intercourse or failure of the
+contraceptive used during coitus or rapes. MTPs are also essential in
+certain cases where continuation of the pregnancy could be harmful or
+even fatal either to the mother or to the foetus or both.
+
+MTPs are considered relatively safe during the first trimester, i.e., upto
+12 weeks of pregnancy. Second trimester abortions are much more riskier.
+One disturbing trend observed is that a majority of the MTPs are performed
+illegally by unqualified quacks which are not only unsafe but could be
+fatal too. Another dangerous trend is the misuse of amniocentesis to
+determine the sex of the unborn child.  Frequently, if the foetus is found
+to be female, it is followed by MTP- this is totally against what is legal.
+Such practices should be avoided because these are dangerous both for
+the young mother and the foetus. Effective counselling on the need to
+
+62
+
+REPRODUCTIVE  HEALTH
+
+avoid unprotected coitus and the risk factors involved in illegal abortions
+as well as providing more health care facilities could reverse the mentioned
+unhealthy trend.
+
+4.4 SEXUALLY TRANSMITTED DISEASES (STDS)
+Diseases or infections which are transmitted through sexual intercourse
+are collectively called sexually transmitted diseases (STD) or venereal
+diseases (VD) or reproductive tract infections (RTI). Gonorrhoea, syphilis,
+genital herpes, chlamydiasis, genital warts, trichomoniasis, hepatitis-B
+and of course, the most discussed infection in the recent years, HIV leading
+to AIDS are some of the common STDs. Among these, HIV infection is
+most dangerous and is discussed in detail in Chapter 8.
+
+Some  of  these  infections  like  hepatitis–B  and  HIV  can  also  be
+transmitted by sharing of injection needles, surgical instruments, etc.,
+with infected persons, transfusion of blood, or from an infected mother to
+the foetus too. Except for hepatitis-B, genital herpes and HIV infections,
+other  diseases  are  completely  curable  if  detected  early  and  treated
+properly. Early symptoms of most of these are minor and include itching,
+fluid discharge, slight pain, swellings, etc., in the genital region. Infected
+females may often be asymptomatic and hence, may remain undetected
+for long. Absence or less significant symptoms in the early stages of
+infection and the social stigma attached to the STDs, deter the infected
+persons from going for timely detection and proper treatment. This could
+lead to complications later, which include pelvic inflammatory diseases
+(PID), abortions, still births, ectopic pregnancies, infertility or even cancer
+of the reproductive tract. STDs are a major threat to a healthy society.
+Therefore, prevention or early detection and cure of these diseases are
+given  prime  consideration  under  the  reproductive  health-care
+programmes. Though all persons are vulnerable to these infections, their
+incidences are reported to be very high among persons in the age group
+of 15-24 years – the age group to which you also belong. Don’t panic.
+Prevention is in your hands. You could be free of these infections if you
+follow the simple principles given below:
+
+(i) Avoid sex with unknown partners/multiple partners.
+(ii) Always use condoms during coitus.
+(iii)
+
+In case of doubt, go to a qualified doctor for early detection and
+get complete treatment if diagnosed with disease.
+
+4.5 INFERTILITY
+A discussion on reproductive health is incomplete without a mention of
+infertility. A large number of couples all over the world including India
+are infertile, i.e., they are unable to produce children inspite of unprotected
+sexual  co-habitation.  The  reasons  for  this  could  be  many–physical,
+congenital,  diseases,  drugs,  immunological  or  even  psychological.
+
+63
+
+BIOLOGY
+
+In India, often the female is blamed for the couple being childless, but
+more often than not, the problem lies in the male partner. Specialised
+health care units (infertility clinics, etc.) could help in diagnosis and
+corrective treatment of some of these disorders and enable these couples to
+have children. However, where such corrections are not possible, the couples
+could be assisted to have children through certain special techniques
+commonly known as assisted reproductive technologies (ART).
+
+In vitro fertilisation (IVF–fertilisation outside the body in almost
+similar conditions as that in the body) followed by embryo transfer (ET)
+is one of such methods. In this method, popularly known as test tube
+baby programme, ova from the wife/donor (female) and sperms from the
+husband/donor (male) are collected and are induced to form zygote under
+simulated conditions in the laboratory. The zygote or early embryos (with
+upto 8 blastomeres) could then be transferred into the fallopian tube
+(ZIFT–zygote intra fallopian transfer) and embryos with more than
+8 blastomeres, into the uterus (IUT – intra uterine transfer), to complete
+its further development. Embryos formed by in-vivo fertilisation (fusion
+of gametes within the female) also could be used for such transfer to assist
+those females who cannot conceive.
+
+Transfer of an ovum collected from a donor into the fallopian tube
+(GIFT – gamete intra fallopian transfer) of another female who cannot
+produce one, but can provide suitable environment for fertilisation and
+further development is another method attempted. Intra cytoplasmic
+sperm injection (ICSI) is another specialised procedure to form an embryo
+in the laboratory in which a sperm is directly injected into the ovum.
+Infertility cases either due to inability of the male partner to inseminate
+the female or due to very low sperm counts in the ejaculates, could be
+corrected by artificial insemination (AI) technique. In this technique,
+the semen collected either from the husband or a healthy donor is artificially
+introduced either into the vagina or into the uterus (IUI – intra-uterine
+insemination) of the female.
+
+Though options are many, all these techniques require extremely
+high  precision  handling  by  specialised  professionals  and  expensive
+instrumentation. Therefore, these facilities are presently available only
+in very few centres in the country. Obviously their benefits is affordable
+to only a limited number of people.  Emotional, religious and social
+factors are also deterrents in the adoption of these methods.  Since the
+ultimate aim of all these procedures is to have children, in India we have
+so  many  orphaned  and  destitute  children,  who  would  probably  not
+survive till maturity, unless taken care of. Our laws permit legal adoption
+and  it  is  as  yet,  one  of  the  best  methods  for  couples  looking  for
+parenthood.
+
+64
+
+REPRODUCTIVE  HEALTH
+
+SUMMARY
+
+Reproductive  health  refers  to  a  total  well-being  in  all  aspects  of
+reproduction,  i.e.,  physical,  emotional,  behavioural  and  social.  Our
+nation was the first nation in the world to initiate various action plans
+at  national  level  towards  attaining  a  reproductively  healthy  society.
+
+Counselling  and  creating  awareness  among  people  about
+reproductive  organs,  adolescence  and  associated  changes,  safe  and
+hygienic  sexual  practices,  sexually  transmitted  diseases  (STDs)
+including  AIDS,  etc.,  is  the  primary  step  towards  reproductive  health.
+Providing  medical  facilities  and  care  to  the  problems  like  menstrual
+irregularities,  pregnancy  related  aspects,  delivery,  medical  termination
+of  pregnancy,  STDs,  birth  control,  infertility,  post  natal  child  and
+maternal management is another important aspect of the Reproductive
+and  Child  Health  Care  programmes.
+
+An  overall  improvement  in  reproductive  health  has  taken  place  in
+our  country  as  indicated  by  reduced  maternal  and  infant  mortality
+rates, early detection and cure of STDs, assistance to infertile couples,
+etc. Improved health facilities and better living conditions promoted an
+explosive  growth  of  population.  Such  a  growth  necessitated  intense
+propagation  of  contraceptive  methods.  Various  contraceptive  options
+are  available  now  such  as  natural,  traditional,  barrier,  IUDs,  pills,
+injectables, implants and surgical methods. Though contraceptives are
+not  regular  requirements  for  reproductive  health,  one  is  forced  to  use
+them  to  avoid  pregnancy  or  to  delay  or  space  pregnancy.
+
+Medical termination of pregnancy is legalised in our country.  MTP is
+generally performed to get rid of unwanted pregnancy due to rapes, casual
+relationship,  etc.,  as  also  in  cases  when  the  continuation  of  pregnancy
+could be harmful or even fatal to either the mother, or the foetus or both.
+
+Diseases  or  infections  transmitted  through  sexual  intercourse  are
+called  Sexually  Transmitted  Diseases  (STDs).  Pelvic  Inflammatory
+Diseases  (PIDs),  still  birth,  infertility  are  some  of  the  complications  of
+them.  Early detection facilitate better cure of these diseases.  Avoiding
+sexual  intercourse  with  unknown/multiple  partners,  use  of  condoms
+during coitus are some of the simple precautions to avoid  contracting
+STDs.
+
+Inability  to  conceive  or  produce  children  even  after  2  years  of
+unprotected  sexual  cohabitation  is  called  infertility.  Various  methods
+are now available to help such couples. In Vitro fertilisation followed by
+transfer of embryo into the female genital tract is one such method and
+is commonly known as the ‘Test Tube Baby’ Programme.
+
+65
+
+EXERCISES
+
+BIOLOGY
+
+1. What do you think is the significance of reproductive health in a society?
+2. Suggest  the  aspects  of  reproductive  health  which  need  to  be  given
+
+special  attention  in  the  present  scenario.
+Is  sex  education  necessary  in  schools?    Why?
+
+3.
+4. Do you think that reproductive health in our country has improved in
+the past 50 years?  If yes, mention some such areas of improvement.
+
+Is  the  use  of  contraceptives  justified?    Give  reasons.
+
+5. What  are  the  suggested  reasons  for  population  explosion?
+6.
+7. Removal of gonads cannot be considered as a contraceptive option.  Why?
+8. Amniocentesis  for  sex  determination  is  banned  in  our  country.  Is  this
+
+ban  necessary?  Comment.
+
+9. Suggest  some  methods  to  assist  infertile  couples  to  have  children.
+10. What are the measures one has to take to prevent from contracting STDs?
+11. State  True/False  with  explanation
+
+(a) Abortions  could  happen  spontaneously  too.  (True/False)
+(b)
+
+Infertility  is  defined  as  the  inability  to  produce  a  viable  offspring
+and is always due to abnormalities/defects in the female partner.
+(True/False)
+
+(c) Complete  lactation  could  help  as  a  natural  method  of
+
+contraception.  (True/False)
+
+(d) Creating  awareness  about  sex  related  aspects  is  an  effective
+method to improve reproductive health of the people. (True/False)
+
+12. Correct  the  following  statements  :
+
+(a) Surgical  methods  of  contraception  prevent  gamete  formation.
+(b) All  sexually  transmitted  diseases  are  completely  curable.
+(c) Oral pills are very popular contraceptives among the rural women.
+(d) In E. T. techniques, embryos are always transferred into the uterus.
+
+66
+
+
+
+The  work  of  Mendel  and  others  who  followed  him  gave  us  an
+idea of inheritance patterns. However the nature of those ‘factors’
+which  determine  the  phenotype  was  not  very  clear.  As  these
+‘factors’ represent the genetic basis of inheritance, understanding
+the  structure  of  genetic  material  and  the  structural  basis  of
+genotype  and  phenotype  conversion  became  the  focus  of
+attention  in  biology  for  the  next  century.  The  entire  body  of
+molecular  biology  was  a  consequent  development  with  major
+contributions from Watson, Crick, Nirenberg, Khorana, Kornbergs
+(father and son), Benzer, Monod, Brenner, etc. A parallel problem
+being tackled was the mechanism of evolution. Awareness in the
+areas of molecular genetics, structural biology and bio informatics
+have  enriched  our  understanding  of  the  molecular  basis  of
+evolution. In this unit the structure and function of DNA and the
+story and theory of evolution have been examined and explained.
+
+James Dewey Watson was born in Chicago on 6 April 1928. In 1947, he
+received  B.Sc.  degree  in  Zoology.  During  these  years  his  interest  in
+bird-watching had matured into a serious desire to learn genetics. This
+became possible when he received a Fellowship for graduate study in
+Zoology at Indiana University, Bloomington, where he received his Ph.D.
+degree in 1950 on a study of the effect of hard X-rays on bacteriophage
+multiplication.
+
+He met Crick and discovered their common interest in solving the
+DNA structure. Their first serious effort, was unsatisfactory. Their second effort
+based upon more experimental evidence and better appreciation of
+the nucleic acid literature, resulted, early in March 1953, in the proposal
+of the complementary double-helical configuration.
+Francis Harry Compton Crick was born on 8 June 1916, at Northampton,
+England. He studied physics at University College, London and obtained
+a B.Sc. in 1937. He completed Ph.D. in 1954 on a thesis entitled “X-ray
+Diffraction: Polypeptides and Proteins”.
+
+A  critical  influence  in  Crick’s  career  was  his  friendship  with  J.  D.
+Watson, then a young man of 23, leading in 1953 to the proposal of
+the double-helical structure for DNA and the replication scheme. Crick
+was made an F.R.S. in 1959.
+
+The honours to Watson with Crick include: the John Collins Warren
+Prize of the Massachusetts General Hospital, in 1959; the Lasker Award,
+in  1960;  the  Research  Corporation  Prize,  in  1962  and  above  all,  the
+Nobel Prize in 1962.
+
+JAMES WATSON
+FRANCIS CRICK
+
+CHAPTER 5 PRINCIPLES OF INHERITANCE
+AND VARIATION
+
+
+Have you ever wondered why an elephant always gives
+birth only to a baby elephant and not some other animal?
+Or why a mango seed forms only a mango plant and not
+any other plant?
+
+Given that they do, are the offspring identical to their
+parents? Or do they show differences in some of their
+characteristics? Have you ever wondered why siblings
+sometimes look so similar to each other? Or sometimes
+even so different?
+
+These and several related questions are dealt with,
+scientifically, in a branch of biology known as Genetics.
+This subject deals with the inheritance, as well as the
+variation  of  characters  from  parents  to  offspring.
+Inheritance is the process by which characters are passed
+on  from  parent  to  progeny;  it  is  the  basis  of  heredity.
+Variation is the degree by which progeny differ from their
+parents.
+
+Humans knew from as early as 8000-1000 B.C. that
+one  of  the  causes  of  variation  was  hidden  in  sexual
+reproduction.  They  exploited  the  variations  that  were
+naturally present in the wild populations of plants and
+animals to selectively breed and select for organisms that
+possessed  desirable  characters.  For  example,  through
+artificial selection and domestication from ancestral
+
+BIOLOGY
+
+wild  cows,  we  have  well-known  Indian
+breeds, e.g., Sahiwal cows in Punjab. We
+must, however, recognise that though our
+ancestors knew about the inheritance of
+characters  and  variation,  they  had  very
+little idea about the scientific basis of these
+phenomena.
+
+5.1 MENDEL’S LAWS OF INHERITANCE
+It was during the mid-nineteenth century that
+headway was made in the understanding of
+inheritance.  Gregor  Mendel,  conducted
+hybridisation experiments on garden peas for
+seven  years  (1856-1863)  and  proposed  the
+laws of inheritance in living organisms. During
+Mendel’s  investigations  into  inheritance
+patterns it was for the first time that statistical
+analysis and mathematical logic were applied
+to problems in biology. His experiments had a
+large  sampling  size,  which  gave  greater
+credibility to the data that he collected. Also,
+the  confirmation  of  his  inferences  from
+experiments on successive generations of his
+test plants, proved that his results pointed to
+general rules of inheritance rather than being
+unsubstantiated  ideas.  Mendel  investigated
+characters in the garden pea plant that were
+manifested as two opposing traits, e.g., tall or
+dwarf  plants,  yellow  or  green  seeds.  This
+allowed him to set up a basic framework of
+rules  governing  inheritance,  which  was
+expanded on by later scientists to account for
+all the diverse natural observations and the
+complexity inherent in them.
+
+Figure 5.1 Seven  pairs  of  contrasting  traits  in
+
+pea  plant  studied  by  Mendel
+
+70
+
+Mendel  conducted  such  artificial
+pollination/cross  pollination  experiments
+using several  true-breeding pea lines. A true-
+breeding line is one that, having undergone
+continuous  self-pollination,  shows  the  stable  trait  inheritance  and
+expression for several generations. Mendel selected 14 true-breeding pea
+plant varieties, as pairs which were similar except for one character with
+contrasting traits. Some of the contrasting traits selected were smooth or
+wrinkled seeds, yellow or green seeds, smooth or inflated pods, green or
+yellow pods and tall or dwarf plants (Figure 5.1, Table 5.1).
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+Table  5.1: Contrasting  Traits  Studied  by
+
+Mendel  in  Pea
+
+S.No.
+
+Characters
+
+Contrasting  Traits
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+Stem height
+
+Tall/dwarf
+
+Flower colour
+
+Violet/white
+
+Flower  position Axial/terminal
+
+Pod shape
+
+Pod colour
+
+Inflated/constricted
+
+Green/yellow
+
+Seed shape
+
+Round/wrinkled
+
+Seed colour
+
+Yellow/green
+
+5.2 INHERITANCE OF ONE GENE
+Let  us  take  the  example  of  one  such
+hybridisation  experiment  carried  out  by
+Mendel where he crossed tall and dwarf pea
+plants to study the inheritance of one gene
+(Figure 5.2). He collected the seeds produced
+as a result of this cross and grew them to
+generate plants of the first hybrid generation.
+This  generation  is  also  called  the  Filial1
+progeny or the F1. Mendel observed that all
+the F1  progeny  plants were tall, like one of
+its parents; none were dwarf (Figure 15.3).
+He made similar observations for the other
+pairs of traits – he found that the F1  always
+resembled either one of the parents, and that
+the trait of the other parent was not seen in
+them.
+
+Mendel  then  self-pollinated  the  tall  F1
+plants and to his surprise found  that in the
+Filial2 generation some of the offspring were
+‘dwarf ’; the character that was not seen in
+the F1 generation was now expressed. The
+proportion of plants that were dwarf were
+1/4th of the F2 plants while 3/4th of the F2 plants were tall. The tall and
+dwarf traits were identical to their parental type and did not show any
+blending, that is all the offspring were either tall or dwarf, none were of in-
+between height (Figure 5.3).
+
+Similar results were obtained with the other traits that he studied:
+only one of the parental traits was expressed in the F1 generation while at
+the F2 stage both the traits were expressed in the proportion 3:1. The
+contrasting traits did not show any blending at either F1 or F2 stage.
+
+Figure 5.2 Steps in making a cross in pea
+
+71
+
+BIOLOGY
+
+Based  on  these  observations,
+Mendel  proposed  that  something
+was  being  stably  passed  down,
+unchanged, from parent to offspring
+through 
+the  gametes,  over
+successive  generations.  He  called
+these things as ‘factors’. Nowadays,
+we  call  them  as  genes.  Genes,
+therefore,  are  the  units  of
+inheritance.  They  contain  the
+information  that  is  required  to
+express  a  particular  trait,  in  an
+organism. Genes which code for a
+pair of contrasting traits are known
+as  alleles,  i.e.,  they  are  slightly
+different forms of the same gene.
+
+If we use  alphabetical symbols
+for each gene, then the capital letter
+is used for the trait expressed at the
+F1 stage and the small alphabet for
+the other trait. For example, in case
+of the character of height, T is used
+for the Tall trait and t for the ‘dwarf’,
+and T and t are alleles of each other.
+Hence, in plants the pair of alleles
+for  height  would  be  TT, Tt  or  tt.
+Mendel also proposed that in a true
+breeding, tall or dwarf pea variety
+the allelic pair of genes for height are
+identical or homozygous, TT and tt, respectively. TT and tt are called
+the genotype of the plant while the descriptive terms tall and dwarf are
+the phenotype. What then would be the phenotype of a plant that had
+a genotype Tt?
+
+of  monohybrid  cross
+
+Figure 5.3 Diagrammatic representation
+
+72
+
+As Mendel found the phenotype of the F1 heterozygote Tt to be exactly
+like the TT parent in appearance, he proposed that in a pair of dissimilar
+factors, one dominates the other (as in the F1 ) and hence is called the
+dominant factor while the other factor is recessive . In this case T (for
+tallness) is dominant over t (for dwarfness), that is recessive. He observed
+identical behaviour for all the other characters/trait-pairs that he studied.
+It is convenient (and logical) to use the capital and lower case of an
+alphabetical  symbol  to  remember  this  concept  of  dominance  and
+recessiveness. (Do not use T for tall and d for dwarf because you will
+find it difficult to remember whether T and d are alleles of the same
+gene/character or not). Alleles can be similar as in the case of homozygotes
+TT and tt or can be dissimilar as in the case of the heterozygote Tt. Since
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+the Tt plant is heterozygous for genes controlling
+one character (height), it is a monohybrid and the
+cross between TT and tt is a monohybrid cross.
+From the observation that the recessive parental
+trait is expressed without any blending in the F2
+generation, we can infer that, when the tall and
+dwarf plant produce gametes, by the process of
+meiosis, the alleles of the parental pair separate or
+segregate from each other and only one allele is
+transmitted to a gamete. This segregation of alleles
+is a random process and so there is a 50 per cent
+chance of a gamete containing either allele, as has
+been verified by the results of the crossings. In this
+way the gametes of the tall TT plants have the allele
+T and the gametes of the dwarf tt plants have the
+allele t. During fertilisation the two alleles, T from
+one parent say, through the pollen, and t from the
+other parent, then through the egg, are united to
+produce zygotes that have one T allele and one t
+allele.  In other words the hybrids have Tt. Since
+these  hybrids  contain  alleles  which  express
+contrasting traits, the plants are heterozygous. The
+production of gametes by the parents, the formation
+of  the  zygotes,  the  F1  and  F2  plants  can  be
+understood from a diagram called Punnett Square
+as shown in Figure 5.4. It was developed by a British
+geneticist, Reginald C. Punnett. It is a graphical
+representation to calculate the probability of all
+possible genotypes of offspring in a genetic cross.
+The  possible  gametes  are  written  on  two  sides,
+usually the top row and left columns. All  possible
+combinations are represented in boxes below in the
+squares, which generates a square output form.
+
+Figure  5.4 A  Punnett  square  used  to
+understand a typical monohybrid
+cross  conducted  by  Mendel
+between  true-breeding  tall  plants
+and  true-breeding  dwarf  plants
+
+The Punnett Square shows the parental tall TT
+(male) and dwarf tt (female) plants, the gametes
+produced by them and, the F1 Tt  progeny. The F1
+plants  of  genotype  Tt  are  self-pollinated.  The
+symbols &&&&& and %%%%% are used to denote the female
+(eggs) and male (pollen) of the F1 generation, respectively. The F1 plant of
+the genotype Tt when self-pollinated, produces gametes of the genotype
+T and t in equal proportion. When fertilisation takes place, the pollen
+grains of genotype T have a 50 per cent chance to pollinate eggs of the
+genotype T, as well as of genotype t. Also pollen grains of genotype t have
+a 50 per cent chance of pollinating eggs of genotype T, as well as of
+
+73
+
+BIOLOGY
+
+genotype t. As a result of random fertilisation, the resultant zygotes can
+be of the genotypes TT, Tt or tt.
+
+From the Punnet square it is easily seen that 1/4th of the random
+fertilisations lead to TT, 1/2 lead to Tt and 1/4th to tt. Though the F1
+have a genotype of Tt, but the phenotypic  character seen is ‘tall’. At F2,
+3/4th of the plants are tall, where some of them are TT while others are
+Tt. Externally it is not possible to distinguish between  the plants with
+the genotypes TT and Tt. Hence, within the genopytic pair Tt only one
+character ‘T’ tall is expressed. Hence the character T or ‘tall’ is said to
+dominate over the other allele t or ‘dwarf’ character. It is thus due to this
+dominance of one character over the other that all the F1 are tall (though
+the genotype is Tt) and in the F2 3/4th of  the  plants  are  tall  (though
+genotypically 1/2  are Tt and only 1/4th are TT).  This leads to a phenotypic
+ratio of 3/4th tall : (1/4 TT + 1/2 Tt) and 1/4th tt, i.e., a 3:1 ratio,  but a
+genotypic ratio of 1:2:1.
+
+The 1/4 : 1/2 : 1/4 ratio of TT: Tt: tt is mathematically condensable
+to the form of the binomial expression (ax +by)2, that has the gametes
+bearing genes T or t in equal frequency of ½. The expression is expanded
+as given below :
+
+(1/2T + 1/2 t)2  = (1/2T + 1/2t) X (1/2T + 1/2t) = 1/4 TT + 1/2Tt + 1/4 tt
+
+Mendel self-pollinated the F2 plants and found that dwarf F2 plants
+continued to generate dwarf plants in F3 and F4 generations. He concluded
+that the genotype of the dwarfs was homozygous – tt. What do you think
+he would have got had he self-pollinated a tall F2 plant?
+
+From the preceeding paragraphs it is clear that though the genotypic
+ratios  can  be  calculated  using  mathematical  probability,  but  simply
+looking at the phenotype of a dominant trait, it  is not possible to know
+the genotypic composition. That is, for example, whether a tall plant from
+F1 or F2 has TT or Tt composition, cannot be predicted. Therefore, to
+determine the genotype of a tall plant at F2, Mendel crossed the tall plant
+from F2 with a dwarf plant. This he called a test cross. In a typical test
+cross an organism (pea plants here) showing a dominant phenotype (and
+whose genotype is to be determined) is crossed with the recessive parent
+instead  of  self-crossing.  The  progenies  of  such  a  cross  can  easily  be
+analysed to predict the genotype of the test organism. Figure 5.5 shows
+the results of typical test cross where violet colour flower (W) is dominant
+over white colour flower (w).
+
+Using Punnett square, try to find out the nature of offspring of a test cross.
+
+What ratio did you get?
+
+Using the genotypes of this cross, can you give a general definition for
+a  test  cross?
+
+74
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+Figure  5.5  Diagrammatic  representation  of  a  test  cross
+
+Based on his observations on monohybrid crosses Mendel proposed
+two  general  rules  to  consolidate  his  understanding  of  inheritance  in
+monohybrid crosses. Today these rules are called the Principles or Laws
+of Inheritance: the First Law or Law of Dominance and the Second
+Law or Law of Segregation.
+
+5.2.1 Law of Dominance
+
+(i) Characters are controlled by discrete units called factors.
+(ii) Factors occur in pairs.
+(iii)
+
+In a dissimilar pair of factors one member of the pair dominates
+(dominant) the other (recessive).
+
+The law of dominance is used to explain the expression of only one of
+the parental characters in a monohybrid cross in the F1 and the expression
+of both in the F2. It also explains the proportion of 3:1 obtained at the F2.
+
+5.2.2 Law of Segregation
+
+This law is based on the fact that the alleles do not show any blending
+and that both the characters are recovered as such in the F2 generation
+though one of these is not seen at the F1 stage. Though the parents contain
+two alleles during gamete formation, the factors or alleles of a pair segregate
+from each other such that a gamete receives only one of the two factors.
+Of course, a homozygous parent produces all gametes that are similar
+while a heterozygous one produces two kinds of gametes each having
+one allele with equal proportion.
+
+75
+
+BIOLOGY
+
+5.2.2.1 Incomplete Dominance
+
+When experiments on peas were repeated using other
+traits in other plants, it was found that sometimes
+the F1 had a phenotype that did not resemble either
+of the two parents and was in between the two.  The
+inheritance  of  flower  colour  in  the  dog  flower
+(snapdragon or Antirrhinum sp.) is a good example
+to understand incomplete dominance. In a cross
+between true-breeding red-flowered (RR) and true-
+breeding white-flowered plants (rr),  the F1 (Rr) was
+pink (Figure 5.6).  When the F1  was self-pollinated
+the F2  resulted in the following ratio 1 (RR) Red : 2
+(Rr) Pink: 1 (rr) White. Here the genotype ratios were
+exactly  as  we  would  expect  in  any  mendelian
+monohybrid cross, but the phenotype ratios had
+changed from the 3:1 dominant : recessive ratio.
+What  happened  was  that  R  was  not  completely
+dominant  over  r  and  this    made  it  possible  to
+distinguish Rr as pink from  RR (red)  and rr (white) .
+Explanation  of  the  concept  of  dominance:
+What exactly is dominance? Why are some alleles
+dominant and some recessive? To tackle these
+questions, we must understand what a gene does.
+Every gene, as you know by now, contains the
+information  to  express  a  particular  trait.  In  a
+diploid organism, there are two copies of each
+gene, i.e., as a pair of alleles. Now, these two alleles
+need not always be identical, as in a heterozygote.
+One of them may be different due to some changes
+that it has undergone (about which you will read
+further on, and in the next chapter) which modifies
+the information that particular allele contains.
+
+Figure  5.6 Results of monohybrid cross in
+the  plant  Snapdragon,  where
+one  allele  is  incompletely
+dominant over the other allele
+
+Let’s take an example of a gene that contains
+the information for producing an enzyme. Now
+there are two copies of this gene, the two allelic
+forms. Let us assume (as is more common) that
+the normal allele produces the normal enzyme
+that  is  needed  for  the  transformation  of  a
+substrate S. Theoretically, the modified allele could be responsible for
+production of –
+
+76
+
+(i) the normal/less efficient enzyme, or
+(ii) a non-functional enzyme, or
+(iii) no enzyme at all
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+In the first case, the modified allele is equivalent to the unmodified allele,
+i.e., it will produce the same phenotype/trait, i.e., result in the transformation
+of substrate S. Such equivalent allele pairs are very common. But, if the
+allele produces a non-functional enzyme or no enzyme, the phenotype may
+be effected. The phenotype/trait will only be dependent on the functioning
+of the unmodified allele. The unmodified (functioning) allele, which represents
+the original phenotype is the dominant allele and the modified allele is
+generally the recessive allele. Hence, in the example above the recessive trait
+is seen due to non-functional enzyme or because no enzyme is produced.
+
+5.2.2.2  Co-dominance
+
+Till now we were discussing crosses where the F1 resembled either of the
+two parents (dominance) or was in-between (incomplete dominance). But,
+in the case of co-dominance the F1 generation resembles both parents. A
+good example is different types of red blood cells that determine ABO
+blood grouping in human beings. ABO blood groups are controlled by
+the gene I.  The plasma membrane of the red blood cells has sugar polymers
+that protrude from its surface and the kind of sugar is controlled by the
+gene. The gene (I) has three alleles IA, I B and i. The alleles I A and IB produce
+a slightly different form of the sugar while allele i doesn’t produce any
+sugar. Because humans are diploid organisms, each person possesses
+any two of the three I gene alleles. IA and I B are completely dominant over
+i, in other words when IA and i are present only IA expresses (because
+i does not produce any sugar), and when IB and i are present IB expresses.
+But when IA and IB are present together they both express their own types
+of sugars: this is because of co-dominance. Hence red blood cells have
+both A and B types of sugars. Since there are three different alleles, there
+are six different combinations of these three alleles that are possible a
+total of six different genotypes of the human ABO blood types (Table 5.2).
+How many phenotypes are possible?
+
+Table  5.2: Table Showing the Genetic Basis of Blood Groups
+
+in  Human  Population
+
+Allele from
+Parent  1
+
+Allele from
+Parent  2
+
+Genotype  of
+offspring
+
+Blood
+types of
+offspring
+
+I A
+
+I A
+
+I A
+
+I B
+
+I B
+
+I B
+
+i
+
+I A
+
+I B
+
+i
+
+I A
+
+I B
+
+i
+
+i
+
+I A I A
+
+I A I B
+
+I A i
+
+I A I B
+
+I B I B
+
+I B i
+
+i i
+
+A
+
+AB
+
+A
+
+AB
+
+B
+
+B
+
+O
+
+77
+
+BIOLOGY
+
+Do you realise that the example of ABO blood grouping also provides
+a good example of multiple alleles? Here you  can see that there are
+more than two, i.e.,  three alleles, governing the same character. Since in
+an individual only two alleles can be present, multiple alleles can be found
+only when population studies are made.
+
+Occasionally, a single gene product may produce more than one effect.
+For example, starch synthesis in pea seeds is controlled by one gene. It
+has  two  alleles  (B  and  b).  Starch  is  synthesised  effectively  by  BB
+homozygotes and therefore, large starch grains are produced. In contrast,
+bb homozygotes have lesser efficiency in starch synthesis and produce
+smaller starch grains. After maturation of the seeds, BB seeds are round
+and the bb seeds are wrinkled. Heterozygotes produce round seeds, and
+so B seems to be the dominant allele. But, the starch grains produced are
+of intermediate size in Bb seeds. So if starch grain size is considered as
+the  phenotype,  then  from  this  angle,  the  alleles  show  incomplete
+dominance.
+
+Therefore, dominance is not an autonomous feature of a gene or the
+product that it has information for. It depends as much on the gene
+product and the production of a particular phenotype from this product
+as it does on the particular phenotype that we choose to examine, in case
+more than one phenotype is influenced by the same gene.
+
+5.3 INHERITANCE OF TWO GENES
+
+Mendel also worked with and crossed pea plants that differed in two
+characters, as is seen in the cross between a pea plant that has seeds with
+yellow colour and round shape and one that had seeds of green colour
+and wrinkled shape (Figure5.7). Mendel found that the seeds resulting
+from the crossing of the parents, had yellow coloured and round shaped
+seeds.  Here  can  you  tell  which  of  the  characters  in  the  pairs  yellow/
+green colour and round/wrinkled shape was dominant?
+
+Thus,  yellow  colour  was  dominant  over  green  and  round  shape
+dominant over wrinkled. These results were identical to those that he got
+when he made separate monohybrid crosses between yellow and  green
+seeded plants and between round and wrinkled seeded plants.
+
+Let us use the genotypic symbols Y for dominant yellow seed colour
+and y for recessive green seed colour, R for round shaped seeds and r  for
+wrinkled seed shape. The genotype of the parents can then be written as
+RRYY and  rryy. The cross between the two plants can be written down
+as in Figure 5.7 showing the genotypes of the parent plants. The gametes
+RY and ry unite on fertilisation to produce the F1 hybrid RrYy. When
+Mendel self hybridised  the F1 plants he found that 3/4th of F2 plants had
+yellow seeds and 1/4th had green. The yellow and green colour segregated
+in a 3:1 ratio. Round and wrinkled seed shape also segregated in a 3:1
+ratio; just like in a monohybrid cross.
+
+78
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+Figure 5.7 Results of a dihybrid cross where the two parents differed in two pairs of
+
+contrasting  traits:  seed  colour  and  seed  shape
+
+79
+
+BIOLOGY
+
+5.3.1 Law of Independent Assortment
+
+In  the  dihybrid  cross  (Figure  5.7),  the  phenotypes  round, yellow;
+wrinkled, yellow; round, green  and wrinkled, green appeared in the
+ratio 9:3:3:1. Such a ratio was observed for several pairs of characters
+that Mendel studied.
+
+The ratio of 9:3:3:1 can be derived as a combination series of 3 yellow:
+1  green,  with  3  round  :  1  wrinkled.  This  derivation  can  be  written
+as follows:
+
+(3 Round : 1 Wrinkled)  (3 Yellow : 1 Green) = 9 Round, Yellow : 3
+
+Wrinkled, Yellow: 3 Round, Green : 1 Wrinkled, Green
+
+Based upon such observations on dihybrid crosses (crosses between
+plants differing in two traits) Mendel proposed a second set of generalisations
+that we call Mendel’s Law of Independent Assortment. The law states that
+‘when two pairs of traits are combined in a hybrid, segregation of one pair
+of characters is independent of the other pair of characters’.
+
+The  Punnett  square  can  be  effectively  used  to  understand  the
+independent segregation of the two pairs of genes during meiosis and
+the production of eggs and pollen in the F1 RrYy plant. Consider the
+segregation of one pair of genes R and r. Fifty per cent of the gametes
+have the gene R and the other 50 per cent have r. Now besides each
+gamete having either R or r, it should also have the allele Y or y.  The
+important thing to remember here is that segregation of 50 per cent R
+and 50 per cent r is independent from the segregation of 50 per cent Y
+and 50 per cent y. Therefore, 50 per cent of the r bearing gamete has Y
+and the other 50 per cent has y. Similarly, 50 per cent of the R bearing
+gamete has Y and the other 50 per cent has y. Thus there are four
+genotypes  of  gametes  (four  types  of  pollen  and four  types  of  eggs).
+The four types are  RY, Ry, rY and ry each with a frequency of 25 per
+cent or ¼th of the total gametes produced. When you write down the
+four types of eggs and pollen on the two sides of a Punnett square it is
+very easy to derive the composition of the zygotes  that give rise to the
+F2 plants    (Figure  5.7).  Although  there  are  16  squares  how  many
+different types of genotypes and phenotypes are formed? Note them
+down in the format given.
+
+Can you, using the Punnett square data work out the genotypic ratio
+at  the  F2  stage  and  fill  in  the  format  given?  Is  the  genotypic  ratio
+also 9:3:3:1?
+
+80
+
+S.No. Genotypes found in F2
+
+Their expected Phenotypes
+
+5.3.2 Chromosomal Theory of Inheritance
+
+Mendel published his work on inheritance of characters in 1865 but
+for  several  reasons,  it  remained  unrecognised  till  1900.  Firstly,
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+communication was not easy (as it is now) in those days and his work
+could not be widely publicised.  Secondly, his concept of genes (or
+factors, in Mendel’s words) as stable and discrete units that controlled
+the expression of traits and, of the pair of alleles which did not ‘blend’
+with  each  other,  was  not  accepted  by  his  contemporaries  as  an
+explanation for the apparently continuous variation seen in nature.
+Thirdly, Mendel’s approach of using mathematics to explain biological
+phenomena  was  totally  new  and  unacceptable  to  many  of  the
+biologists of his time. Finally, though Mendel’s work suggested that
+factors (genes) were discrete units, he could not provide any physical
+proof for the existence of factors or say what they were made of.
+
+In  1900,  three  Scientists  (de  Vries,  Correns  and  von  Tschermak)
+independently  rediscovered  Mendel’s  results  on  the  inheritance  of
+characters. Also, by this time due to advancements in microscopy that
+were taking place, scientists were able to carefully observe cell division.
+This led to the discovery of structures in the nucleus that appeared to
+double  and  divide  just  before  each  cell  division.  These  were  called
+chromosomes (colored bodies, as they were visualised by staining). By
+1902, the chromosome movement during meiosis had been worked out.
+Walter  Sutton  and  Theodore  Boveri  noted  that  the  behaviour  of
+chromosomes  was  parallel  to  the  behaviour  of  genes  and  used
+chromosome movement (Figure 5.8) to explain Mendel’s laws (Table 5.3).
+Recall that you have studied the behaviour of chromosomes during mitosis
+(equational  division)  and  during  meiosis  (reduction  division).  The
+important things to remember are that chromosomes as well as genes
+occur in pairs. The two alleles of a gene pair are located on homologous
+sites on homologous chromosomes.
+
+Figure  5.8 Meiosis and germ cell formation in a cell with four chromosomes.
+Can  you  see  how  chromosomes  segregate  when  germ  cells
+are  formed?
+
+81
+
+BIOLOGY
+
+Table  5.3: A  Comparison  between  the  Behaviour  of  Chromosomes
+
+and  Genes
+
+A
+
+B
+
+Occur in pairs
+
+Occur in pairs
+
+Segregate  at  the  time  of  gamete
+formation such that only one of each
+pair is transmitted to a gamete
+
+Segregate at gamete formation and only
+one  of  each  pair  is  transmitted  to  a
+gamete
+
+Independent  pairs  segregate
+independently of each other
+
+One  pair  segregates  independently  of
+another pair
+
+Can you tell which of these columns A or B represent the chromosome
+
+and which represents the gene? How did you decide?
+
+During Anaphase of meiosis I, the two chromosome pairs can align at
+the  metaphase  plate  independently  of  each  other  (Figure  5.9).  To
+understand this, compare the chromosomes of four different colour in
+the left and right columns. In the left column (Possibility I) orange and
+green is segregating together. But in the right hand column (Possibility II)
+the orange chromosome is segregating with the red chromosomes.
+
+Possibility I
+
+  Possibility II
+
+One long orange and short green          One long orange and short red
+chromosome and long yellow and       chromosome and long yellow and
+ short red chromosome at the               short green chromosome at the
+               same pole                                              same pole
+
+82
+
+Figure  5.9  Independent  assortment  of  chromosomes
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+Sutton and Boveri argued that the pairing and separation of a
+pair of chromosomes would lead to the segregation of a pair of
+factors they carried. Sutton united the knowledge of chromosomal
+segregation  with  Mendelian  principles  and  called  it  the
+chromosomal theory of inheritance.
+
+Following this synthesis of ideas, experimental verification of
+the chromosomal theory of inheritance by Thomas Hunt Morgan
+and his colleagues, led to discovering the basis for the variation
+that sexual reproduction produced. Morgan worked with the tiny
+fruit files, Drosophila melanogaster (Figure 5.10), which were
+found  very  suitable  for  such  studies.  They  could  be  grown  on
+simple synthetic medium in the laboratory. They complete their life
+cycle in about two weeks, and a single mating could produce a large
+number of progeny flies. Also, there was a clear differentiation of the
+sexes – the male and female flies are easily distinguisable. Also, it
+has many types of hereditary variations that can be seen with low
+power microscopes.
+
+5.3.3 Linkage and Recombination
+
+Morgan carried out several dihybrid crosses in Drosophila to study genes
+that were sex-linked. The crosses were similar to the dihybrid crosses carried
+out by Mendel in peas. For example Morgan hybridised yellow-bodied,
+white-eyed females to brown-bodied, red-eyed males and intercrossed their
+F1 progeny.  He observed that the two genes did not segregate independently
+of each other and the F2 ratio deviated very significantly from the 9:3:3:1
+ratio (expected when the two genes are independent).
+
+Morgan and his group knew that the genes were located on the X
+chromosome (Section 5.4) and saw quickly that when the two genes in a
+dihybrid cross were situated on the same chromosome, the proportion
+of parental gene combinations were much higher than the non-parental
+type.  Morgan attributed this due to the physical association or linkage
+of the two genes and coined the term linkage to describe this physical
+association of genes on a chromosome and the term recombination to
+describe the generation of non-parental gene combinations (Figure 5.11).
+Morgan and his group also found that even when genes were grouped
+on  the same chromosome, some genes were very tightly linked (showed
+very low recombination) (Figure 5.11, Cross A) while others were loosely
+linked  (showed  higher  recombination)  (Figure  5.11,  Cross  B).  For
+example he found that the genes white and yellow were very tightly linked
+and showed only 1.3 per cent recombination while white and miniature
+wing showed 37.2 per cent recombination. His student Alfred Sturtevant
+used the frequency of recombination between gene pairs on the same
+chromosome as a measure of the distance between genes and ‘mapped’
+their position on the chromosome. Today genetic maps are extensively
+
+(a)
+
+(b)
+
+Figure  5.10  Drosophila
+melanogaster  (a)  Male
+
+(b)  Female
+
+83
+
+used as a starting point in the sequencing of whole genomes as was done
+in the case of the Human Genome Sequencing Project, described later.
+
+BIOLOGY
+
+84
+84
+
+Figure  5.11 Linkage:  Results  of  two  dihybrid  crosses  conducted  by  Morgan.  Cross  A  shows
+crossing between gene y and w; Cross B shows crossing between genes w and m.
+Here  dominant  wild  type  alleles  are  represented  with  (+)  sign  in  superscript
+Note: The strength of linkage between y and w is higher than w and m.
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+(a)
+
+(b)
+
+5.4 SEX DETERMINATION
+The mechanism of sex determination has
+always been a puzzle before the geneticists.
+The  initial  clue  about  the  genetic/
+chromosomal  mechanism  of  sex
+determination can be traced back to some
+of the experiments carried out in insects. In
+fact, the cytological observations made in a
+number of insects led to the development of
+the concept of genetic/chromosomal basis
+of sex-determination. Henking (1891) could
+trace a specific nuclear structure all through
+spermatogenesis in a few insects, and it was
+also observed by him that 50 per  cent of the
+sperm  received  this  structure  after
+spermatogenesis, whereas the other 50 per
+cent sperm did not receive it. Henking gave
+a name to this structure as the X body but
+he could not explain its significance. Further
+investigations by other scientists led to the
+conclusion that the ‘X body’ of Henking was
+in fact a chromosome and that is why it was
+given the name X-chromosome. It was also
+observed that in a large number of insects
+the mechanism of sex determination is of the
+XO type, i.e., all eggs bear an additional
+X - c h r o m o s o m e   b e s i d e s   t h e   o t h e r
+chromosomes (autosomes). On the other
+hand,  some  of  the  sperms  bear  the
+X-chromosome  whereas  some  do  not.
+Eggs  fertilised  by  sperm  having  an
+X-chromosome  become  females  and,
+those  fertilised  by  sperms  that  do  not
+have an X-chromosome become males. Do
+you  think  the  number  of  chromosomes  in
+the male and female are equal? Due to the
+involvement  of  the  X-chromosome  in  the
+determination of sex, it was designated to
+be the sex chromosome, and the rest of the chromosomes were named
+as autosomes.Grasshopper is an example of XO type of sex determination
+in which the males have only one X-choromosome besides the autosomes,
+whereas females have a pair of X-chromosomes.
+
+These observations led to the investigation of a number of species to
+understand the mechanism of sex determination. In a number of other
+insects and mammals including man, XY type of sex determination is
+seen where both male and female have same number of chromosomes.
+
+(c)
+
+Figure  5.12 Determination  of  sex  by  chromosomal
+differences:  (a,b)  Both  in  humans  and
+in  Drosophila,  the  female  has  a  pair  of
+XX chromosomes (homogametic) and the
+male  XY  (heterogametic)  composition;
+(c)  In  many  birds,  female  has  a  pair  of
+dissimilar  chromosomes  ZW  and  male
+two similar ZZ chromosomes
+
+85
+
+BIOLOGY
+
+Among the males an X-chromosome is present but its counter part is
+distinctly smaller and called the Y-chromosome. Females, however, have
+a pair of X-chromosomes. Both males and females bear same number of
+autosomes. Hence, the males have autosomes plus XY, while female have
+autosomes plus XX. In human beings  and in Drosophila the males have
+one  X  and  one  Y  chromosome,  whereas  females  have  a  pair  of  X-
+chromosomes besides autosomes (Figure 5.12 a, b).
+
+In the above description you have studied about two types of sex
+determining mechanisms, i.e., XO type and XY type. But in both cases
+males produce two different types of gametes, (a) either with or without
+X-chromosome or (b) some gametes with X-chromosome and some with
+Y-chromosome.  Such  types  of  sex  determination  mechanism  is
+designated to be the example of male heterogamety. In some other
+organisms, e.g., birds a different mechanism of sex determination is
+observed (Figure 5.12 c). In this case the total number of chromosome
+is same in both males and females. But two different types of gametes in
+terms of the sex chromosomes, are produced by females, i.e., female
+heterogamety. In order to have a distinction with the mechanism of
+sex determination described earlier, the two different sex chromosomes
+of a female bird has been designated to be the Z and W chromosomes.
+In these organisms the females have one Z and one W chromosome,
+whereas males have a pair of Z-chromosomes besides the autosomes.
+
+5.4.1 Sex Determination in Humans
+
+It has already been mentioned that the sex determining mechanism in
+case of humans is XY type. Out of 23 pairs of chromosomes present, 22
+pairs are exactly same in both males and females; these are the autosomes.
+A pair of X-chromosomes are present in the female, whereas the presence
+of an X and Y chromosome are determinant of the male characteristic.
+During spermatogenesis among males, two types of gametes are produced.
+50 per cent of the total sperm produced carry the X-chromosome and
+the rest 50 per cent has Y-chromosome besides the autosomes. Females,
+however, produce only one type of ovum with an X-chromosome. There
+is an equal probability of fertilisation of the ovum with the sperm carrying
+either  X  or  Y  chromosome.  In  case  the  ovum  fertilises  with  a  sperm
+carrying X-chromosome the zygote develops into a female (XX) and the
+fertilisation of ovum with Y-chromosome carrying sperm results into a
+male offspring. Thus, it is evident that it is the genetic makeup of the
+sperm that determines the sex of the child. It is also evident that in each
+pregnancy there is always 50 per cent probability of either a male or a
+female child. It is unfortunate that in our society women are blamed for
+producing  female  children  and  have  been  ostracised  and  ill-treated
+because of this false notion.
+
+How  is  the  sex-determination  mechanism  different  in  the  birds?
+
+Is the sperm or the egg responsible for the sex of the chicks?
+
+86
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+5.5 MUTATION
+
+Mutation is a phenomenon which results in alteration of DNA sequences
+and consequently results in changes in the genotype and the phenotype
+of  an  organism.  In  addition  to  recombination,  mutation  is  another
+phenomenon that leads to variation in DNA.
+
+As you will learn in Chapter 6, one DNA helix runs continuously from
+one end to the other in each chromatid, in a highly supercoiled form.
+Therefore loss (deletions) or gain (insertion/duplication) of a segment of
+DNA, result in alteration in chromosomes. Since genes are known to be
+located  on  chromosomes,  alteration  in  chromosomes  results  in
+abnormalities or aberrations. Chromosomal aberrations are commonly
+observed in cancer cells.
+
+In addition to the above, mutation also arise due to change in a single
+base pair of DNA. This is known as point mutation. A classical example of
+such a mutation is sickle cell anemia. Deletions and insertions of base
+pairs of DNA, causes frame-shift mutations (see Chapter 6).
+
+The mechanism of mutation is beyond the scope of this discussion, at
+this level. However, there are many chemical and physical factors that
+induce mutations. These are referred to as mutagens. UV radiations can
+cause mutations in organisms – it is a mutagen.
+
+5.6 GENETIC DISORDERS
+5.6.1 Pedigree Analysis
+
+The idea that disorders are inherited has been prevailing in the human
+society  since  long.  This  was  based  on  the  heritability  of  certain
+characteristic features in families. After the rediscovery of Mendel’s work
+the practice of analysing inheritance pattern of traits in human beings
+began. Since it is evident that control crosses that can be performed in
+pea plant or some other organisms, are not possible in case of human
+beings, study of the family history about inheritance of a particular trait
+provides  an  alternative.  Such  an  analysis  of  traits  in  a  several  of
+generations of a family is called the pedigree analysis. In the pedigree
+analysis the inheritance of a particular trait is represented in the family
+tree over generations.
+
+In human genetics, pedigree study provides a strong tool, which is
+utilised to trace the inheritance of a specific trait, abnormality or disease.
+Some of the important standard symbols used in the pedigree analysis
+have been shown in Figure 5.13.
+
+As you have studied in this chapter, each and every feature in any
+organism is controlled by one or the other gene located on the DNA present
+in the chromosome. DNA is the carrier of genetic information. It is hence
+transmitted from one generation to the other without any change or
+
+87
+
+BIOLOGY
+
+alteration. However, changes or alteration do take
+place occasionally. Such an alteration or change in
+the  genetic  material  is  referred  to  as  mutation.  A
+number  of  disorders  in  human  beings  have  been
+found to be associated with the inheritance of changed
+or altered genes or chromosomes.
+
+5.6.2 Mendelian Disorders
+
+Broadly, genetic disorders may be grouped into two
+categories – Mendelian disorders and Chromosomal
+disorders.  Mendelian  disorders  are  mainly
+determined by alteration or mutation in the single
+gene. These disorders are transmitted to the offspring
+on the same lines as we have studied in the principle
+of inheritance. The pattern of inheritance of such
+Mendelian disorders can be traced in a family by
+the  pedigree  analysis.  Most  common  and
+prevalent  Mendelian  disorders  are  Haemophilia,
+Cystic fibrosis, Sickle-cell anaemia, Colour blindness,
+Phenylketonuria, Thalesemia, etc. It is important to
+mention here that such Mendelian disorders may be
+dominant or recessive. By pedigree analysis one can
+easily understand whether the trait in question is
+dominant or recessive. Similarly, the trait may also
+be  linked  to  the  sex  chromosome  as  in  case  of
+haemophilia. It is evident that this X-linked recessive
+trait  shows  transmission  from  carrier  female  to  male  progeny.  A
+representative pedigree is shown in Figure 5.14 for dominant and recessive
+traits, discuss with your teacher and design pedigrees for characters linked
+to both autosomes and sex chromosome.
+
+Figure 5.13 Symbols  used  in  the  human
+
+pedigree analysis
+
+88
+
+(a)
+
+(b)
+
+Figure  5.14 Representative  pedigree  analysis  of  (a)  Autosomal  dominant  trait  (for  example:
+Myotonic  dystrophy)  (b)  Autosomal  recessive  trait  (for  example:  Sickle-cell  anaemia)
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+Haemophilia  :  This  sex  linked  recessive  disease,  which  shows  its
+transmission from unaffected carrier female to some of the male progeny
+has been widely studied. In this disease, a single protein that is a part of
+the cascade of proteins involved in the clotting of blood is affected. Due to
+this, in an affected individual a simple cut will result in non-stop bleeding.
+The heterozygous female (carrier) for haemophilia may transmit the disease
+to sons. The possibility of a female becoming a haemophilic is extremely
+rare because mother of such a female has to be at least carrier and the
+father should be haemophilic (unviable in the later stage of life). The family
+pedigree of Queen Victoria shows a number of haemophilic descendents
+as she was a carrier of the disease.
+Sickle-cell anaemia : This is an autosome linked recessive trait that can
+be transmitted from parents to the offspring when both the partners are
+carrier for the gene (or heterozygous). The disease is controlled by a single
+pair of allele, HbA and HbS. Out of the three possible genotypes only
+homozygous individuals for HbS (HbSHbS) show the diseased phenotype.
+Heterozygous (HbAHbS) individuals appear apparently unaffected but they
+are carrier of the disease as there is 50 per cent probability of transmission
+of the mutant gene to the progeny, thus exhibiting sickle-cell trait (Figure
+5.15). The defect is caused by the substitution of Glutamic acid (Glu) by
+
+Figure 5.15 Micrograph of the red blood cells and the amino acid composition of the relevant portion
+of β-chain of haemoglobin: (a) From a normal individual; (b) From an individual with
+sickle-cell anaemia
+
+89
+
+BIOLOGY
+
+Valine (Val) at the sixth position of the beta globin chain of the haemoglobin
+molecule. The substitution of amino acid in the globin protein results
+due to the single base substitution at the sixth codon of the beta globin
+gene from GAG to GUG. The mutant haemoglobin molecule undergoes
+polymerisation under low oxygen tension causing the change in the shape
+of  the  RBC  from  biconcave  disc  to  elongated  sickle  like  structure
+(Figure 5.15).
+
+Phenylketonuria : This inborn error of metabolism is also inherited as
+the autosomal recessive trait. The affected individual lacks an enzyme
+that converts the amino acid phenylalanine into tyrosine. As a result of
+this phenylalanine is accumulated and converted into phenylpyruvic acid
+and other derivatives. Accumulation of these in brain results in mental
+retardation. These are also excreted through urine because of its poor
+absorption by kidney.
+
+5.6.3 Chromosomal disorders
+The chromosomal disorders on the other hand are caused due to absence
+or excess or abnormal arrangement of one or more chromosomes.
+
+Failure of segregation of chromatids during cell division cycle results
+in the gain or loss of a chromosome(s), called aneuploidy. For example,
+Down’s syndrome results in the gain of extra copy of chromosome 21.
+Similarly, Turner’s syndrome results due to loss of an X chromosome in
+human females. Failure of cytokinesis after telophase stage of cell division
+results in an increase in a whole set of chromosomes in an organism and,
+
+Flat back of head
+Many “loops” on
+finger  tips
+
+Palm  crease
+
+Broad  flat  face
+
+Big  and  wrinkled
+tongue
+
+Congenital  heart
+disease
+
+90
+
+Figure  5.16 A  representative  figure  showing  an  individual  inflicted  with  Down’s
+
+syndrome and the corresponding chromosomes of the individual
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+this phenomenon is known as polyploidy. This
+condition is often seen in plants.
+
+The total number of chromosome of a normal
+human being is 46 (23 pairs). Out of these 22
+pairs  are  autosomes  and  one  pair  of
+chromosomes  are  sex  chromosome.
+Sometimes,  though  rarely,  either  an
+additional  copy  of  a  chromosome  may  be
+included in an individual or an individual may
+lack  one  of  any  one  pair  of  chromosomes.
+These  situations  are  known  as  trisomy  or
+monosomy  of  a  chromosome,  respectively.
+Such  a  situation  leads  to  very  serious
+consequences  in  the  individual.  Down’s
+syndrome,  Turner’s  syndrome,  Klinefelter’s
+syndrome  are  common  examples  of
+chromosomal disorders.
+
+Down’s Syndrome : The cause of this genetic
+disorder is the presence of an additional copy
+of the chromosome number 21 (trisomy of 21).
+This disorder was first described by Langdon
+Down (1866). The affected individual is short
+statured  with  small  round  head,  furrowed
+tongue and partially open mouth (Figure 5.16).
+Palm is broad with characteristic palm crease.
+Physical, psychomotor and mental development
+is retarded.
+
+Klinefelter’s  Syndrome  :  This  genetic
+disorder is also caused due to the presence of
+an additional copy of X-chromosome resulting
+into  a  karyotype  of  47,  XXY.  Such  an
+individual has overall masculine development
+,  however,  the  feminine  development
+(development of breast, i.e., Gynaecomastia)
+is  also  expressed  (Figure  5.17  a).  Such
+individuals are sterile.
+
+Turner’s  Syndrome  :  Such  a  disorder  is
+caused  due  to  the  absence  of  one  of  the  X
+chromosomes, i.e., 45 with  X0, Such females
+are sterile as ovaries are rudimentary besides
+other features including lack of other secondary
+sexual characters (Figure 5.17 b).
+
+(b)
+
+(a)
+
+Tall  stature
+
+with  feminised
+
+character
+
+Short  stature  and
+underdeveloped
+
+feminine  character
+
+Figure  5.17  Diagrammatic  represe-
+ntation of genetic disorders due to sex
+chromosome composition in humans :
+(a)  Klinefelter  Syndrome;  (b)  Turner’s
+Syndrome
+
+91
+
+BIOLOGY
+
+SUMMARY
+
+Genetics is a branch of biology which deals with principles of inheritance
+and  its  practices.  Progeny  resembling  the  parents  in  morphological  and
+physiologycal  features  has  attracted  the  attention  of  many  biologists.
+Mendel  was  the  first  to  study  this  phenomenon  systematically.  While
+studying  the  pattern  of  inheritance  in  pea  plants  of  contrasting
+characters,  Mendel  proposed  the  principles  of  inheritance,  which  are
+today  referred  to  as  ‘Mendel’s  Laws  of  Inheritance’.  He  proposed  that
+the ‘factors’ (later named as genes) regulating the characters are found
+in  pairs  known  as  alleles.  He  observed  that  the  expression  of  the
+characters  in  the  offspring  follow  a  definite  pattern  in  different–first
+generations (F1), second (F2) and so on. Some characters are dominant
+over  others.  The  dominant  characters  are  expressed  when  factors  are
+in heterozygous condition (Law of Dominance). The recessive characters
+are  only  expressed  in  homozygous  conditions.  The  characters  never
+blend  in  heterozygous  condition.  A  recessive  character  that  was  not
+expressed  in  heterozygous  conditon  may  expressed  again  when  it
+becomes  homozygous.  Hence,  characters  segregate  while  formation  of
+gametes  (Law  of  Segregation).
+
+Not  all  characters  show  true  dominance.  Some  characters  show
+incomplete,  and  some  show  co-dominance.  When  Mendel  studied  the
+inheritance  of  two  characters  together,  it  was  found  that  the  factors
+independently  assort  and  combine  in  all  permutations  and
+combinations (Law of Independent Assortment). Different combinations
+of gametes are theoretically represented in a square tabular form known
+as ‘Punnett Square’.  The factors (now known as gene) on chromosomes
+regulating  the  characters  are  called  the  genotype  and  the  physical
+expression  of  the  chraracters  is  called  phenotype.
+
+After  knowing  that  the  genes  are  located  on  the  chromosomes,  a
+good  correlation  was  drawn  between  Mendal’s  laws  :  segregation  and
+assortment  of  chromosomes  during  meiosis.  The  Mendel’s  laws  were
+extended  in  the  form  of  ‘Chromosomal  Theory  of  Inheritance’.  Later,  it
+was found that Mendel’s law of independent assortment does not hold
+true for the genes that were located on the same chromosomes. These
+genes  were  called  as  ‘linked  genes’.  Closely  located  genes  assorted
+together,  and  distantly  located  genes,  due  to  recombination,  assorted
+independently.  Linkage  maps,  therefore,  corresponded  to  arrangement
+of genes on a chromosome.
+
+Many  genes  were  linked  to  sexes  also,  and  called  as  sex-linked
+genes.  The  two  sexes  (male  and  female)  were  found  to  have  a  set  of
+chromosomes  which  were  common,  and  another  set  which  was
+different.  The  chromosomes  which  were  different  in  two  sexes  were
+named  as  sex  chromosomes.  The  remaining  set  was  named  as
+autosomes.  In  humans,  a  normal  female  has  22  pairs  of  autosomes
+
+92
+
+PRINCIPLES  OF  INHERITANCE  AND  VARIATION
+
+and a pair of sex chromosomes (XX). A male has 22 pairs of autosomes
+and a pair of sex chromosome as XY. In chicken, sex chromosomes in
+male are ZZ, and in females are ZW.
+
+Mutation  is  defined  as  change  in  the  genetic  material.  A  point
+mutation is a change of a single base pair in DNA. Sickle-cell anemia is
+caused  due  to  change  of  one  base  in  the  gene  coding  for  beta-chain  of
+hemoglobin.  Inheritable  mutations  can  be  studied  by  generating  a
+pedigree  of  a  family.  Some  mutations  involve  changes  in  whole  set  of
+chromosomes (polyploidy) or change in a subset of chromosome number
+(aneuploidy).  This  helped  in  understanding  the  mutational  basis  of
+genetic disorders. Down’s syndrome is due to trisomy of chromosome 21,
+where  there  is  an  extra  copy  of  chromosome  21  and  consequently  the
+total number of chromosome becomes 47. In Turner’s syndrome, one X
+chromosome  is  missing  and  the  sex  chromosome  is  as  XO,  and  in
+Klinefelter’s syndrome, the condition is XXY. These can be easily studied
+by  analysis  of  Karyotypes.
+
+EXERCISES
+
+1. Mention the advantages of selecting pea plant for experiment by Mendel.
+
+2. Differentiate  between  the  following  –
+
+(a)  Dominance  and  Recessive
+
+(b) Homozygous and Hetrozygous
+
+(c)  Monohybrid  and  Dihybrid.
+
+3. A diploid organism is heterozygous for 4 loci, how many types of gametes
+
+can  be  produced?
+
+4. Explain  the  Law  of  Dominance  using  a  monohybrid  cross.
+
+5. Define  and  design  a  test-cross.
+
+6. Using a Punnett Square, workout the distribution of phenotypic features
+in the first filial generation after a cross between a homozygous female
+and a heterozygous male for a single locus.
+
+7. When  a  cross  in  made  between  tall  plant  with  yellow  seeds    (TtYy)  and
+tall  plant  with  green  seed  (Ttyy),  what  proportions  of  phenotype  in  the
+offspring could be expected to be
+
+(a)  tall  and  green.
+
+(b)  dwarf  and  green.
+
+93
+
+BIOLOGY
+
+8. Two  heterozygous  parents  are  crossed.  If  the  two  loci  are  linked  what
+would be the distribution of phenotypic features in F1 generation for a
+dibybrid  cross?
+
+9. Briefly  mention  the  contribution  of  T.H.  Morgan  in  genetics.
+
+10. What is pedigree analysis? Suggest how such an analysis, can be useful.
+
+11. How  is  sex  determined  in  human  beings?
+
+12. A child has blood group O. If the father has blood group A and mother
+blood group B, work out the genotypes of the parents and the possible
+genotypes  of  the  other  offsprings.
+
+13. Explain  the  following  terms  with  example
+
+(a) Co-dominance
+
+(b) Incomplete  dominance
+
+14. What is point mutation? Give one example.
+
+15. Who  had  proposed  the  chromosomal  theory  of  the  inheritance?
+
+16. Mention  any  two  autosomal  genetic  disorders  with  their  symptoms.
+
+94
+
+
