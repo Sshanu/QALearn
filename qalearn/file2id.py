@@ -48,7 +48,6 @@ def file2id(text_file_loc):
 	print(ids)
 	# print(contents)
 	id2ids = dict((w, i) for i, w in enumerate(ids))
-
 	def find_section(final_str, section_id, section_title):
 		try:
 		#         regex = "(" + section_id + "|" + str(int(section_id)+1)+ ")"  + "\s*" +section_title 
@@ -136,13 +135,16 @@ def file2id(text_file_loc):
 		end = find_section(final_str, index_list[i+1][2], index_list[i+1][1])
 		if(end>start):
 			sections.append(final_str[start:end])
-
-			for j in range(id2ids[index_list[i+1][2]]):
+			for j in range(id2ids[index_list[i][2]]):
 				regex = ids[j] + "\s+" + contents[j]
-				sections[-1] = re.sub(regex, "", sections[-1])
+				try:
+					tt = re.search(regex, sections[-1])
+					sections[-1] = sections[-1][:tt.start()]
+				except:
+					tt = 0
 			sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
 			sections[-1] = re.sub(r'\n(\d\.)+\d\.?\s+', '', sections[-1])
-			print("len", index_list[i][2], len(sections[-1]))
+			# print("len", index_list[i][2], len(sections[-1]))
 			# sections[-1] = re.sub(r'')
 			final_str = final_str[end:]
 			print("pass", i)
@@ -155,9 +157,13 @@ def file2id(text_file_loc):
 	sections.append(final_str[start:])
 	for j in range(id2ids[index_list[len(index_list)-1][2]]):
 		regex = ids[j] + "\s+" + contents[j]
-		sections[-1] = re.sub(regex, "", sections[-1])
+		try:
+			tt = re.search(regex, sections[-1])
+			sections[-1] = sections[-1][:tt.start()]
+		except:
+			tt = 0
 	sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
 	sections[-1] = re.sub(r'\s?(\d\.)+\d\.?\s+', '', sections[-1])
-	print("len", index_list[len(index_list)-1][2], len(sections[-1]))
+	# print("len", index_list[len(index_list)-1][2], len(sections[-1]))
     
 	return index_list, sections, flag
