@@ -48,6 +48,25 @@ def file2id(text_file_loc):
 	print(ids)
 	# print(contents)
 	id2ids = dict((w, i) for i, w in enumerate(ids))
+
+	def breakdown(text, max_char):
+		regex = "\.\s"
+		try:
+			match = re.search(regex, text[max_char-100: max_char+500])
+			start = match.start()
+		except:
+			try:
+				match = re.search(regex, text[max_char-500:max_char+500])
+				start = match.start()
+			except:
+				try:
+					match = re.search(regex, text[max_char-700:max_char+700])
+					start = match.start()
+				except:
+					start = max_char
+
+		return text[:start+1+max_char], text[max_char + start+1:]
+
 	def find_section(final_str, section_id, section_title):
 		try:
 		#         regex = "(" + section_id + "|" + str(int(section_id)+1)+ ")"  + "\s*" +section_title 
@@ -129,7 +148,7 @@ def file2id(text_file_loc):
 	# final_str = test_str[last:]    
 
 	start = find_section(final_str, index_list[0][2], index_list[0][1])
-
+	new_index_list = []
 	sections = []
 	for i in range(len(index_list)-1):
 		end = find_section(final_str, index_list[i+1][2], index_list[i+1][1])
@@ -144,7 +163,12 @@ def file2id(text_file_loc):
 					tt = 0
 			sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
 			sections[-1] = re.sub(r'\n(\d\.)+\d\.?\s+', '', sections[-1])
-			print("len", index_list[i][2], len(sections[-1]))
+			new_index_list.append(index_list[i])
+			while(len(sections[-1])>=1000):
+				sections[-1], temp_str = breakdown(sections[-1], 1000)
+				sections.append(temp_str)
+				new_index_list.append(index_list[i])
+				print("len", index_list[i][2], len(sections[-1]))
 			# sections[-1] = re.sub(r'')
 			final_str = final_str[end:]
 			print("pass", i)
@@ -164,6 +188,11 @@ def file2id(text_file_loc):
 			tt = 0
 	sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
 	sections[-1] = re.sub(r'\s?(\d\.)+\d\.?\s+', '', sections[-1])
-	print("len", index_list[len(index_list)-1][2], len(sections[-1]))
-    
-	return index_list, sections, flag
+	new_index_list.append(index_list[len(index_list)-1])
+	while(len(sections[-1])>2000):
+		sections[-1], temp_str = breakdown(sections[-1], 2000)
+		sections.append(temp_str)
+		new_index_list.append(index_list[len(index_list)-1])
+		print("len", index_list[len(index_list)-1][2], len(sections[-1]))
+
+	return new_index_list, sections, flag
