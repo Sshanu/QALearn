@@ -64,7 +64,7 @@ def file2id(text_file_loc):
 					start = match.start()
 				except:
 					start = max_char
-
+					return text[:start+1], text[start+1:]
 		return text[:start+1+max_char], text[max_char + start+1:]
 
 	def find_section(final_str, section_id, section_title):
@@ -164,8 +164,8 @@ def file2id(text_file_loc):
 			sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
 			sections[-1] = re.sub(r'\n(\d\.)+\d\.?\s+', '', sections[-1])
 			new_index_list.append(index_list[i])
-			while(len(sections[-1])>=1000):
-				sections[-1], temp_str = breakdown(sections[-1], 1000)
+			while(len(sections[-1])>1500):
+				sections[-1], temp_str = breakdown(sections[-1], 1500)
 				sections.append(temp_str)
 				new_index_list.append(index_list[i])
 				print("len", index_list[i][2], len(sections[-1]))
@@ -189,8 +189,8 @@ def file2id(text_file_loc):
 	sections[-1] = re.sub(r'\s{2,}', ' ', sections[-1])
 	sections[-1] = re.sub(r'\s?(\d\.)+\d\.?\s+', '', sections[-1])
 	new_index_list.append(index_list[len(index_list)-1])
-	while(len(sections[-1])>2000):
-		sections[-1], temp_str = breakdown(sections[-1], 2000)
+	while(len(sections[-1])>1500):
+		sections[-1], temp_str = breakdown(sections[-1], 1500)
 		sections.append(temp_str)
 		new_index_list.append(index_list[len(index_list)-1])
 		print("len", index_list[len(index_list)-1][2], len(sections[-1]))
